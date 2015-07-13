@@ -50,7 +50,7 @@ AUTHOR_FEED_RSS = None
 PYGMENTS_STYLE = 'vim'
 
 # Blogroll
-LINKS = (('PHIL 232', 'http://http://colinmclear.net/phil-232-early-modern-philosophy/'),
+LINKS = (('PHIL 232', 'http://colinmclear.net/phil-232-early-modern-philosophy/'),
         ('PHIL 971', 'http://colinmclear.net/phil-971-introspection-self-knowledge/'),
         ('Blackboard', 'https://my.unl.edu/webapps/portal/frameset.jsp'),
         ('UNL Philosophy', 'http://www.unl.edu/philosophy/'))
