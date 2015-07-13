@@ -1,0 +1,4 @@
+AuthUserFile |filename|/content/extras/.htpasswd
+AuthType Basic
+AuthName "Kant Readings"
+Require valid-user

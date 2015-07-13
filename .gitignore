@@ -1,0 +1,4 @@
+
+output/*
+*.py[cod]
+pelican-themes/
