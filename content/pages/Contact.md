@@ -11,8 +11,10 @@ Email: <a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#109;&#99;&#108;&#101;&
 
 
 Email is the best way to reach me. I answer emails on weekdays, usually within
-24 hrs. Students, please check your syllabus before emailing your question. If
-it is covered in the syllabus I likely won't respond. If you would like a
+24 hrs. 
+
+Students, please check your syllabus before emailing your question. If
+it is covered in the syllabus, I likely won't respond. If you would like a
 response, please adhere to these basic email etiquette guidelines:
 
 - Remember to include your full name and course/section.
