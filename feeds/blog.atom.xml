@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Colin McLear</title><link href="/" rel="alternate"></link><link href="/feeds/blog.atom.xml" rel="self"></link><id>/</id><updated>2015-07-13T00:00:00-04:00</updated><entry><title>New site design</title><link href="/2015/new-site-design" rel="alternate"></link><updated>2015-07-13T00:00:00-04:00</updated><author><name>Colin McLear</name></author><id>tag:,2015-07-13:2015/new-site-design</id><summary type="html">&lt;p&gt;I&amp;#8217;ve update the website with (what I hope is) a cleaner look and a bit better
+navigation. Thanks go to &lt;a href="https://github.com/DandyDev"&gt;DandyDev&lt;/a&gt; for developing
+a great &lt;a href="https://github.com/DandyDev/pelican-bootstrap3"&gt;bootstrap theme&lt;/a&gt; for
+&lt;a href="http://blog.getpelican.com"&gt;Pelican&lt;/a&gt;. I&amp;#8217;ll be continuing to tweak here and
+there so apologies if you find broken links or other&amp;nbsp;infelicities.&lt;/p&gt;</summary></entry></feed>
