@@ -1,4 +1,6 @@
+---
 Title: Research
+---
 
 Though I have quite general interests in the history of seventeenth and
 eighteenth century European philosophy, my work mostly focuses on issues
@@ -22,8 +24,7 @@ research programs in philosophy of mind and metaphysics.
 ### Upcoming Conferences & Presentations ###
 
 - May 1-2, 2015: Organizer, UNL Chambers Philosophy Conference – [Kant on
-  Introspection, Self-Consciousness, & Self-Knowledge](|filename|/pages/KantConference.md)
-- April 2, 2015: Pacific APA, Vancouver - "Definition and Essence in the
+  Introspection, Self-Consciousness, & Self-Knowledge]({filename}/pages/KantConference.md) - April 2, 2015: Pacific APA, Vancouver - "Definition and Essence in the
   *Metaphysical Foundations of Natural Science*"
 - January 16, 2015: Workshop on Kant and the Mind, Oxford University -
   "Comments on Stefanie Grüne on the Object-Dependence of Intuition"
