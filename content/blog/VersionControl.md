@@ -7,15 +7,44 @@ modified:
 status: draft
 ---
 
+Academic writing requires writing something in drafts. Many drafts. Until
+recently there have been few ways of elegantly handling this. Often, one would
+need to title the current draft with the day's date, then save this draft in a
+folder (named, e.g., "drafts" or "versions"), and do this every time one sits
+down to write. This works, in some ways. The data is there. The problem is that
+you quickly end up with a folder (or desktop's) worth of files. These filenames
+have typically ridiculous and increasingly obscure titles (e.g.
+4_26_13_Really_Final_FinalPaper.docx). And it is seldom clear, using this
+method, exactly what one did when, without actually opening a particular file
+and looking, or trying to remember when (and where) it was that one made the
+relevant change. Nowadays, especially if you use some sort of cloud-based
+word-processor, it's likely that you have access to various ways of looking at
+your version history. For example, Google docs has a [revision
+history](https://support.google.com/docs/answer/190843?hl=en) option (something
+similar exists for [Dropbox](http://www.macinstruct.com/node/516), which lets
+you easily move back and forth among different versions. Revision histories of
+this kind offer a way to automatically back up one's writing. This is especially
+helpful if you're not the type of person to carefully name each day's writing
+with a new time/date stamp and save them all in the appropriate folder. But at
+least two things are missing. First, there is no straightforward way of seeing
+what has changed where, and to see this at arbitrary levels of granularity.
+Second, in order to see what's changed when, you have to look in the document
+itself. There is no general log of the changes you've made to the file.  
+
+
+
+
+. . . 
+
 While everyone's writing process is different, one thing in academic writing is
 for certain: anything you write is going to see many revisions. A common way to
 handle such revisions is to title the current draft with the day's date. Save
 this draft in a folder (named, e.g., "drafts" or "versions"), and do this every
-time one sits down to write. The problem is that you quickly end up with a folder (or desktop's)
-worth of files. And it is seldom clear, using this method, exactly what one did
-when, without actually opening a particular file and looking, or trying to
-remember when it was that one made the relevant change. This is where a more
-sophisticated kind of [version
+time one sits down to write. The problem is that you quickly end up with a
+folder (or desktop's) worth of files. And it is seldom clear, using this method,
+exactly what one did when, without actually opening a particular file and
+looking, or trying to remember when it was that one made the relevant change.
+This is where a more sophisticated kind of [version
 control](https://en.wikipedia.org/wiki/Revision_control) becomes useful. A
 version control system can manage changes to a file at an extremely fine level
 of grain--down to a line or character if necessary. While this is obviously

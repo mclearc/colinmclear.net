@@ -18,9 +18,10 @@ PAGE_SAVE_AS = '{slug}/index.html'
 #     'status': 'draft',
 # }
 
+READERS = {'html': None}
 DELETE_OUTPUT_DIRECTORY = True
 PATH = 'content'
-STATIC_PATHS = ['images', 'pdfs', 'themes', 'extra/CNAME', 'extra/custom.css', 'blog', 'pages/phil101', 'pages/phil232', 'pages/phil871', 'pages/phil971']
+STATIC_PATHS = ['images', 'pdfs', 'themes', 'extra/McLearCV.html', 'extra/CNAME', 'extra/custom.css', 'blog', 'pages/phil101', 'pages/phil232', 'pages/phil871', 'pages/phil971']
 EXTRA_PATH_METADATA = {'extra/CNAME': {'path': 'CNAME'}, 'extra/custom.css': {'path': 'static/custom.css'}}
 # ARTICLE_PATHS = ['blog']
 ARTICLE_SAVE_AS = '{date:%Y}/{slug}.html'
@@ -37,7 +38,6 @@ DEFAULT_LANG = u'en'
 
 THEME='/Users/Roambot/Dropbox/Personal/Hacks/colinmclear.net-pelican/pelican-bootstrap3'
 BOOTSTRAP_THEME='simplex'
-# BOOTSTRAP_THEME='cosmo'
 # Change navbar color
 BOOTSTRAP_NAVBAR_INVERSE = True
 HIDE_SIDEBAR = False

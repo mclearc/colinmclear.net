@@ -9,7 +9,7 @@
   }
 
 body {
-    font-family: 'Quattrocento Sans',Avenir,Helvetica,Arial, sans-serif;
+    font-family: 'Quattrocento Sans',sans-serif;
     font-size: 17px; 
     line-height: 1.628571; 
     color: black;
@@ -19,5 +19,16 @@ footer {
   font-size: 12px;
 }
 
+h1 {
+  font-family: Avenir,sans-serif;
 
-/* @import ulr("//fonts.googleapis.com/css?family=Quattrocento+Sans:400,400italic,700,700italic&subset=latin,greek");/*! */
+}
+
+h2 {
+  font-family: Avenir,sans-serif;
+
+}
+h3 {
+  font-family: Avenir,sans-serif;
+
+}
