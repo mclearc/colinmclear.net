@@ -14,6 +14,7 @@ Philosophy of Mind. Here you'll find links to my
 [teaching]({filename}/pages/Teaching.md), as well as the occasional [blog
 post](http://colinmclear.net/category/blog).
 
-If you're interested, here's my complete [CV]({filename}/pdfs/McLearCV.pdf) (PDF).
+If you're interested, here's my complete CV: [PDF]({filename}/pdfs/McLearCV.pdf) 
+| [HTML]({filename}/extra/McLearCV.html).
 
 
