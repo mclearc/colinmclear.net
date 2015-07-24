@@ -4,10 +4,9 @@ author: Colin McLear
 date: 2015-07-17
 tags: geekery, writing, workflows
 modified: 
-status: draft
 ---
 
-Academic writing requires writing something in drafts. Many drafts. Until
+Academic writing typically requires writing something in drafts. Many drafts. Until
 recently there have been few ways of elegantly handling this. Often, one would
 need to title the current draft with the day's date, then save this draft in a
 folder (named, e.g., "drafts" or "versions"), and do this every time one sits
@@ -17,84 +16,66 @@ have typically ridiculous and increasingly obscure titles (e.g.
 4_26_13_Really_Final_FinalPaper.docx). And it is seldom clear, using this
 method, exactly what one did when, without actually opening a particular file
 and looking, or trying to remember when (and where) it was that one made the
-relevant change. Nowadays, especially if you use some sort of cloud-based
-word-processor, it's likely that you have access to various ways of looking at
-your version history. For example, Google docs has a [revision
+relevant change. 
+
+Nowadays, especially if you use some sort of cloud-based word-processor, it's
+likely that you have access to various ways of looking at your version history.
+For example, Google docs has a [revision
 history](https://support.google.com/docs/answer/190843?hl=en) option (something
 similar exists for [Dropbox](http://www.macinstruct.com/node/516), which lets
 you easily move back and forth among different versions. Revision histories of
 this kind offer a way to automatically back up one's writing. This is especially
 helpful if you're not the type of person to carefully name each day's writing
-with a new time/date stamp and save them all in the appropriate folder. But at
-least two things are missing. First, there is no straightforward way of seeing
-what has changed where, and to see this at arbitrary levels of granularity.
-Second, in order to see what's changed when, you have to look in the document
-itself. There is no general log of the changes you've made to the file.  
+with a new time/date stamp and save them all in the appropriate folder. There
+are also service (as opposed to application) specific ways of tracking changes
+to a file. At least [some](http://versionrocket.com) of
+[them](http://versionrocket.com) allow you to compare differences between
+versions of files. But at least two things are missing. First, there is no
+straightforward way of seeing what has changed where, and to see this at
+arbitrary levels of granularity. Second, in order to see what's changed when,
+you have to look in the document itself. There is no general log of the changes
+you've made to the file.  
 
+Here's what I have in mind:
 
+![Change Log]({filename}/images/ScreenShot52964.png) 
 
+You see on the left a series of entries going back over two years, with a description
+of what I took to be the most important changes at the time. I can then open any
+one of the those entries and see a more detailed, line by line, description of
+changes. This is called a "diff". I can also roll back the version of the file
+I'm working on to any of these changes. Each "commit" is a snapshot of the
+relevant files at the time, which I can retrieve at any point. 
 
-. . . 
+I think this is a really nice way to track and visualize one's progress on some
+piece of writing. This is hard to do with standard word processors and their
+means of versioning, but very straightforward to do with a more sophisticated
+kind of [version control
+system](https://en.wikipedia.org/wiki/Revision_control). A version control
+system can manage changes to a file at an extremely fine level of grain--down to
+a line or character if necessary. While this system was originally adopted by
+programmers, it can also be very useful in academic writing (or really any
+writing where multiple drafts are created). 
 
-While everyone's writing process is different, one thing in academic writing is
-for certain: anything you write is going to see many revisions. A common way to
-handle such revisions is to title the current draft with the day's date. Save
-this draft in a folder (named, e.g., "drafts" or "versions"), and do this every
-time one sits down to write. The problem is that you quickly end up with a
-folder (or desktop's) worth of files. And it is seldom clear, using this method,
-exactly what one did when, without actually opening a particular file and
-looking, or trying to remember when it was that one made the relevant change.
-This is where a more sophisticated kind of [version
-control](https://en.wikipedia.org/wiki/Revision_control) becomes useful. A
-version control system can manage changes to a file at an extremely fine level
-of grain--down to a line or character if necessary. While this is obviously
-helpful in programming, it can also be very useful in academic writing (or
-really any writing where multiple drafts are created). Below I discuss some of
-the different ways that one might incorporate different aspects of a version
-control system into one's writing.
+This form of version control pictured above depends on a system called
+*[Git]*.[^mercurial] There are lots of [tutorials] and [other resources] for
+using Git. Though Git is often used from the command line there are also some
+[great] free [graphical interfaces] for Git. There are also a lot of helpful
+[discussions] online concerning writing while using a version control system
+like Git.
 
-## Track Changes
+[^mercurial]: You might also look at [Mercurial](https://mercurial.selenic.com),
+which is a popular, and perhaps slightly easier to use, alternative to Git.
 
-Anyone using *Microsoft Word*, *Open Office*, or Apple's *Pages* should be familiar with
-the option to track changes to one's work over time. [This article] provides a
-nice overview of the different ways one can track changes in a Word document.
-Tracking changes is great for collaboration, but it doesn't really solve the
-problem that one needs to solve in writing daily--viz. easily tracking
-milestones in one's writing, or important changes of direction, etc. All changes
-are treated equally even when they aren't. There also is no simple way to view
-changes without simply looking in the document itself.
-
-  [This article]: http://www.techrepublic.com/article/microsoft-office-word-101-use-track-changes-more-efficiently/
-
-## Document Revision History
-
-If you use a cloud service like Dropbox or Google docs you also have a [revision
-history](https://support.google.com/docs/answer/190843?hl=en) option, which lets
-you easily move back and forth among different versions. Revision histories of
-this kind offer a way to automatically back-up one's writing. This is especially
-helpful if one isn't the type of person to carefully name each day's writing
-with a new time/date stamp and save them all in the appropriate folder. But the
-method, while a helpful back-up, doesn't resolve the issue of granularity or
-ease of getting information about what was changed when. 
-
-## Version Control
-
-What we've looked at so far are application or service specific ways of tracking
-changes to a file. At least some of them allow you to compare differences
-between versions of files, or you can use a variety of
-[different](http://versionrocket.com) [services](http://versionrocket.com) 
-to do the job as well. 
-
-Another option is to use a system familiar to programmers, and adopt some form
-of version control. The basic idea is that, using whatever writing application
-one likes, one tracks changes to a document, or a whole directory of documents
-(e.g. adding image files for presentations, or additional parts of a document
-kept in separate files when writing longer works like a thesis or novel). The
-changes can be tracked at an arbitrary level of grain--to the sentence, word,
-or character--and different versions can be easily compared. All of this can be
-done without generating lots of files with different numbers or date/time
-stamps. Everything is kept in a database that one can easily interact with using
-either the command line or some form of graphical interface. 
+The basic idea is that, using whatever writing application one likes, one tracks
+changes to a document, or a whole directory of documents (e.g. adding image
+files for presentations, or additional parts of a document kept in separate
+files when writing longer works like a thesis or novel). The changes can be
+tracked at an arbitrary level of grain--to the sentence, word, or character--and
+different versions can be easily compared. All of this can be done without
+generating lots of files with different numbers or date/time stamps. Everything
+is kept in a database that one can easily interact with using either the command
+line or some form of graphical interface. 
 
 So far, this isn't necessarily any different from what one can do using Word or
 Google Docs. One additional benefit of using a version control system is that
@@ -102,25 +83,20 @@ one can easily label and describe batches of changes (e.g. revisions to a
 particular section of a paper or chapter) and keep a single record of these
 changes. Then, if one want to look back at one's progress, or for a specific
 change that one made, all one need do is look at the single general document
-listing the changes. For example, here's a sample log of the changes made to a
-paper I've been working on. 
+listing the changes. You can even do this in the text editor of your choice
+(e.g. vim or sublime text) 
 
-![]({filename}/images/GitLog.png)
+For example, here's a sample log of the changes made to a paper I've been
+working on, using a vim plugin called "[gitv](https://github.com/gregsexton/gitv)",
+which depends on Tim Pope's [fugitive](https://github.com/tpope/vim-fugitive)
+plugin ([SublimeGit](https://sublimegit.net) is an equally excellent sublime
+text plugin). 
 
-You see on the left a series of entries going back six weeks, with a description
-of what I took to be the most important changes at the time. I can then open any
-one of the those entries and see a more detailed, line by line, description of
-changes. This is called a "diff". I can also roll back the version of the file
-I'm working on to any of these changes. 
+![]({filename}/images/ScreenShot56089.png)
 
-This form of version control depends on a system called *[Git]*.[^mercurial] There are lots of
-[tutorials] and [other resources] for using Git. Though Git is often used from
-the command line there are also some [great] free [graphical interfaces] for Git. There
-are also a lot of helpful [discussions] online concerning writing while using a
-version control system like Git.
+On the left is the git log of changes. On the right is a more detailed
+description of what changed--what was added, deleted, or moved.
 
-[^mercurial]: You might also look at [mercurial](https://mercurial.selenic.com),
-which is a popular, and perhaps slightly easier to use, alternative to git.
 
   [Git]: https://git-scm.com
   [tutorials]: http://rogerdudler.github.io/git-guide/

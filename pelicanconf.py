@@ -18,6 +18,8 @@ PAGE_SAVE_AS = '{slug}/index.html'
 #     'status': 'draft',
 # }
 
+
+
 READERS = {'html': None}
 DELETE_OUTPUT_DIRECTORY = True
 PATH = 'content'
@@ -44,6 +46,9 @@ HIDE_SIDEBAR = False
 BOOTSTRAP_FLUID = False
 CC_LICENSE = "CC-BY-NC-SA"
 
+
+
+
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
 CATEGORY_FEED_ATOM = None
@@ -57,6 +62,7 @@ FAVICON = 'images/favicon.ico'
 # Tags
 
 TAG_CLOUD = True
+DISPLAY_TAGS_INLINE = True
 TAG_CLOUD_STEPS = 4
 TAG_CLOUD_MAX_ITEMS = 100
 TAG_CLOUD_SORTING = 'random'
@@ -84,7 +90,7 @@ DEFAULT_PAGINATION = 10
 
 # Plugins
 PLUGIN_PATHS = ['/Users/Roambot/Dropbox/Personal/Hacks/pelican-plugins']
-PLUGINS = ['pandoc_reader', 'pelican-md-yaml', 'tipue_search', 'tag_cloud', 'neighbors']
+PLUGINS = ['assets', 'pandoc_reader', 'pelican-md-yaml', 'tipue_search', 'tag_cloud', 'neighbors']
 
 PANDOC_ARGS = [
   '--mathjax',
