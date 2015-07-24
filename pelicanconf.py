@@ -4,12 +4,12 @@ from __future__ import unicode_literals
 
 AUTHOR = u'Colin McLear'
 SITENAME = u'Colin McLear'
-# SITEURL = 'http://colinmclear.net'
-SITEURL = ''
+SITEURL = 'http://colinmclear.net'
+# SITEURL = ''
 LOAD_CONTENT_CACHE = False
 GOOGLE_ANALYTICS = 'UA-30497236-1'
 # INDEX_SAVE_AS = 'blog_index.html'
-
+DISQUS_SITENAME = 'colinmclear'
 PAGE_URL = '{slug}'
 PAGE_SAVE_AS = '{slug}/index.html'
 
