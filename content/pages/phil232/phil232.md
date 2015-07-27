@@ -7,6 +7,8 @@ Status: hidden
 
 <!-- - [Syllabus]({filename}/pdfs/phil232/ModernSyllabus.pdf) -->
 - Syllabus (Coming Soon!)
+    - Here's the [previous syllabus]({filename}/pdfs/phil232/ModernSyllabus.pdf)
+      I used for the course. I plan on changing a few things for the spring. 
 - Office Hours: T/R 11-12 or by appointment
 - [Contact Information]({filename}/pages/Contact.md)
 
