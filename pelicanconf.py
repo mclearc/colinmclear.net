@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = u'Colin McLear'
 SITENAME = u'Colin McLear'
-SITEURL = 'http://colinmclear.net'
+SITEURL = u'http://colinmclear.net'
 # SITEURL = ''
 LOAD_CONTENT_CACHE = False
 GOOGLE_ANALYTICS = 'UA-30497236-1'
@@ -30,7 +30,7 @@ ARTICLE_SAVE_AS = '{date:%Y}/{slug}.html'
 ARTICLE_URL = '{date:%Y}/{slug}'
 CUSTOM_CSS = 'static/custom.css'
 
-DIRECT_TEMPLATES = ('index', 'categories', 'authors', 'archives', 'search')
+DIRECT_TEMPLATES = ('index', 'tags', 'authors', 'archives', 'search')
 
 TIMEZONE = 'America/New_York'
 

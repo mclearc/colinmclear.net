@@ -3,7 +3,6 @@ title: Version Control and Academic Writing
 author: Colin McLear
 date: 2015-07-17
 tags: geekery, writing, workflows
-modified: 
 ---
 
 Academic writing typically requires writing something in drafts. Many drafts. Until
