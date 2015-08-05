@@ -23,8 +23,12 @@ research programs in philosophy of mind and metaphysics.
 
 ### Reviews & Criticism ###
 
+<!-- - Forthcoming. ``Review of Lanier Anderson, *The Poverty of Conceptual Thought*.'' *Notre Dame Philosophical Reviews*. --> 
+<!-- - Forthcoming. ``Comments on Lucy Allais' *Manifest Reality*.'' Author meets critics session for [*Virtual Critique*](http://virtualcritique.wordpress.com/). --> 
+- Forthcoming. "Review of Robert Brandom, *From Empiricism to Expressivism*." *Ethics*.  
 - [Comments on Stefanie Grüne's *Blinde Anschauung*](http://virtualcritique.wordpress.com/2014/08/19/colin-mclear-on-stefanie-grunes-blinde-anschauung/), Author meets critics session of [*Critique*](http://virtualcritique.wordpress.com/about/). ([PDF version](|filename|/pdfs/papers/GruneCritique.pdf))
 
+  
 ### Work in Progress
 
 If you're interested in a draft of any of the following please [email me](mailto:mclear@unl.edu).
