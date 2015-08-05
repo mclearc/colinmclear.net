@@ -10,7 +10,7 @@ views with which these ideas are integrated. I'm also very interested in seeing
 what, if any, connections may be made between Kant's positions and contemporary
 research programs in philosophy of mind and metaphysics.
 
-### Publications ###
+### Articles ###
 
 - "Kant on Perceptual Content," forthcoming in *Mind*.
 [(Preprint)](|filename|/pdfs/papers/KantContent.pdf)
