@@ -21,24 +21,7 @@ research programs in philosophy of mind and metaphysics.
 - ["Kant on Animal Consciousness,"](|filename|/pdfs/papers/KantAnimalConsciousness.pdf) *Philosophers' Imprint*, Vol. 11, no.15. November 2011, pp. 1-16.
 - ["Three Skeptics and the *Critique*: Critical Notice of Michael Forster's *Kant and Skepticism*,"](|filename|/pdfs/papers/Chignell_McLear_ThreeSkeptics.pdf) with Andrew Chignell. *Philosophical Books*, Vol. 51, no. 4. October 2010, pp. 228-244.
 
-### Upcoming Conferences & Presentations ###
-
-- May 1-2, 2015: Organizer, UNL Chambers Philosophy Conference – [Kant on
-  Introspection, Self-Consciousness, & Self-Knowledge]({filename}/pages/KantConference.md) - April 2, 2015: Pacific APA, Vancouver - "Definition and Essence in the
-  *Metaphysical Foundations of Natural Science*"
-- January 16, 2015: Workshop on Kant and the Mind, Oxford University -
-  "Comments on Stefanie Grüne on the Object-Dependence of Intuition"
-- October 25-6, 2014: Midwest Study Group of the North American Kant Society,
-  Washington University in St. Louis – "Intuition and Presence"
-- October 3-5, 2014: [Kantian Freedom, Simon Fraser
-  University](http://www.sfu.ca/kantian-freedom/index.html) – "Priority Monism,
-  Intuition, and Freedom"
-- August 23, 2014: [UK Kant Society Annual Conference, Oxford
-  University](http://www.philosophy.ox.ac.uk/events/uk_kant_society_conference)
-  – "Definition and Essence in the *Metaphysical Foundations of Natural
-  Science*"
-
-### Other Work ###
+### Reviews & Criticism ###
 
 - [Comments on Stefanie Grüne's *Blinde Anschauung*](http://virtualcritique.wordpress.com/2014/08/19/colin-mclear-on-stefanie-grunes-blinde-anschauung/), Author meets critics session of [*Critique*](http://virtualcritique.wordpress.com/about/). ([PDF version](|filename|/pdfs/papers/GruneCritique.pdf))
 
@@ -46,11 +29,39 @@ research programs in philosophy of mind and metaphysics.
 
 If you're interested in a draft of any of the following please [email me](mailto:mclear@unl.edu).
 
-- "Intuition and Presence"
-- "Definition and Essence in the *Metaphysical Foundations of Natural
-  Science*"
-- "Animals and Objectivity"
-- "Strands of Subjectivity: Kant on Presentation and Projection"
+- "Kant's Philosophy of Mind" 
+- "Intuition & Presence"
+- "Getting Acquainted with Kant"
+- "Animals & Objectivity"
+- "Definition & Essence in the *Metaphysical Foundations of Natural Science*"
+<!-- - "Kant on the Cognitive Role of Intuition" -->
+<!-- - "Priority Monism, Intuition, & Freedom" (with Derk Pereboom) -->
+<!-- - "Strands of Subjectivity: Kant on Presentation and Projection" -->
+
+### Upcoming Conferences & Presentations ###
+
+- TBA!
+
+<!-- - 2016: Pacific APA Symposium, San Francisco – "Are Kantian Concepts Identical -->
+<!--   with Abilities?" -->
+<!-- - 2015: Post-Kantian Seminar, Oxford – TBA -->
+<!-- - 2015: Rosefeldt Kolloquium at Humboldt Universität, Berlin – "The Cognitive Role of Intuition" -->
+
+<!-- - May 1-2, 2015: Organizer, UNL Chambers Philosophy Conference – [Kant on -->
+<!--   Introspection, Self-Consciousness, & Self-Knowledge]({filename}/pages/KantConference.md) -->
+<!-- - April 2, 2015: Pacific APA, Vancouver - "Definition and Essence in the -->
+<!--   *Metaphysical Foundations of Natural Science*" -->
+<!-- - January 16, 2015: Workshop on Kant and the Mind, Oxford University - -->
+<!--   "Comments on Stefanie Grüne on the Object-Dependence of Intuition" -->
+<!-- - October 25-6, 2014: Midwest Study Group of the North American Kant Society, -->
+<!--   Washington University in St. Louis – "Intuition and Presence" -->
+<!-- - October 3-5, 2014: [Kantian Freedom, Simon Fraser -->
+<!--   University](http://www.sfu.ca/kantian-freedom/index.html) – "Priority Monism, -->
+<!--   Intuition, and Freedom" -->
+<!-- - August 23, 2014: [UK Kant Society Annual Conference, Oxford -->
+<!--   University](http://www.philosophy.ox.ac.uk/events/uk_kant_society_conference) -->
+<!--   – "Definition and Essence in the *Metaphysical Foundations of Natural -->
+<!--   Science*" -->
 
 
 
