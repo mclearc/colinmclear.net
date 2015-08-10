@@ -2,9 +2,9 @@
 Title: Teaching
 ---
 
-I regularly teach Introduction to Philosophy, an undergraduate survey of 
-'modern' philosophy of the seventeenth and eighteenth centuries, and graduate
-level courses on Kant and related topics.
+I regularly teach Introduction to Philosophy (PHIL 101), an undergraduate survey of 
+'modern' philosophy of the seventeenth and eighteenth centuries (PHIL 232), and graduate
+level courses on Kant and related topics (PHIL 871 & PHIL 971).
 
 ### Spring 2016 (On leave Fall 2015)
 
