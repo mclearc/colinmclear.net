@@ -1,9 +1,7 @@
----
 Title: Phil 971 - Introspection & Self-Knowledge
 status: hidden
----
 
-### Course Information ###
+# Course Information #
 
 - Syllabus (Coming Soon!)
 - Office Hours: T/R 11-12 or by appointment

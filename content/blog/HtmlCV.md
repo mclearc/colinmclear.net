@@ -1,9 +1,7 @@
----
 title: Maintain a CV in HTML and PDF
 author: Colin McLear
 date: 2015-07-23
 tags: latex, geekery, markdown
----
 
 Most people keep a CV or Resume on their website. It's nice to have it in
 both html and pdf; the first for easy web viewing and the second for easy

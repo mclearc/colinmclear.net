@@ -1,12 +1,10 @@
----
 Title: Phil 971 – Assignments
 Date: 26-06-2013
 status: hidden
----
 
 ## Class 13 (12/5)
 
-- [Handout 13](|filename|/pdfs/971conceptualism/CSHandout13.pdf)
+- [Handout 13](|filename|/pdfs/phil971/phil971conceptualism/CSHandout13.pdf)
 - Burge, ["Perceptual Entitlement"](https://www.dropbox.com/s/frr6hydjimhb69w/burge2003.pdf)
 - Silins, ["Explaining Perceptual Entitlement"](https://www.dropbox.com/s/umhiw63tnmgdzdk/silins2012.pdf)
 - Casullo, ["What is Entitlement?"](https://www.dropbox.com/s/uy2xm19n0kv9xtu/casullo2007.pdf)
@@ -20,7 +18,7 @@ status: hidden
 
 ## Class 12 (11/21)
 
-- [Handout 12](|filename|/pdfs/971conceptualism/CSHandout12.pdf)
+- [Handout 12](|filename|/pdfs/phil971/phil971conceptualism/CSHandout12.pdf)
 - McDowell, [Woodbridge Lecture 3](https://www.dropbox.com/s/poh0foh4k55ukd8/mcdowell1998c.pdf)
 - McDowell, ["Why is Sellars's Essay Called '*Empiricism* and the Philosophy of Mind'"](https://www.dropbox.com/s/j793n6utwj3i984/mcdowell2009b.pdf)
 - Williams, ["The Tortoise and the Serpent: Sellars on the Structure of Empirical Knowledge"](https://www.dropbox.com/s/dsb2cqr2khcmmyr/Williams_Sellars.pdf)
@@ -29,7 +27,7 @@ status: hidden
 
 ## Class 11 (11/14)
 
-- [Handout 11](|filename|/pdfs/971conceptualism/CSHandout11.pdf)
+- [Handout 11](|filename|/pdfs/phil971/phil971conceptualism/CSHandout11.pdf)
 - Sellars, [Science & Metaphysics, ch. 1](https://www.dropbox.com/s/mie2qs6vidxef8t/sellars1968.pdf)
 - McDowell, [Precis of *Mind and World*](https://www.dropbox.com/s/7qhogu6t2eo8y2t/mcdowell1996a.pdf)
 - McDowell, Woodbridge Lectures
@@ -40,7 +38,7 @@ status: hidden
 
 ## Class 10 (11/7)
 
-- [Handout 10](|filename|/pdfs/971conceptualism/CSHandout10.pdf)
+- [Handout 10](|filename|/pdfs/phil971/phil971conceptualism/CSHandout10.pdf)
 - Sellars, ["Empiricism and the Philosophy of Mind"](https://www.dropbox.com/s/5o0cwlppj8pxb81/Sellars_EPM.pdf)
     - Read §§1-38
 - Tippett & DeVries, [excerpt from their commentary on *EPM*](https://www.dropbox.com/s/xhs6brmefobm8zv/Tippett%26DeVries_EPM.pdf)
@@ -54,7 +52,7 @@ status: hidden
 
 ## Class 9 (10/31)
 
-- [Handout 9](|filename|/pdfs/971conceptualism/CSHandout9.pdf)
+- [Handout 9](|filename|/pdfs/phil971/phil971conceptualism/CSHandout9.pdf)
 - Tolley: 
     - [ "Kant on the Content of Cognition" ](https://www.dropbox.com/s/37czqh0btoqianw/tolley2011.pdf)
     - [ "The Non-Conceptuality of the Content of Intuitions"](https://www.dropbox.com/s/7q8quukj7y4sum6/tolley2013.pdf)
@@ -67,7 +65,7 @@ status: hidden
 ## Class 8 (10/24)
 
 - Finish discussion of TD
-- [Handout 7](|filename|/pdfs/971conceptualism/CSHandout7.pdf)
+- [Handout 7](|filename|/pdfs/phil971/phil971conceptualism/CSHandout7.pdf)
 
 ---
 
@@ -81,7 +79,7 @@ status: hidden
 
 ## Class 6 (10/10)
 
-- [Handout 6](|filename|/pdfs/971conceptualism/CSHandout6.pdf)
+- [Handout 6](|filename|/pdfs/phil971/phil971conceptualism/CSHandout6.pdf)
 - Kant:
     - [The Threefold Synthesis](https://www.dropbox.com/s/glcuf4b3o2s219w/Kant_ThreefoldSynthesis.pdf) (1781 version)
     - [The Transcendental Deduction](https://www.dropbox.com/s/boggfqua072q70h/Kant_B-Deduction.pdf) 
@@ -93,7 +91,7 @@ status: hidden
 
 ## Class 5 (9/26)
 
-- [Handout 5](|filename|/pdfs/971conceptualism/CSHandout5.pdf)
+- [Handout 5](|filename|/pdfs/phil971/phil971conceptualism/CSHandout5.pdf)
 - Kant:
     - [The Derivation of the Categories](https://www.dropbox.com/s/doth0d4b9klwkkv/Kant_MetaphysicalDeduction.pdf)
     - [The Transcendental Deduction](https://www.dropbox.com/s/boggfqua072q70h/Kant_B-Deduction.pdf) (1787 version)
@@ -107,7 +105,7 @@ status: hidden
 
 ## Class 4 (9/19)
 
-- [Handout 4](|filename|/pdfs/971conceptualism/CSHandout4.pdf)
+- [Handout 4](|filename|/pdfs/phil971/phil971conceptualism/CSHandout4.pdf)
 - [Kant Readings](https://www.dropbox.com/sh/nil9x7xsxg4old3/7cbBGBPlfz): 
     - ch. V and §§1-19 of the Jäsche Logik
     - KrV A50/B74-A64/B88: "The Idea of a Transcendental Logic"
@@ -121,7 +119,7 @@ status: hidden
 
 ## Class 3 (9/12)
 
-- [Handout 3](|filename|/pdfs/971conceptualism/CSHandout3.pdf)
+- [Handout 3](|filename|/pdfs/phil971/phil971conceptualism/CSHandout3.pdf)
 - Leibniz: [Philosophical Papers and Letters](https://www.dropbox.com/s/nh3xui4h4ls3e9u/leibniz1976.pdf)
     - Please read chapters 21, 30, 33, 35 (§§8-15), 45, and 67
 - McRae: [Leibniz: Perception, Apperception, and Thought](https://www.dropbox.com/s/cxhj6dh4456jmgg/mcrae1976.pdf)
@@ -132,7 +130,7 @@ status: hidden
 
 ## Class 2 (9/5)
 
-- [Handout 2](|filename|/pdfs/971conceptualism/CSHandout2.pdf)
+- [Handout 2](|filename|/pdfs/phil971/phil971conceptualism/CSHandout2.pdf)
 - <a href="https://www.dropbox.com/sh/r31pe68we2ib3pr/CE8saw-Vo4" target="_blank">Readings for 9/5</a>
 
 In addition (though not necessary for class on 9/5) these three readings below will get you up to speed on much of what I discussed in class last time:
@@ -145,5 +143,5 @@ In addition (though not necessary for class on 9/5) these three readings below w
 
 ## Class 1 (8/29)
 
-- [Handout 1]( |filename|/pdfs/971conceptualism/CSHandout1.pdf)
-- [Syllabus](|filename|/pdfs/971conceptualism/ConceptualismSyllabus.pdf)
+- [Handout 1]( |filename|/pdfs/phil971/phil971conceptualism/CSHandout1.pdf)
+- [Syllabus](|filename|/pdfs/phil971/phil971conceptualism/ConceptualismSyllabus.pdf)

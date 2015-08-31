@@ -1,6 +1,4 @@
----
 title: Contact
----
 
 Dr. Colin McLear  
 Office: 1003 Oldfather Hall  

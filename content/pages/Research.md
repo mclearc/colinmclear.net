@@ -1,6 +1,4 @@
----
 Title: Research
----
 
 Though I have quite general interests in the history of seventeenth and
 eighteenth century European philosophy, my work mostly focuses on issues
@@ -10,7 +8,7 @@ views with which these ideas are integrated. I'm also very interested in seeing
 what, if any, connections may be made between Kant's positions and contemporary
 research programs in philosophy of mind and metaphysics.
 
-### Articles ###
+# Articles #
 
 - "Kant on Perceptual Content," forthcoming in *Mind*.
 [(Preprint)](|filename|/pdfs/papers/KantContent.pdf)
@@ -21,7 +19,7 @@ research programs in philosophy of mind and metaphysics.
 - ["Kant on Animal Consciousness,"](|filename|/pdfs/papers/KantAnimalConsciousness.pdf) *Philosophers' Imprint*, Vol. 11, no.15. November 2011, pp. 1-16.
 - ["Three Skeptics and the *Critique*: Critical Notice of Michael Forster's *Kant and Skepticism*,"](|filename|/pdfs/papers/Chignell_McLear_ThreeSkeptics.pdf) with Andrew Chignell. *Philosophical Books*, Vol. 51, no. 4. October 2010, pp. 228-244.
 
-### Reviews & Criticism ###
+# Reviews & Criticism #
 
 - Forthcoming. "Review of Robert Brandom, *From Empiricism to Expressivism*." *Ethics*.  
 - [Comments on Stefanie Grüne's *Blinde Anschauung*](http://virtualcritique.wordpress.com/2014/08/19/colin-mclear-on-stefanie-grunes-blinde-anschauung/), Author meets critics session of [*Critique*](http://virtualcritique.wordpress.com/about/). ([PDF version](|filename|/pdfs/papers/GruneCritique.pdf))
@@ -30,7 +28,7 @@ research programs in philosophy of mind and metaphysics.
 <!-- - Forthcoming. ``Review of Lanier Anderson, *The Poverty of Conceptual Thought*.'' *Notre Dame Philosophical Reviews*. --> 
 <!-- - Forthcoming. ``Comments on Lucy Allais' *Manifest Reality*.'' Author meets critics session for [*Virtual Critique*](http://virtualcritique.wordpress.com/). --> 
   
-### Work in Progress
+# Work in Progress #
 
 If you're interested in a draft of any of the following please [email me](mailto:mclear@unl.edu).
 
@@ -43,7 +41,7 @@ If you're interested in a draft of any of the following please [email me](mailto
 <!-- - "Priority Monism, Intuition, & Freedom" (with Derk Pereboom) -->
 <!-- - "Strands of Subjectivity: Kant on Presentation and Projection" -->
 
-### Upcoming Conferences & Presentations ###
+# Upcoming Conferences & Presentations #
 
 - TBA!
 

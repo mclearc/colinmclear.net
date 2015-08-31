@@ -1,9 +1,7 @@
----
 Title: Phil 232 - Early Modern Philosophy
 Status: hidden
----
 
-### Course Information
+# Course Information
 
 <!-- - [Syllabus]({filename}/pdfs/phil232/ModernSyllabus.pdf) -->
 - Syllabus (Coming Soon!)

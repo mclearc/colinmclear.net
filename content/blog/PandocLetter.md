@@ -1,9 +1,7 @@
----
 title: Pandoc Letters
 author: Colin McLear
 date: 2015-07-22
 tags: latex, pandoc
----
 
 I had to write a recommendation letter today and thought I'd use it as an excuse
 to write up a Pandoc template for Pandoc-LaTeX conversion. It generates a nice

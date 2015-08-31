@@ -20,10 +20,10 @@ PAGE_SAVE_AS = '{slug}/index.html'
 
 
 
-READERS = {'html': None}
+READERS = {'html': None} 
 DELETE_OUTPUT_DIRECTORY = True
 PATH = 'content'
-STATIC_PATHS = ['images', 'pdfs', 'themes', 'extra/McLearCV.html', 'extra/CNAME', 'extra/custom.css', 'blog', 'pages/phil101', 'pages/phil232', 'pages/phil871', 'pages/phil971']
+STATIC_PATHS = ['images', 'pdfs', 'pdfs/phil871/phil871kant', 'themes', 'extra/McLearCV.html', 'extra/CNAME', 'extra/custom.css', 'blog', 'pages/phil101', 'pages/phil232', 'pages/phil871', 'pages/phil971']
 EXTRA_PATH_METADATA = {'extra/CNAME': {'path': 'CNAME'}, 'extra/custom.css': {'path': 'static/custom.css'}}
 # ARTICLE_PATHS = ['blog']
 ARTICLE_SAVE_AS = '{date:%Y}/{slug}.html'
@@ -46,26 +46,23 @@ HIDE_SIDEBAR = False
 BOOTSTRAP_FLUID = False
 CC_LICENSE = "CC-BY-NC-SA"
 
+# Turn on Typogrify
+TYPOGRIFY = True
 
+# Plugins
+PLUGIN_PATHS = ['/Users/Roambot/Dropbox/Personal/Hacks/pelican-plugins']
+PLUGINS = ['pandoc_reader', 'assets', 'tipue_search', 'tag_cloud', 'neighbors'] 
 
+PANDOC_ARGS = [
+  '--smart',
+  '--filter=pandoc-citeproc',
+  '--base-header-level=2'
+  ]
 
-# Feed generation is usually not desired when developing
-FEED_ALL_ATOM = None
-CATEGORY_FEED_ATOM = None
-TRANSLATION_FEED_ATOM = None
-AUTHOR_FEED_ATOM = None
-AUTHOR_FEED_RSS = None
-PYGMENTS_STYLE = 'vim'
-FAVICON = 'images/favicon.ico'
-
-
-# Tags
-
-TAG_CLOUD = True
-DISPLAY_TAGS_INLINE = True
-TAG_CLOUD_STEPS = 4
-TAG_CLOUD_MAX_ITEMS = 100
-TAG_CLOUD_SORTING = 'random'
+PANDOC_EXTENSIONS = [
+  '+citations',
+  '+yaml_metadata_block'
+]
 
 # Blogroll
 LINKS = (('PHIL 232', 'http://colinmclear.net/phil-232-early-modern-philosophy/'),
@@ -88,24 +85,29 @@ DEFAULT_PAGINATION = 10
 
 
 
-# Plugins
-PLUGIN_PATHS = ['/Users/Roambot/Dropbox/Personal/Hacks/pelican-plugins']
-PLUGINS = ['assets', 'pandoc_reader', 'pelican-md-yaml', 'tipue_search', 'tag_cloud', 'neighbors']
 
-PANDOC_ARGS = [
-  '--mathjax',
-  '--smart',
-  '--toc',
-  '--toc-depth=1',
-]
 
-PANDOC_EXTENSIONS = [
-  '-hard_line_breaks',
-  '+citations'
-]
 
-# Turn on Typogrify
-TYPOGRIFY = True
+# Feed generation is usually not desired when developing
+FEED_ALL_ATOM = None
+CATEGORY_FEED_ATOM = None
+TRANSLATION_FEED_ATOM = None
+AUTHOR_FEED_ATOM = None
+AUTHOR_FEED_RSS = None
+PYGMENTS_STYLE = 'vim'
+FAVICON = 'images/favicon.ico'
+
+
+# Tags
+
+TAG_CLOUD = True
+DISPLAY_TAGS_ON_SIDEBAR= True
+DISPLAY_TAGS_INLINE = True
+TAG_CLOUD_STEPS = 4
+TAG_CLOUD_MAX_ITEMS = 100
+TAG_CLOUD_SORTING = 'random'
+
+
 
 
 

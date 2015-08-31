@@ -1,9 +1,7 @@
----
 Title: Philosophy 101
 status: hidden
----
 
-### Course Information ###
+# Course Information #
 
 <!-- - [Assignment Schedule]({filename}/pages/phil101/101Assignments.md) -->
 - [Syllabus]({filename}/pdfs/phil101/IntroSyllabus.pdf)

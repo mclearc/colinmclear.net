@@ -1,9 +1,7 @@
----
 title: Welcome! 
 URL: colinmclear.net
 save_as: index.html
 status: hidden
----
 
 I am an Assistant Professor in the [Department of
 Philosophy](http://www.unl.edu/philosophy/) at the University of

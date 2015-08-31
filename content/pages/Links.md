@@ -1,9 +1,7 @@
----
 Title: Resources
 status: hidden
----
 
-### Philosophy Resources ###
+# Philosophy Resources #
 
 Some links for research, and for writing good philosophical prose.
 
@@ -18,7 +16,7 @@ Some links for research, and for writing good philosophical prose.
 - [Purdue Online Writing Lab](http://owl.english.purdue.edu/owl/)
 - [A Guide to Philosophical Writing](http://writingproject.fas.harvard.edu/files/hwp/files/philosophical_writing.pdf)
 
-### Academic Technology & Tools ###
+# Academic Technology & Tools #
 
 Links to tools I use for research and writing
 

@@ -1,9 +1,7 @@
----
 title: Version Control and Academic Writing
 author: Colin McLear
 date: 2015-07-17
 tags: geekery, writing, workflows
----
 
 Academic writing typically requires writing something in drafts. Many drafts. Until
 recently there have been few ways of elegantly handling this. Often, one would
@@ -39,7 +37,7 @@ Here's what I have in mind:
 
 ![Change Log]({filename}/images/ScreenShot52964.png) 
 
-You see on the left a series of entries going back over two years, with a description
+You see here a series of entries going back over two years, with a description
 of what I took to be the most important changes at the time. I can then open any
 one of the those entries and see a more detailed, line by line, description of
 changes. This is called a "diff". I can also roll back the version of the file
