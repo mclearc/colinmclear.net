@@ -1,27 +1,41 @@
 Title: Research
 
-Though I have quite general interests in the history of seventeenth and
-eighteenth century European philosophy, my work mostly focuses on issues
-pertaining to Immanuel Kant's philosophy of mind, perception, his theory of
-human reason and rationality, and the broader metaphysical and epistemological
-views with which these ideas are integrated. I'm also very interested in seeing
-what, if any, connections may be made between Kant's positions and contemporary
-research programs in philosophy of mind and metaphysics.
+Though I have general interests in the history of seventeenth and
+eighteenth century European philosophy, my work to date mostly focuses
+on issues pertaining to Immanuel Kant's philosophy of mind, perception,
+his theory of human reason and rationality, and the broader metaphysical
+and epistemological views with which these ideas are integrated. I'm
+also very interested in seeing what, if any, connections may be made
+between Kant's positions and contemporary research programs in
+philosophy of mind and metaphysics, particularly issues pertaining to
+the study of mental content, the nature and significance of
+self-consciousness, reasoning and rationality, and animal cognition.
 
 # Articles #
 
-- "Kant on Perceptual Content," forthcoming in *Mind*.
-[(Preprint)](|filename|/pdfs/papers/KantContent.pdf)
-- ["Two Kinds of Unity in the *Critique of Pure
-  Reason*,"](http://muse.jhu.edu/login?auth=0&type=summary&url=/journals/journal_of_the_history_of_philosophy/v053/53.1.mclear.html)
-  *Journal of the History of Philosophy*, Vol. 53, no. 1. January 2015, pp. 79-110. [(Postprint)](|filename|/pdfs/papers/KantUnity.pdf)
+- "Kant on Perceptual Content," forthcoming in *Mind*. [(Preprint)](|filename|/pdfs/papers/KantContent.pdf)
+- "Kant's Philosophy of Mind," forthcoming in the *Internet Encyclopedia of Philosophy*. [(Preprint)](|filename|/pdfs/papers/KantIEP.pdf)
+- ["Two Kinds of Unity in the *Critique of Pure Reason*,"](http://muse.jhu.edu/login?auth=0&type=summary&url=/journals/journal_of_the_history_of_philosophy/v053/53.1.mclear.html) *Journal of the History of Philosophy*, Vol. 53, no. 1. January 2015, pp. 79-110. [(Postprint)](|filename|/pdfs/papers/KantUnity.pdf)
 - ["The Kantian (Non)-Conceptualism Debate,"](http://onlinelibrary.wiley.com/doi/10.1111/phc3.12166/abstract) *Philosophy Compass*, Vol. 9, no. 11. November 2014, pp. 769-90. doi:[10.1111/phc3.12166](http://10.1111/phc3.12166). [(Preprint)](|filename|/pdfs/papers/KantConceptualism.pdf)
 - ["Kant on Animal Consciousness,"](|filename|/pdfs/papers/KantAnimalConsciousness.pdf) *Philosophers' Imprint*, Vol. 11, no.15. November 2011, pp. 1-16.
 - ["Three Skeptics and the *Critique*: Critical Notice of Michael Forster's *Kant and Skepticism*,"](|filename|/pdfs/papers/Chignell_McLear_ThreeSkeptics.pdf) with Andrew Chignell. *Philosophical Books*, Vol. 51, no. 4. October 2010, pp. 228-244.
 
+# Book Chapters #
+
+- “Getting Acquainted with Kant,” forthcoming in Dennis Schulting (ed.),
+*Kantian Nonconceptualism*. New York: Palgrave Macmillan.
+- “Animals & Objectivity,” forthcoming in Lucy Allais, John Callanan
+(eds.) *Kant on Animals*. Oxford: Oxford University Press.
+- “Intuition & Presence,” forthcoming in Anil Gomes, Andrew Stephenson
+  (eds), *Kant and the Philosophy of Mind*. Oxford: Oxford University Press.
+
 # Reviews & Criticism #
 
-- Forthcoming. "Review of Robert Brandom, *From Empiricism to Expressivism*." *Ethics*.  
+- "Review of Lanier Anderson, *The Poverty of Conceptual Truth*."
+  Forthcoming in *Notre Dame Philosophical Reviews*. 
+- "Review of Robert Brandom, *From Empiricism to Expressivism*." Forthcoming in *Ethics*.
+- Comments on Lucy Allais' *Manifest Reality*, Author meet critics
+  session of [*Critique*](http://virtualcritique.wordpress.com/about/).
 - [Comments on Stefanie Grüne's *Blinde Anschauung*](http://virtualcritique.wordpress.com/2014/08/19/colin-mclear-on-stefanie-grunes-blinde-anschauung/), Author meets critics session of [*Critique*](http://virtualcritique.wordpress.com/about/). ([PDF version](|filename|/pdfs/papers/GruneCritique.pdf))
 
 
@@ -32,18 +46,17 @@ research programs in philosophy of mind and metaphysics.
 
 If you're interested in a draft of any of the following please [email me](mailto:mclear@unl.edu).
 
-- "Kant's Philosophy of Mind" 
-- "Intuition & Presence"
-- "Getting Acquainted with Kant"
-- "Animals & Objectivity"
+- "Concepts and Abilities"
+- "Kant on the Cognitive Role of Intuition"
+- "Motion and the Affection Argument"
 - "Definition & Essence in the *Metaphysical Foundations of Natural Science*"
-<!-- - "Kant on the Cognitive Role of Intuition" -->
 <!-- - "Priority Monism, Intuition, & Freedom" (with Derk Pereboom) -->
 <!-- - "Strands of Subjectivity: Kant on Presentation and Projection" -->
 
 # Upcoming Conferences & Presentations #
 
-- TBA!
+- "Concepts & Abilities." Symposium on Kant on Concepts. Pacific division of the American Philosophical Association. April.
+
 
 <!-- - 2016: Pacific APA Symposium, San Francisco – "Are Kantian Concepts Identical -->
 <!--   with Abilities?" -->
