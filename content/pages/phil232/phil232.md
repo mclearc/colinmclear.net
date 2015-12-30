@@ -1,16 +1,36 @@
-Title: Phil 232 - Early Modern Philosophy
+Title: PHIL 232 - Early Modern Philosophy
+Slug: phil232
 Status: hidden
 
-# Course Information
+---
 
-<!-- - [Syllabus]({filename}/pdfs/phil232/ModernSyllabus.pdf) -->
-- Syllabus (Coming Soon!)
-    - Here's the [previous syllabus]({filename}/pdfs/phil232/ModernSyllabus.pdf)
-      I used for the course. I plan on changing a few things for the spring. 
-- Office Hours: T/R 11-12 or by appointment
+---
+toc: no
+---
+
+
+# Course Description #
+
+This course offers an introductory survey of the views of some key
+figures in early modern (17th—18th century) European philosophy. These
+include at least the following: Descartes, Locke, Leibniz, Newton, Hume,
+and Kant. Our main focus will be on the enormously influential theories
+of René Descartes, specifically his theories of mind and nature, as well
+as subsequent reactions, criticisms, and (partial) defenses of his views
+in the writings of other prominent philosophers. Major themes include
+the nature of mind and matter, the structure of scientific explanation,
+causation and necessity, free will, and the existence of God.
+
+# Course Information #
+
+- [Assignments]({filename}/pages/phil232/phil232Assignments.md)
 - [Contact Information]({filename}/pages/Contact.md)
+- Office Hours: T/R 4--5 p.m. or by appointment
+- [Syllabus]({filename}/pdfs/phil232/ModernSyllabus.pdf)
 
-<!-- - [Assignments]({filename}/pages/phil232/phil232Assignments.md) -->
+
+
+
 <!--     - [Tentative assignment -->
 <!--       calendar](https://www.dropbox.com/s/sqzw1xvm5psvknm/ModernCal.pdf) -->
 <!--       (this calendar is subject to change!) -->

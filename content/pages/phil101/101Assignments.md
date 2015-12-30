@@ -1,6 +1,10 @@
 Title: Phil 101 Assignments
 Status: hidden
 
+---
+toc: no
+---
+
 ### Final Exam 
 
 - MORR 141

@@ -2,6 +2,13 @@ Title: Phil 971 – Assignments
 Date: 26-06-2013
 status: hidden
 
+---
+
+---
+toc: no
+---
+
+
 ## Class 13 (12/5)
 
 - [Handout 13](|filename|/pdfs/phil971/phil971conceptualism/CSHandout13.pdf)

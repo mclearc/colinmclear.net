@@ -1,7 +1,13 @@
 Title: Phil 4/871 Assignments
 Status: hidden
 
-### Class 15 - Groundwork III (12/18)
+---
+
+---
+toc: no
+---
+
+## Class 15 - Groundwork III (12/18) ##
 
 - *Groundwork*, section III: 4:446-63 (Gregor & Timmerman, pp. 56-72)
 - Korsgaard, 'Introduction', third section (Gregor & Timmerman, pp.
@@ -14,7 +20,7 @@ Status: hidden
 ---
 
 
-### Class 14 - Groundwork II (12/11) 
+## Class 14 - Groundwork II (12/11) ##
 
 - *Groundwork*, section II: 4:406-45 (Gregor & Timmerman, pp. 21-55)
 - Korsgaard, 'Introduction', second section (Gregor & Timmerman, pp. xvii-xxviii)
@@ -28,7 +34,7 @@ Status: hidden
 
 ---
 
-### Class 13 – Groundwork I (12/4)
+## Class 13 – Groundwork I (12/4) ##
 
 - *Groundwork*, Preface & section I: 4:387-405 (Gregor & Timmerman, pp. 3-20)
 - Korsgaard, 'Introduction', preface and first section (Gregor & Timmerman, pp. ix-xvii)
@@ -38,7 +44,7 @@ Status: hidden
 
 ---
 
-### Class 12 – The Third Antinomy (11/20) ###
+## Class 12 – The Third Antinomy (11/20) ##
 
 - CPR: Antinomy of Pure Reason and Third Antinomy, A405-25/B432-53 and 
   A444-51/B474-9 (Guyer and Wood, 459-69 and 484-9)
@@ -52,7 +58,7 @@ Status: hidden
 
 ---
 
-### Class 11 – The Paralogisms (III-IV) (11/13) 
+## Class 11 – The Paralogisms (III-IV) (11/13) ##
 
 - CPR: Third and Fourth Paralogisms, and Observation, A361-405 (Guyer & Wood, 422-44)
 - CPR: B409-10, 426-32 (Guyer & Wood, 446-8, 456-8)
@@ -65,7 +71,7 @@ Status: hidden
 
 ---
 
-### Class 10 – The Paralogisms (I-II) (11/6) ###
+## Class 10 – The Paralogisms (I-II) (11/6) ##
 
 - CPR: First and Second Paralogisms, A341-61 (Guyer & Wood, 411-22)
   + Compare B406-8 (Guyer & Wood, 445-6)
@@ -78,7 +84,7 @@ Status: hidden
 
 ---
 
-### Class 9 – Dialectic, Transcendental Illusion, & the Ideas of Pure Reason (10/30)
+## Class 9 – Dialectic, Transcendental Illusion, & the Ideas of Pure Reason (10/30) ##
 
 - CPR: Introduction, B349-B398 (Guyer & Wood, 384-410)
 - *Prolegomena*: §§33-5 (Hatfield, 67-9), §§40-5 (Hatfield, 79-85)
@@ -90,7 +96,7 @@ Status: hidden
 
 ---
 
-### Class 8 – The Architectonic & MFNS Preface (10/23) ###
+## Class 8 – The Architectonic & MFNS Preface (10/23) ##
 
 - CPR: Architectonic, A832-51/B860-79 (Guyer & Wood, pp. 691-701)
 - MFNS: [Preface, 4:467-79](|filename|/pdfs/phil871/phil871kant/MFNS_Preface.pdf)
@@ -100,7 +106,7 @@ Status: hidden
 
 ---
 
-### Class 7 – The Schematism & Second Analogy (10/16)
+## Class 7 – The Schematism & Second Analogy (10/16) ##
  
 - CPR: 
     + Introduction to the Analytic, B169-75 (Guyer & Wood, 267-70)
@@ -116,7 +122,7 @@ Status: hidden
 
 ---
 
-### Class 6 – The Transcendental Deduction, Second Step (10/9) ###
+## Class 6 – The Transcendental Deduction, Second Step (10/9) ##
 
 - CPR: The Transcendental Deduction, B129-69 (Guyer & Wood, 245-66)
     + During this class we'll focus primarily on the 'second step' of the
@@ -129,7 +135,7 @@ Status: hidden
 
 ---
 
-### Class 5 – The Transcendental Deduction (9/25) ###
+## Class 5 – The Transcendental Deduction (9/25) ##
 
 - CPR: The Transcendental Deduction, B129-69 (Guyer & Wood, 245-66)
     + During this class we'll focus primarily on the 'first step' of the
@@ -142,7 +148,7 @@ Status: hidden
 
 ---
 
-### Class 4 – The Forms of Judgment & the Metaphysical Deduction (9/18) ###
+## Class 4 – The Forms of Judgment & the Metaphysical Deduction (9/18) ##
 
 - CPR: Transcendental Logic & Analytic (the Clue), B91-116 (Guyer & Wood, 201-18)
 - CPR: Analytic ch. 2, §13 & 'Transition', B116-29 (Guyer & Wood, 219-26)
@@ -152,7 +158,7 @@ Status: hidden
 
 ---
 
-### Class 3 – Kant on Mathematics (9/11)
+## Class 3 – Kant on Mathematics (9/11) ##
 
 - CPR: The Discipline of Pure Reason in dogmatic use (A712-38/B740-66; Guyer & Wood, 630-643)
 - Prolegomena: §§6-13 & Note I (Hatfield 32-40)
@@ -163,7 +169,7 @@ Status: hidden
 
 ---
 
-### Class 2 – Kant on Space (9/4) ###
+## Class 2 – Kant on Space (9/4) ##
 
 - CPR: Transcendental Aesthetic (B33-73; Guyer & Wood, 172-92)
     + We'll focus primarily on Kant's discussion of *space*
@@ -175,7 +181,7 @@ Status: hidden
 
 ---
 
-### Class 1 – Kant's Project (8/28) ###
+## Class 1 – Kant's Project (8/28) ##
 
 - Introduction to *Critique of Pure Reason*, B1-30 (Guyer & Wood, 136-52)
 - Preamble to *Prolegomena to any Future Metaphysics*, 4:265-70 (

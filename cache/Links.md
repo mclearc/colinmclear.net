@@ -1,4 +1,3 @@
-Title: Resources
 status: hidden
 
 # Philosophy Resources #

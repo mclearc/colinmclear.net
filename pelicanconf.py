@@ -5,10 +5,15 @@ from __future__ import unicode_literals
 AUTHOR = u'Colin McLear'
 SITENAME = u'Colin McLear'
 SITEURL = u'http://colinmclear.net'
-# SITEURL = ''
+# # Uncomment following line if you want document-relative URLs when developing
+# RELATIVE_URLS = True
+CACHE_CONTENT = True
+CACHE_PATH = '/Users/Roambot/Dropbox/Personal/bin/pelican-web/cache'
+AUTORELOAD_IGNORE_CACHE = True
 LOAD_CONTENT_CACHE = False
 GOOGLE_ANALYTICS = 'UA-30497236-1'
 # INDEX_SAVE_AS = 'blog_index.html'
+DISQUSURL = 'http://colinmclear.net'
 DISQUS_SITENAME = 'colinmclear'
 PAGE_URL = '{slug}'
 PAGE_SAVE_AS = '{slug}/index.html'
@@ -20,11 +25,12 @@ PAGE_SAVE_AS = '{slug}/index.html'
 
 
 
-READERS = {'html': None} 
+READERS = {'html': None}
 DELETE_OUTPUT_DIRECTORY = True
+# PATH = 'content'
 PATH = 'content'
-STATIC_PATHS = ['images', 'pdfs', 'pdfs/phil871/phil871kant', 'themes', 'extra/McLearCV.html', 'extra/CNAME', 'extra/custom.css', 'blog', 'pages/phil101', 'pages/phil232', 'pages/phil871', 'pages/phil971']
-EXTRA_PATH_METADATA = {'extra/CNAME': {'path': 'CNAME'}, 'extra/custom.css': {'path': 'static/custom.css'}}
+STATIC_PATHS = ['images', 'pdfs', 'pdfs/phil871/phil871kant', 'themes', 'extra/McLearCV.html', 'extra/McLearCV.pdf', 'extra/CNAME', 'extra/custom.css', 'blog', 'pages/phil101', 'pages/phil232', 'pages/phil871', 'pages/phil971']
+EXTRA_PATH_METADATA = {'extra/CNAME': {'path': 'CNAME'}, 'extra/custom.css': {'path': 'static/custom.css'}, 'extra/style.css': {'path': 'static/style.css'}}
 # ARTICLE_PATHS = ['blog']
 ARTICLE_SAVE_AS = '{date:%Y}/{slug}.html'
 ARTICLE_URL = '{date:%Y}/{slug}'
@@ -38,7 +44,7 @@ DEFAULT_LANG = u'en'
 
 # THEME='/Users/Roambot/Dropbox/Personal/Hacks/colinmclear.net-pelican/pelican-themes/pelican-bootstrap3'
 
-THEME='/Users/Roambot/Dropbox/Personal/Hacks/colinmclear.net-pelican/pelican-bootstrap3'
+THEME='/Users/Roambot/Dropbox/Personal/bin/pelican-web/pelican-bootstrap3'
 BOOTSTRAP_THEME='simplex'
 # Change navbar color
 BOOTSTRAP_NAVBAR_INVERSE = True
@@ -50,29 +56,29 @@ CC_LICENSE = "CC-BY-NC-SA"
 TYPOGRIFY = True
 
 # Plugins
-PLUGIN_PATHS = ['/Users/Roambot/Dropbox/Personal/Hacks/pelican-plugins']
-PLUGINS = ['pandoc_reader', 'assets', 'tipue_search', 'tag_cloud', 'neighbors'] 
+PLUGIN_PATHS = ['/Users/Roambot/Dropbox/Personal/bin/pelican-plugins']
+PLUGINS = ['pandoc_reader', 'assets', 'tipue_search', 'tag_cloud', 'neighbors']
 
 PANDOC_ARGS = [
-  '--smart',
-  '--filter=pandoc-citeproc',
-  '--base-header-level=2'
+    '--filter=pandoc-citeproc',
+    '--base-header-level=3',
+    '--standalone',
+    '--smart',
+    '--bibliography=/Users/Roambot/Dropbox/Work/Master.bib',
+    '--mathjax',
+    '--toc',
   ]
 
-PANDOC_EXTENSIONS = [
-  '+citations',
-  '+yaml_metadata_block'
-]
 
 # Blogroll
-LINKS = (('PHIL 232', 'http://colinmclear.net/phil-232-early-modern-philosophy/'),
-        ('PHIL 971', 'http://colinmclear.net/phil-971-introspection-self-knowledge/'),
+LINKS = (('PHIL 232', 'http://colinmclear.net/phil232'),
+        ('PHIL 971', 'http://colinmclear.net/phil971'),
         ('Blackboard', 'https://my.unl.edu/webapps/portal/frameset.jsp'),
         ('UNL Philosophy', 'http://www.unl.edu/philosophy/'))
 
 # Social widget
-SOCIAL = (('academia.edu', 'https://un-lincoln.academia.edu/ColinMcLear',
-    'book'),
+SOCIAL = (('academia.edu', 'https://un-lincoln.academia.edu/ColinMcLear', 'book'),
+          ('philpapers', 'http://philpapers.org/profile/740', 'file-text'),
           ('twitter', 'http://twitter.com/mclearc'),
           ('github', 'https://github.com/mclearc'),
           ('facebook', 'https://www.facebook.com/?_rdr=p'),
@@ -80,8 +86,6 @@ SOCIAL = (('academia.edu', 'https://un-lincoln.academia.edu/ColinMcLear',
 
 DEFAULT_PAGINATION = 10
 
-# Uncomment following line if you want document-relative URLs when developing
-#RELATIVE_URLS = True
 
 
 

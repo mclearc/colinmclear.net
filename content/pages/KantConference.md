@@ -4,6 +4,10 @@ slug: chambers-conference
 
 <!-- # Kant on Introspection, Self-Consciousness, and Self-Knowledge -->
 
+**Update**: If you're looking for the webpage for the eighth annual Chambers
+  Philosophy Conference (April 22-3, 2016), on practical reason and meta-ethics, you can find it
+  [here](https://sites.google.com/site/practicalreasonandmetaethics/).
+
 Welcome to the home page for the seventh annual [Robert R. Chambers Philosophy
 Conference][] on themes related to Kant's (and Kantian) views on introspection,
 self-consciousness, and self-knowledge. The conference is hosted by the

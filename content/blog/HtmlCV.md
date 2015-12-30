@@ -22,4 +22,7 @@ screen, and that the html file is comparatively large. This doesn't seem to
 matter too much for modern web browsers though, so I'll probably stick with it
 for now. 
 
-
+**Update**: While I like to have HTML and PDF versions of my CV, I don't any
+  longer use the relatively "quick and dirty" method discussed here. For
+  discussion of how I'm doing things now see
+  [this post](http://colinmclear.net/2015/maintaining-a-cv-in-multiple-formats).

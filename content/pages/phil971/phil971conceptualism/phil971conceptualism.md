@@ -1,6 +1,13 @@
 Title: Phil 971 - Kantian Conceptualism
 status: hidden
 
+---
+
+---
+toc: no
+---
+
+
 # Course Information #
 
 - Office Hours: T/R 11-12 or by appointment

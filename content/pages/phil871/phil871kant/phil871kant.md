@@ -1,6 +1,13 @@
 Title: Phil 4/871 - Kant
 status: hidden
 
+---
+
+---
+toc: no
+---
+
+
 # Course Information #
 
 - Office Hours: T/R 11-12 or by appointment

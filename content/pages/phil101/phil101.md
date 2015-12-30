@@ -1,5 +1,13 @@
 Title: Philosophy 101
 status: hidden
+slug: phil-101
+
+---
+
+---
+toc: no
+---
+
 
 # Course Information #
 

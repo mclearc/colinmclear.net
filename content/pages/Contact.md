@@ -1,10 +1,13 @@
 title: Contact
 
+---
+
 Dr. Colin McLear  
-Office: 1003 Oldfather Hall  
-Office hours: **On leave Fall 2015**
+<span style="font-variant:small-caps;">Office</span>: 1003 Oldfather Hall
+\
+<span style="font-variant:small-caps;">Office Hours</span>: **On leave Fall 2015**
 <!-- Office hours: T/R, 11-12 p.m., or by appointment -->  
-Email: <a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#109;&#99;&#108;&#101;&#97;&#114;&#64;&#117;&#110;&#108;&#46;&#101;&#100;&#117;">&#109;&#99;&#108;&#101;&#97;&#114;&#64;&#117;&#110;&#108;&#46;&#101;&#100;&#117;</a>  
+<span style="font-variant:small-caps;">Email</span>: <a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#109;&#99;&#108;&#101;&#97;&#114;&#64;&#117;&#110;&#108;&#46;&#101;&#100;&#117;">&#109;&#99;&#108;&#101;&#97;&#114;&#64;&#117;&#110;&#108;&#46;&#101;&#100;&#117;</a>
   
 
 
