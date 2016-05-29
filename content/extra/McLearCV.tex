@@ -1,0 +1,355 @@
+%!TEX TS-program = xelatex
+%!TEX encoding = UTF-8 Unicode
+
+\documentclass[10pt, letterpaper]{article}
+\usepackage{setspace}
+%%%------------------------------------------------------------------------
+%%% Metadata
+%%%------------------------------------------------------------------------
+
+%% Change as needed. Or just add me as a coauthor. Only some of these are
+%% used below in the hyperref declaration and address banner section.
+\def\myauthor{Colin McLear}
+\def\mytitle{Vita}
+\def\mycopyright{\myauthor}
+\def\mykeywords{}
+\def\mybibliostyle{plain}
+\def\mybibliocommand{}
+\def\mysubtitle{}
+\def\myaffiliation{}
+\def\myaddress{Department of Philosophy}
+\def\myemail{\href{mailto:mclear@unl.edu}{\nolinkurl{mclear@unl.edu}}}
+\def\myweb{\url{http://colinmclear.net}}
+\def\myphone{607 216 8718}
+\def\myfax{402 272 0626}
+
+% LAYOUT
+%--------------------------------
+% Margins
+\usepackage{geometry} 
+\geometry{letterpaper, textwidth=5.5in, textheight=8.5in, marginparsep=7pt,
+marginparwidth=.6in}
+
+% Do not indent paragraphs
+\setlength\parindent{0in}
+
+% Enable multicolumns
+\usepackage{multicol}
+\setlength{\columnsep}{-3.5cm}
+
+% LANGUAGE
+%--------------------------------
+% Set the main language
+\usepackage{polyglossia}
+\setmainlanguage{English}
+
+% TYPOGRAPHY
+%--------------------------------
+\usepackage{fontspec} 
+\usepackage{xunicode}
+\usepackage{xltxtra}
+% converts LaTeX specials (quotes, dashes etc.) to Unicode
+\defaultfontfeatures{Mapping=tex-text}
+\setromanfont [Ligatures={Common}, Numbers={OldStyle}]{Minion Pro}
+\setsansfont[Mapping=tex-text]{Helvetica Neue Light}
+\setmonofont[Mapping=tex-text,Scale=0.9]{Consolas}
+% Cool ampersand
+\newcommand{\amper}{{\fontspec[Scale=.95]{Minion Pro}\selectfont\itshape\&}}
+% icons
+\defaultfontfeatures{
+    Path = /usr/local/texlive/2015/texmf-dist/fonts/opentype/public/fontawesome/ }
+\usepackage{fontawesome}
+\usepackage{marvosym}
+\usepackage[autostyle=try]{csquotes}
+\usepackage[usenames,dvipsnames,svgnames,table]{xcolor}
+\definecolor{darkblue}{rgb}{0.0, 0.0, 0.55}
+
+% MARGIN NOTES
+%--------------------------------
+\usepackage{marginnote}
+\newcommand{\note}[1]{\marginnote{\scriptsize #1}}
+\renewcommand*{\raggedleftmarginnote}{\color{darkblue}\sffamily}
+\setlength{\marginparsep}{7pt}
+
+\reversemarginpar
+
+% HEADINGS
+%--------------------------------
+\usepackage{sectsty} 
+\usepackage[normalem]{ulem} 
+\sectionfont{\rmfamily\mdseries} 
+\subsectionfont{\rmfamily\mdseries\scshape\normalsize} 
+\subsubsectionfont{\rmfamily\bfseries\upshape\normalsize} 
+
+% PDF SETUP
+%--------------------------------
+\usepackage[xetex, bookmarks, colorlinks, breaklinks, pdftitle={Colin McLear's Vita},pdfauthor={Colin McLear}]{hyperref}
+\hypersetup{linkcolor=darkblue,citecolor=darjblue,filecolor=black,urlcolor=darkblue}
+
+% OTHER
+%-------------------------------
+\usepackage{lastpage}
+
+%%%------------------------------------------------------------------------
+%%% Page layout
+%%%------------------------------------------------------------------------
+
+% Avoid widows and orphans
+\clubpenalty = 10000
+\widowpenalty = 10000
+\displaywidowpenalty = 10000
+
+% Fancy header/footer
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\renewcommand{\headrulewidth}{0pt}
+\fancyhead{}
+\fancyfoot{}
+\rfoot{\footnotesize \thepage\ | \pageref{LastPage}}
+\lfoot{\footnotesize \myauthor}
+
+\fancypagestyle{firststyle}
+{
+  \fancyhf{}
+  % \cfoot{\footnotesize \thepage\ | \pageref{LastPage}}
+  \rfoot{\footnotesize \thepage\ | \pageref{LastPage}}
+  \renewcommand{\headrulewidth}{0pt}
+}
+\thispagestyle{firststyle}
+
+%%%------------------------------------------------------------------------
+%%% Local commands
+%%%------------------------------------------------------------------------
+
+%% Marginal header
+%% Note: as the document goes on you may need to introduce a (gradually increasing)
+%% \vspace element to keep the marginal header pleasingly aligned with the first
+%% item in the body text. Like this: \marginhead{{\vskip 0.4em}Grants}, or
+%% \marginhead{{\vskip 0.8em}Service}. Experiment as needed.
+
+
+%% custom ampersand (font consistent with the one chosen above)
+% \newcommand{\amper}{{\fontspec[Scale=.95,Colour=AA0000]{Minion Pro Medium}\selectfont\&\,}}
+
+%% No bullets on labels
+\renewcommand{\labelitemi}{~}
+
+%% Custom hanging indent for vita items
+\def\ind{\hangindent=1 true cm\hangafter=1 \noindent}
+%\def\ind{\hangindent=18pt\hangafter=1 \noindent}
+\def\labelitemi{~}
+\renewcommand{\labelitemii}{~}
+
+%-------------------------------------
+%-------------------------------------
+% DOCUMENT
+%-------------------------------------
+%-------------------------------------
+\begin{document}
+\setstretch{.97}
+
+%%%------------------------------------------------------------------------
+%%% Address and contact block
+%%%------------------------------------------------------------------------
+\begin{minipage}[t]{2.95in}
+ \flushright \footnotesize  Department of Philosophy\\  1003 Oldfather Hall\\  University of Nebraska--Lincoln\\  Lincoln, NE 68588-0321\\ 
+\end{minipage}
+\hfill
+\hfill
+\begin{minipage}[t]{1.7in}
+  \flushright \footnotesize \faicon{phone} ~607 216 8718\\ \Faxmachine ~402 272 0626\\ \faicon{envelope} ~\href{mailto:mclear@unl.edu}{\nolinkurl{mclear@unl.edu}}\\  \faicon{globe} ~\url{http://colinmclear.net}\\ 
+  Updated: \today
+\end{minipage}
+
+\bigskip
+
+%% Name
+\noindent{\huge {\textsc{Colin McLear}}}\\
+
+
+
+%-------------------------------------
+% AOS & AOC
+%-------------------------------------
+\subsection*{Areas of Specialization}
+
+\ind History of Modern (especially Kant), Philosophy of Mind
+
+\subsection*{Areas of Competence}
+
+\ind Aesthetics, Epistemology, Ethics, German Idealism, Political Theory
+
+\vspace{-2mm}
+%-------------------------------------
+% Appointments
+%-------------------------------------
+\section*{Appointments}
+\noindent
+\note{2013--present}\textsc{University of Nebraska--Lincoln}\\
+\emph{Assistant Professor}\\
+Lincoln, NE\\[.1cm]
+\note{2012--13}\textsc{Cornell University}\\
+\emph{The \emph{Philosophical Review} Visiting Lecturer}\\
+Ithaca, NY\\[.1cm]
+
+\vspace{-2mm}
+%-------------------------------------
+%% Education
+%-------------------------------------
+\section*{Education}
+\noindent
+\note{2013}\textbf{Ph.D, Philosophy}\\
+\emph{Cornell University}, Ithaca, NY\\[.1cm]
+\note{2011-12}\textbf{DAAD, Visiting Scholar}\\
+\emph{Humboldt Universität zu Berlin}, Berlin, DE\\[.1cm]
+\note{2010-11}\textbf{Visiting Student}\\
+\emph{Heidelberg Universität}, Heidelberg, DE\\[.1cm]
+\note{2000}\textbf{BA, Philosopy and Music}\\
+\emph{Kenyon College}, Gambier, OH\\[.1cm]
+
+\vspace{-2mm}
+%-------------------------------------
+%-------------------------------------
+% Publications
+%-------------------------------------
+%-------------------------------------
+\section*{Selected Publications}
+
+% Articles
+%-------------------------------------
+\subsection*{Articles}
+\noindent
+\note{Forthcoming}\enquote{Kant on Perceptual Content.}
+\emph{Mind} \\[.1cm]
+\note{2015}\enquote{Kant: Philosophy of Mind.}
+\emph{Internet Encyclopedia of Philosophy} \\[.1cm]
+\note{2015}\enquote{Two Kinds of Unity in the \emph{Critique of Pure Reason}.}
+\emph{Journal of the History of Philosophy} 53(1): 79--110\\[.1cm]
+\note{2014}\enquote{The Kantian (Non)-Conceptualism Debate.}
+\emph{Philosophy Compass} 9(11): 769--90\\[.1cm]
+\note{2011}\enquote{Kant on Animal Consciousness.}
+\emph{Philosophers' Imprint} 11(15): 1--16\\[.1cm]
+
+\vspace{-2mm}
+% Book Chapters
+%-------------------------------------
+\subsection*{Book Chapters}
+\noindent
+\note{Forthcoming}\enquote{Getting Acquainted with Kant.} In Dennis Schulting (ed.),
+\emph{Kantian Nonconceptualism}. New York: Palgrave Macmillan\\[.1cm]
+\note{Forthcoming}\enquote{Animals and Objectivity.} In Lucy Allais, John Callanan (eds.),
+\emph{Kant on Animals}. Oxford: Oxford University Press\\[.1cm]
+\note{Forthcoming}\enquote{Intuition and Presence.} In Anil Gomes, Andrew Stephenson (eds.),
+\emph{Kant and the Philosophy of Mind}. Oxford: Oxford University Press\\[.1cm]
+
+\vspace{-2mm}
+% Reviews and Criticism
+%-------------------------------------
+% \subsection*{Reviews \& Criticism}
+% \noindent
+% \note{2016}\enquote{Comments on Lucy Allais, \emph{Manifest Reality}.}
+% \emph{Virtual Critique} author meets critics session\\[.1cm]
+% \note{2016}\enquote{Review of Robert Brandom, \emph{From Empiricism to Expressivism}.}
+% \emph{Ethics} 126(3)\\[.1cm]
+% \note{2015}\enquote{Review of Lanier Anderson, \emph{The Poverty of Conceptual Thought}.}
+% \emph{Notre Dame Philosophical Reviews} \\[.1cm]
+% \note{2014}\enquote{Comments on Stefanie Grüne, \emph{Blinde Anschauung}.}
+% \emph{Virtual Critique} author meets critcs session\\[.1cm]
+% \note{2010}\enquote{Three Skeptics and the Critique: Critical Notice of Michael Forster's
+% Kant and Skepticism.}
+% \emph{Philosophical Books} 51: 228-244\\[.1cm]
+%-------------------------------------
+%-------------------------------------
+% Presentations
+%-------------------------------------
+%-------------------------------------
+
+\vspace{-2mm}
+\section*{Selected Recent Presentations}
+
+% Invited Presentations
+%-------------------------------------
+\note{2016}\enquote{Concepts \& Abilities.}
+\emph{Symposium on Kant on Concepts. Pacific division of the American
+Philosophical Association}. April\\[.1cm]
+\note{2015}\enquote{Animals \& Objectivity.}
+\emph{Humboldt-Universität zu Berlin.}. December\\[.1cm]
+\note{2015}\enquote{Definition \& Essence in the \emph{Metaphysical Foundations of Natural
+Science}.}
+\emph{Pacific division of the American Philosophical Association, Vancouver,
+BC}. April\\[.1cm]
+\note{2015}\enquote{Comments on Stefanie Grüne's ``Kant on the Object-Dependence of
+Intuition''.}
+\emph{Workshop on Kant and the Mind, University of Oxford}. January\\[.1cm]
+% \note{2014}\enquote{Definition \& Essence in the Metaphysical Foundations of Natural Science.}
+% \emph{Annual Meeting of the UK Kant Society, University of Oxford}. August\\[.1cm]
+% \note{2014}\enquote{Intuition \& Presence.}
+% \emph{Midwest Study Group of the North American Kant Society, Washington
+% University in St.~Louis}. October\\[.1cm]
+
+% \vspace{-2mm}
+% % Presentations
+% %-------------------------------------
+% \subsection*{Refereed}
+% \noindent
+% \note{2014}\enquote{Priority Monism, Intuition, and Freedom.}
+% \emph{Conference on Kantian Freedom at Simon Fraser University, Vancouver, BC}. October\\[.1cm]
+% \note{2014}\enquote{Kant on Intuition and Hallucination.}
+% \emph{Pacific division of the American Philosophical Association, San Diego}. April\\[.1cm]
+% \vspace{-2mm}
+%-------------------------------------
+% Teaching
+%-------------------------------------
+\section*{Teaching}
+\note{2013--present}\textsc{University of Nebraska--Lincoln}\\[.2cm]
+\textsc{phil 971} -- Topics in Kant (binanually)\\[.2cm]
+\textsc{phil 871} -- Graduate Survey of Kant's Critical Philosophy (biannually)\\[.2cm]
+\textsc{phil 232} -- History of Modern Philosophy (annually)\\[.2cm]
+\textsc{phil 101} -- Introduction to Philosophy (every semester)\\[.2cm]
+
+\vspace{-4mm}
+%-------------------------------------
+% Service
+%-------------------------------------
+\section*{Service}
+\note{UNL}
+{History Area Committee; Placement Co-director; Speakers Committee; UNL
+Graduate Fellowship Committee}\\[.1cm]
+% \note{Referee Work}
+% {Archiv für Geschichte der Philosophie, British Journal for the History
+% of Philosophy, Cambridge University Press, Dialogue, European Journal of
+% Philosophy, History of Philosophy Quarterly, Journal of Philosophical
+% Research, Kantian Review (multiple times), Kant Studies Online, Mind
+% (multiple times), Minds \& Machines, Oxford University Press (multiple
+% times), Philosophers' Imprint (multiple times), Philosophical Papers,
+% Philosophy \& Phenomenological Research, Res Philosophica, Social Theory
+% \& Practice, SSHRC of Canada, The Philosophical Review, The
+% Philosophical Quarterly}\\[.1cm]
+\note{Ongoing}
+{Subject-area Editor: Kant's Works, Philpapers.org}\\[.1cm]
+\note{2016}
+{Third Biennial NAKS Conference Peer Review Committee}\\[.1cm]
+\note{2015-16}
+{Program Committee member, Central Division APA}\\[.1cm]
+\note{2015}
+{Organizer, Chambers Conference, ``Kant on Introspection,
+Self-Consciousness, and Self-Knowledge.'' University of
+Nebraska--Lincoln, May}\\[.1cm]
+\note{2013}
+{Co-organizer, Second NAKS Biannual Meeting. Cornell University, June}\\[.1cm]
+\vspace{-2mm}
+%-------------------------------------
+% Awards
+%-------------------------------------
+\section*{Recent Awards}
+\note {2016}
+ENHANCE Award, University of Nebrask--Lincoln (\$3535)\\
+\note{2015}
+International Travel Grant, University of Nebraska--Lincoln (\$1500)\\[.1cm]
+\end{document}
+
+%%% Local Variables:
+%%% mode: latex
+%%% TeX-master: t
+%%% TeX-engine: xetex
+%%% End:

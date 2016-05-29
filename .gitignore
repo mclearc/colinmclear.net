@@ -5,3 +5,5 @@
 output/*
 *.py[cod]
 pelican-themes/
+undo-tree
+*~undo-tree~
