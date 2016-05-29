@@ -28,7 +28,8 @@ Links to tools I use for research and writing
 - [Markdown](http://daringfireball.net/projects/markdown/): Plaintext markup
   for easy writing
 - [Pandoc](http://johnmacfarlane.net/pandoc/index.html): File conversion
-- [Sublime Text](http://www.sublimetext.com): Superb text editor
+- [Emacs](https://www.gnu.org/software/emacs/): A superb (and free) text editor and writing/research platform
+<!-- - [Sublime Text](http://www.sublimetext.com): Superb text editor -->
 - [BibDesk](http://bibdesk.sourceforge.net): Reference manager
 - [Skim](http://skim-app.sourceforge.net): PDF reader & annotator
 - [Git](http://git-scm.com): Version control

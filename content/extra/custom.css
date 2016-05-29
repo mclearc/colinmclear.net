@@ -10,7 +10,7 @@
   }
 
 body {
-    font-family: 'Quattrocento Sans',sans-serif;
+    font-family: 'Helvetica','Helvetica Neue','Quattrocento Sans',sans-serif;
     font-size: 17px; 
     line-height: 1.628571; 
     color: black;
@@ -29,15 +29,18 @@ footer {
 
 h1 {
   font-family: Avenir,sans-serif;
+  font-variant: small-caps;
 
 }
 
 h2 {
   font-family: Avenir,sans-serif;
+  font-variant: small-caps;
 
 }
 h3 {
   font-family: Avenir,sans-serif;
+  font-variant: small-caps;
 
 }
 

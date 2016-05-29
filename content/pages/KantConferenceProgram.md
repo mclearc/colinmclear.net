@@ -7,9 +7,9 @@ Friday's conference session will take place in Mabel Lee Hall ([Google map link]
 prior to, and in between, sessions.
 
   
-## Friday, May 1
+# Friday, May 1 #
 
-#### Mabel Lee Hall, room 230.
+### Mabel Lee Hall, room 230. ###
 
 - 9:30-11: Yoon Choi (Marquette), "Inner Sense and the 1787 Deduction"
 - 11:15-12:45: Clinton Tolley (UCSD), "Distinguishing Inner Sensation, Intuition, Perception, and Experience"
@@ -25,9 +25,9 @@ prior to, and in between, sessions.
 
 ---
 
-## Saturday, May 2
+# Saturday, May 2 #
 
-#### Architecture Hall, room 127
+### Architecture Hall, room 127 ###
 
 - 10:00-11:30: Sasha Newton (UIUC), "Kant and the Transparency of the Mind"
 - 11:45-1:15: Anil Gomes (Oxford), "Unity, Passivity, Objectivity"

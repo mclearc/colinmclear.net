@@ -34,12 +34,12 @@
   
   /* Title of the resume */
   h1 {
-      font-size: 55px;
+      font-size: 40px;
       font-family: Optima;
       font-variant: small-caps;
       /* color: #757575; */
       color: #000;
-      text-align:left;
+      text-align:center;
       margin-bottom:20px;
       padding-bottom: 20px;
   }
@@ -106,12 +106,12 @@
       color: #000;
   }
   a:hover, a:active {
-      /* background-color: #397249; */
-      /* color: #FFFFFF; */
-      text-decoration: none;
-      border-bottom: 1px black solid;
-      /* text-shadow: 1px 1px 1px #333; */
-  }
+               /* background-color: #397249; */
+               /* color: #FFFFFF; */
+               text-decoration: none;
+               border-bottom: 1px black solid;
+               /* text-shadow: 1px 1px 1px #333; */
+           }
   
   /* Horizontal separators */
   hr {
@@ -128,32 +128,38 @@
       padding-left: 1.5em;
       text-indent: -1em;
   }
+  
+  #left{
+      float:left 
+  }
+  
+  #right{
+      float:right
+  }
   </style>
 </head>
 <body>
 
 <!--Address & Contact Info -->
-<div style="line-height: 1.2em">
-  <p>
-Department of Philosophy</br>
-1003 Oldfather Hall</br>
-University of Nebraska–Lincoln</br>
-Lincoln, NE 68588-0321</br>
-</p>
-</div>
+<div id="info" style="line-height: 1.2em">
+  <div id="left">
+        Department of Philosophy</br>
+      1003 Oldfather Hall</br>
+      University of Nebraska–Lincoln</br>
+      Lincoln, NE 68588-0321</br>
+  </div>
 
-<div style="line-height: 1.2em;">
-  <p>
+<div id="right" style="line-height: 1.2em;">
     <i class="fa fa-phone"></i> 607 216 8718</br>
-    <i class="fa fa-fax"></i> 402 272 0626</br>
-    <i class="fa fa-envelope-o"></i> <script type="text/javascript">
+<i class="fa fa-fax"></i> 402 272 0626</br>
+<i class="fa fa-envelope-o"></i> <script type="text/javascript">
 <!--
 h='&#x75;&#110;&#108;&#46;&#x65;&#100;&#x75;';a='&#64;';n='&#x6d;&#x63;&#108;&#x65;&#x61;&#114;';e=n+a+h;
 document.write('<a h'+'ref'+'="ma'+'ilto'+':'+e+'" clas'+'s="em' + 'ail">'+e+'<\/'+'a'+'>');
 // -->
 </script><noscript>&#x6d;&#x63;&#108;&#x65;&#x61;&#114;&#32;&#x61;&#116;&#32;&#x75;&#110;&#108;&#32;&#100;&#x6f;&#116;&#32;&#x65;&#100;&#x75;</noscript></br>
-    <i class="fa fa-globe"></i> <a href="http://colinmclear.net" class="uri">http://colinmclear.net</a></br>
-</p>
+      <i class="fa fa-globe"></i> <a href="http://colinmclear.net" class="uri">http://colinmclear.net</a></br>
+  </div>
 </div>
 
 <h1>Colin McLear</h1>
@@ -239,13 +245,17 @@ document.write('<a h'+'ref'+'="ma'+'ilto'+':'+e+'" clas'+'s="em' + 'ail">'+e+'<\
     <i>Kant on Animals</i>. Oxford: Oxford University Press
 </li>
     <li>
-    <b>Forthcoming</b>: "Intuition and Prensence." In Anil Gomes, Andrew Stephenson (eds.),
-    <i>Kant on Animals</i>. Oxford: Oxford University Press
+    <b>Forthcoming</b>: "Intuition and Presence." In Anil Gomes, Andrew Stephenson (eds.),
+    <i>Kant and the Philosophy of Mind</i>. Oxford: Oxford University Press
 </li>
         
     <!--Reviews & Criticism -->
     <h3> Reviews & Criticism </h3>
             <li>
+    <b>2016</b>: "Comments on Lucy Allais, <em>Manifest Reality</em>."
+    <i>Virtual Critique</i> author meets critics session
+    </li>
+        <li>
     <b>2016</b>: "Review of Robert Brandom, <em>From Empiricism to Expressivism</em>."
     <i>Ethics</i> 126(3)
     </li>
@@ -254,16 +264,12 @@ document.write('<a h'+'ref'+'="ma'+'ilto'+':'+e+'" clas'+'s="em' + 'ail">'+e+'<\
     <i>Notre Dame Philosophical Reviews</i> 
     </li>
         <li>
-    <b>2015</b>: "Comments on Lucy Allais, <em>Manifest Reality</em>."
-    <i>Virtual Critique</i> author meets critics session
-    </li>
-        <li>
     <b>2014</b>: "Comments on Stefanie Grüne, <em>Blinde Anschauung</em>."
     <i>Virtual Critique</i> author meets critcs session
     </li>
         <li>
     <b>2010</b>: "Three Skeptics and the Critique: Critical Notice of Michael Forster’s Kant and Skepticism."
-    <i>Philosophical Books</i> 51: 228-244
+    <i>Philosophical Books</i> 51: 228-244 (co-authored with Andrew Chignell)
     </li>
         
 <!--Presentations -->
@@ -274,6 +280,10 @@ document.write('<a h'+'ref'+'="ma'+'ilto'+':'+e+'" clas'+'s="em' + 'ail">'+e+'<\
             <li>
     <b>2016</b>: "Concepts &amp; Abilities."
     Symposium on Kant on Concepts. Pacific division of the American Philosophical Association. April
+    </li>
+        <li>
+    <b>2015</b>: "Animals &amp; Objectivity."
+    Humboldt-Universität zu Berlin. December
     </li>
         <li>
     <b>2015</b>: "Comments on Stefanie Grüne’s “Kant on the Object-Dependence of Intuition”."
@@ -293,7 +303,7 @@ document.write('<a h'+'ref'+'="ma'+'ilto'+':'+e+'" clas'+'s="em' + 'ail">'+e+'<\
     </li>
         <li>
     <b>2013</b>: "Kant on the Representation of an Object."
-    University of Michigan; University of Illinois, Urbana-Champaign; Illinois State University. January–Febuary
+    University of Michigan; University of Illinois, Urbana-Champaign; Illinois State University. January–February
     </li>
         <li>
     <b>2012</b>: "Comments on Desmond Hogan’s ‘Handedness, Idealism, and Freedom’."
@@ -407,10 +417,13 @@ document.write('<a h'+'ref'+'="ma'+'ilto'+':'+e+'" clas'+'s="em' + 'ail">'+e+'<\
 <b>UNL</b>: History Area Committee; Placement Co-director; Speakers Committee; UNL Graduate Fellowship Committee
 </li>
 <li>
-<b>Referee Work</b>: Archiv für Geschichte der Philosophie, British Journal for the History of Philosophy, Cambridge University Press, Dialogue, European Journal of Philosophy, History of Philosophy Quarterly, Journal of Philosophical Research, Kantian Review (multiple times), Kant Studies Online, Mind (multiple times), Minds &amp; Machines, Oxford University Press (multiple times), Philosophers’ Imprint (multiple times), Philosophical Papers, Philosophy &amp; Phenomenological Research, Res Philosophica, Social Theory &amp; Practice, SSHRC of Canada, The Philosophical Review, The Philosophical Quarterly
+<b>Referee Work</b>: Archiv für Geschichte der Philosophie, British Journal for the History of Philosophy (multiple times), Cambridge University Press, Dialogue (multiple times), European Journal of Philosophy (multiple times), History of Philosophy Quarterly, Journal of the History of Philosophy, Journal of Philosophical Research, Kantian Review (multiple times), Kant Studies Online, Mind (multiple times), Minds &amp; Machines, Oxford University Press (multiple times), Pacific Philosophical Quarterly, Philosophers’ Imprint (multiple times), Philosophical Papers, Philosophy &amp; Phenomenological Research, Res Philosophica, Social Theory &amp; Practice, SSHRC of Canada, The Philosophical Review, The Philosophical Quarterly
 </li>
 <li>
 <b>Ongoing</b>: Subject-area Editor: Kant’s Works, Philpapers.org
+</li>
+<li>
+<b>2016</b>: Third Biennial NAKS Conference Peer Review Committee
 </li>
 <li>
 <b>2015-16</b>: Program Committee member, Central Division APA
@@ -435,6 +448,9 @@ document.write('<a h'+'ref'+'="ma'+'ilto'+':'+e+'" clas'+'s="em' + 'ail">'+e+'<\
 <!--Awards -->
 <h2>Awards</h2>
 
+<li>
+  <b>2016</b>:  ENHANCE CAS Award, University of Nebraska–Lincoln
+</li>
 <li>
   <b>2015</b>:  International Travel Grant, University of Nebraska–Lincoln
 </li>

@@ -20,10 +20,8 @@ and rationality, and animal cognition.
 
 # Articles #
 
-- "Kant on Perceptual Content," forthcoming in *Mind*. [(Preprint)](|filename|/pdfs/papers/KantContent.pdf)  
-- ["Kant's Philosophy of Mind,"](http://www.iep.utm.edu/kandmind/)
-  *Internet Encyclopedia of Philosophy*.
-  [(Preprint)](|filename|/pdfs/papers/KantIEP.pdf)  
+- ["Kant on Perceptual Content,"](http://mind.oxfordjournals.org/content/125/497/95) *Mind*, Vol. 125, no. 497. January 2016, pp. 95-144. [(Preprint)](|filename|/pdfs/papers/KantContent.pdf)  
+- ["Kant's Philosophy of Mind,"](http://www.iep.utm.edu/kandmind/) *Internet Encyclopedia of Philosophy*. [(Preprint)](|filename|/pdfs/papers/KantIEP.pdf)  
 - ["Two Kinds of Unity in the *Critique of Pure Reason*,"](http://muse.jhu.edu/login?auth=0&type=summary&url=/journals/journal_of_the_history_of_philosophy/v053/53.1.mclear.html) *Journal of the History of Philosophy*, Vol. 53, no. 1. January 2015, pp. 79-110. [(Postprint)](|filename|/pdfs/papers/KantUnity.pdf)
 - ["The Kantian (Non)-Conceptualism Debate,"](http://onlinelibrary.wiley.com/doi/10.1111/phc3.12166/abstract) *Philosophy Compass*, Vol. 9, no. 11. November 2014, pp. 769-90. doi:[10.1111/phc3.12166](http://10.1111/phc3.12166). [(Preprint)](|filename|/pdfs/papers/KantConceptualism.pdf)
 - ["Kant on Animal Consciousness,"](|filename|/pdfs/papers/KantAnimalConsciousness.pdf) *Philosophers' Imprint*, Vol. 11, no.15. November 2011, pp. 1-16.
@@ -32,33 +30,33 @@ and rationality, and animal cognition.
 # Book Chapters #
 
 - “Getting Acquainted with Kant,” forthcoming in Dennis Schulting (ed.),
-*Kantian Nonconceptualism*. New York: Palgrave Macmillan.
+*Kantian Nonconceptualism*. New York: Palgrave Macmillan. [(Preprint)]({filename}/pdfs/papers/KantAcquaintance.pdf)
 - “Animals & Objectivity,” forthcoming in Lucy Allais, John Callanan
-(eds.) *Kant on Animals*. Oxford: Oxford University Press.
+(eds.) *Kant on Animals*. Oxford: Oxford University Press. [(Draft)]({filename}/pdfs/papers/KantAnimals.pdf)
 - “Intuition & Presence,” forthcoming in Anil Gomes, Andrew Stephenson
-  (eds), *Kant and the Philosophy of Mind*. Oxford: Oxford University Press.
+  (eds), *Kant and the Philosophy of Mind*. Oxford: Oxford University Press. [(Preprint)]({filename}/pdfs/papers/KantPresence.pdf)
 
 # Reviews & Criticism #
 
 - Review of Robert Brandom, *From Empiricism to Expressivism*. Forthcoming in *Ethics*.
-- Comments on Lucy Allais' *Manifest Reality*. Author meet critics session of [*Critique*](http://virtualcritique.wordpress.com/about/).
+- Comments on Lucy Allais' *Manifest Reality*. Author meet critics session of
+  [*Critique*](http://virtualcritique.wordpress.com/about/). ([PDF version](|filename|/pdfs/papers/AllaisCritique.pdf))
 - [Review of Lanier Anderson, *The Poverty of Conceptual Truth*.](http://ndpr.nd.edu/news/61951-the-poverty-of-conceptual-truth-kant-s-analytic-synthetic-distinction-and-the-limits-of-metaphysics/) *Notre Dame Philosophical Reviews*. 
 - [Comments on Stefanie Grüne's *Blinde Anschauung*](http://virtualcritique.wordpress.com/2014/08/19/colin-mclear-on-stefanie-grunes-blinde-anschauung/), Author meets critics session of [*Critique*](http://virtualcritique.wordpress.com/about/). ([PDF version](|filename|/pdfs/papers/GruneCritique.pdf))
 
 
 <!-- - Forthcoming. ``Review of Lanier Anderson, *The Poverty of Conceptual Thought*.'' *Notre Dame Philosophical Reviews*. --> 
-<!-- - Forthcoming. ``Comments on Lucy Allais' *Manifest Reality*.'' Author meets critics session for [*Virtual Critique*](http://virtualcritique.wordpress.com/). --> 
   
 # Work in Progress #
 
 If you're interested in a draft of any of the following please [email me](mailto:mclear@unl.edu).
 
-- "Concepts and Abilities"
-- "Kant on the Cognitive Role of Intuition"
+- "Concept, Intuition, and Structure" 
 - "Motion and the Affection Argument"
 - "Definition & Essence in the *Metaphysical Foundations of Natural Science*"
 <!-- - "Priority Monism, Intuition, & Freedom" (with Derk Pereboom) -->
 <!-- - "Strands of Subjectivity: Kant on Presentation and Projection" -->
+<!-- - "Kant on the Cognitive Role of Intuition" -->
 
 # Upcoming Conferences & Presentations #
 

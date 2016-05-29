@@ -6,15 +6,13 @@ AUTHOR = u'Colin McLear'
 SITENAME = u'Colin McLear'
 SITEURL = u'http://colinmclear.net'
 # # Uncomment following line if you want document-relative URLs when developing
-# RELATIVE_URLS = True
-CACHE_CONTENT = True
-CACHE_PATH = '/Users/Roambot/Dropbox/Personal/bin/pelican-web/cache'
-AUTORELOAD_IGNORE_CACHE = True
-LOAD_CONTENT_CACHE = False
-GOOGLE_ANALYTICS = 'UA-30497236-1'
+RELATIVE_URLS = True
+# CACHE_CONTENT = True
+# CACHE_PATH = '/Users/Roambot/Dropbox/Personal/bin/pelican-web/cache'
+# AUTORELOAD_IGNORE_CACHE = True
+# LOAD_CONTENT_CACHE = True
+# CHECK_MODIFIED_METHOD = 'mtime'
 # INDEX_SAVE_AS = 'blog_index.html'
-DISQUSURL = 'http://colinmclear.net'
-DISQUS_SITENAME = 'colinmclear'
 PAGE_URL = '{slug}'
 PAGE_SAVE_AS = '{slug}/index.html'
 
@@ -22,8 +20,6 @@ PAGE_SAVE_AS = '{slug}/index.html'
 # DEFAULT_METADATA = {
 #     'status': 'draft',
 # }
-
-
 
 READERS = {'html': None}
 DELETE_OUTPUT_DIRECTORY = True
@@ -44,7 +40,7 @@ DEFAULT_LANG = u'en'
 
 # THEME='/Users/Roambot/Dropbox/Personal/Hacks/colinmclear.net-pelican/pelican-themes/pelican-bootstrap3'
 
-THEME='/Users/Roambot/Dropbox/Personal/bin/pelican-web/pelican-bootstrap3'
+THEME='/Users/Roambot/projects/website/pelican-bootstrap3'
 BOOTSTRAP_THEME='simplex'
 # Change navbar color
 BOOTSTRAP_NAVBAR_INVERSE = True
@@ -56,17 +52,17 @@ CC_LICENSE = "CC-BY-NC-SA"
 TYPOGRIFY = True
 
 # Plugins
-PLUGIN_PATHS = ['/Users/Roambot/Dropbox/Personal/bin/pelican-plugins']
+PLUGIN_PATHS = ['/Users/Roambot/bin/pelican-plugins']
 PLUGINS = ['pandoc_reader', 'assets', 'tipue_search', 'tag_cloud', 'neighbors']
-
 PANDOC_ARGS = [
-    '--filter=pandoc-citeproc',
-    '--base-header-level=3',
-    '--standalone',
-    '--smart',
+    '--filter=/Users/Roambot/bin/pandoc-citeproc',
+    '--base-header-level=2',
+    # '--standalone',
+    # '--smart',
     '--bibliography=/Users/Roambot/Dropbox/Work/Master.bib',
     '--mathjax',
     '--toc',
+    '--toc-depth=5',
   ]
 
 
@@ -85,12 +81,6 @@ SOCIAL = (('academia.edu', 'https://un-lincoln.academia.edu/ColinMcLear', 'book'
           )
 
 DEFAULT_PAGINATION = 10
-
-
-
-
-
-
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None

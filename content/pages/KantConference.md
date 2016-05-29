@@ -28,7 +28,7 @@ accordingly!
   [contact me]: mailto:mclear@unl.edu
   [Lincoln Marathon]: http://www.lincolnmarathon.org
 
-## Participants ##
+# Participants #
 
 Confirmed speakers:
 
@@ -40,7 +40,7 @@ Confirmed speakers:
 - [Alexandra Newton](http://www.philosophy.illinois.edu/people/amnewton) (University of Illinois, Urbana-Champaign)
 - [Clinton Tolley](http://philosophyfaculty.ucsd.edu/faculty/ctolley/) (University of California, San Diego)
 
-## Accomodations ##
+# Accomodations #
 
 There are various suitable hotels in downtown Lincoln. Here is a list from most to least expensive:
 
@@ -69,7 +69,7 @@ for $60 per night. If you think you'd be interested in an apartment please
   [short term rental apartments]: http://ianrhome.unl.edu/apartments
   [contact me]: mailto:mclear@unl.edu
 
-## Travel ##
+# Travel #
 
 There are flights daily from both the [Lincoln Airport](http://www.lincolnairport.com) (LNK) and [Eppley Airport](http://www.flyoma.com) (OMA) in Omaha, about an [hour north](https://www.google.com/maps/dir/Eppley+Airfield,+4501+Abbott+Drive,+Omaha,+NE+68110/Lincoln,+NE/@41.297008,-95.902026,17z/data=!4m17!4m16!1m5!1m1!1s0x87939aa5e9097ba3:0x1fb780b63c0867bd!2m2!1d-95.893591!2d41.302496!1m5!1m1!1s0x8796be59ca561265:0x633a859b1fd5deb9!2m2!1d-96.675278!2d40.809722!6m3!1i0!2i0!3i0) of Lincoln. 
 
