@@ -67,8 +67,8 @@ PANDOC_ARGS = [
 
 
 # Blogroll
-LINKS = (('PHIL 232', 'http://colinmclear.net/phil232'),
-        ('PHIL 971', 'http://colinmclear.net/phil971'),
+LINKS = (('PHIL 232', 'http://phil232.colinmclear.net'),
+        ('PHIL 871', 'http://phil871.colinmclear.net/'),
         ('Blackboard', 'https://my.unl.edu/webapps/portal/frameset.jsp'),
         ('UNL Philosophy', 'http://www.unl.edu/philosophy/'))
 
