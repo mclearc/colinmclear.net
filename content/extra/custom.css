@@ -44,5 +44,85 @@ h3 {
 
 }
 
+/*
+ * Sidebar
+ *
+ * Flexible banner for housing site name, intro, and "footer" content. Starts
+ * out above content in mobile and later moves to the side with wider viewports.
+ */
+
+.navbar-inverse {
+  background: #FF0000;
+  -webkit-animation:cyclecolors linear infinite;
+  -webkit-animation-duration: 60s;
+  -webkit-animation-iteration-count: infinite;
+  -moz-animation-iteration-count: infinite;
+  -o-animation-iteration-count: infinite;
+  /* letter-spacing: .1em; */
+  list-style: none;
+  width: 100%;
+}
+
+/* navbar color cycle animation */
+
+@keyframes cyclecolors 
+
+  {
+    0%  {background:#FF0000; background-color: #FF0000; border-color: #FF0000;}
+    16%  {background:#FF6600; background-color: #FF6600; border-color: #FF6600;}
+    32%  {background:#F7D708; background-color: #F7D708; border-color: #F7D708;}
+    48% {background:#39B3DD; background-color: #39B3DD; border-color: #39B3DD;}
+    64% {background:#21B6A8; background-color: #21B6A8; border-color: #21B6A8;}
+    96% {background:#DB70DB; background-color: #DB70DB; border-color: #DB70DB;}
+  }
+
+@-webkit-keyframes cyclecolors /* Safari */
+  {   
+    0%  {background:#FF0000; background-color: #FF0000; border-color: #FF0000;}
+    16%  {background:#FF6600; background-color: #FF6600; border-color: #FF6600;}
+    32%  {background:#F7D708; background-color: #F7D708; border-color: #F7D708;}
+    48% {background:#39B3DD; background-color: #39B3DD; border-color: #39B3DD;}
+    64% {background:#21B6A8; background-color: #21B6A8; border-color: #21B6A8;}
+    96% {background:#DB70DB; background-color: #DB70DB; border-color: #DB70DB;}
+  }
+  
+@-moz-keyframes cyclecolors /* Firefox */
+  {
+    0%  {background:#FF0000; background-color: #FF0000; border-color: #FF0000;}
+    16%  {background:#FF6600; background-color: #FF6600; border-color: #FF6600;}
+    32%  {background:#F7D708; background-color: #F7D708; border-color: #F7D708;}
+    48% {background:#39B3DD; background-color: #39B3DD; border-color: #39B3DD;}
+    64% {background:#21B6A8; background-color: #21B6A8; border-color: #21B6A8;}
+    96% {background:#DB70DB; background-color: #DB70DB; border-color: #DB70DB;}
+  }
 
 
+/* Change site title color */
+.navbar-inverse .navbar-brand {
+    /* background-color: black; */
+    color: black;/* CHANGE COLOR HERE*/
+}
+
+/* Change list items color */
+.navbar-inverse .nav > li > a {
+color: #000000;/* CHANGE COLOR HERE*/
+}
+
+/* Change toggle colors */
+.navbar-inverse .navbar-toggle{border-color: black;}
+.navbar-inverse .navbar-toggle:hover,.navbar-inverse .navbar-toggle:focus{background-color: white;}
+.navbar-inverse .navbar-toggle .icon-bar {
+    background-color: black;
+    border-color: black;
+    color: #000000;/* CHANGE COLOR HERE*/
+}
+
+/* Collapse divider color */
+.navbar-inverse .navbar-collapse,.navbar-inverse .navbar-form{border-color: black;}
+.navbar-inverse .navbar-nav .open .dropdown-menu .divider{background-color: black;}
+
+/* Change site title color */
+.navbar-inverse .navbar-brand {
+    /* background-color: black; */
+    color: black;/* CHANGE COLOR HERE*/
+}
