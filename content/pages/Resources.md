@@ -20,7 +20,7 @@ Some links for research, and for writing good philosophical prose.
     - [ZVDD](http://www.zvdd.de/startseite/)
     - [VD17](http://gso.gbv.de/DB=1.28/SET=1/TTL=1/)
     - [KVK](http://kvk.bibliothek.kit.edu/?digitalOnly=0&embedFulltitle=0&newTab=0)
-    - [Digitalisierte Sammlungen](http://digital-beta.staatsbibliothek-berlin.de)
+    - [Digitalisierte Sammlungen (Berlin)](http://digital-beta.staatsbibliothek-berlin.de)
     - [Deutsche Digitale Bibliothek](https://www.deutsche-digitale-bibliothek.de)
 - [Philosophical Terms & Methods](http://www.jimpryor.net/teaching/vocab/index.html)
 - [Jim Pryor's](http://www.jimpryor.net) guides to [reading](http://www.jimpryor.net/teaching/guidelines/reading.html) and [writing](http://www.jimpryor.net/teaching/guidelines/writing.html) philosophy
