@@ -54,7 +54,7 @@ h3 {
 .navbar-inverse {
   background: #FF0000;
   -webkit-animation:cyclecolors linear infinite;
-  -webkit-animation-duration: 60s;
+  -webkit-animation-duration: 75s;
   -webkit-animation-iteration-count: infinite;
   moz-animation-iteration-count: infinite;
   animation:cyclecolors linear infinite;

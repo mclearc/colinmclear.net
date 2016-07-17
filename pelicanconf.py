@@ -73,10 +73,11 @@ LINKS = (('PHIL 101', 'http://phil101.colinmclear.net'),
         ('UNL Philosophy', 'http://www.unl.edu/philosophy/'))
 
 # Social widget
-SOCIAL = (('academia.edu', 'https://un-lincoln.academia.edu/ColinMcLear', 'book'),
+SOCIAL = (
           ('philpapers', 'http://philpapers.org/profile/740', 'file-text'),
-          ('twitter', 'http://twitter.com/mclearc'),
           ('github', 'https://github.com/mclearc'),
+          ('twitter', 'http://twitter.com/mclearc'),
+          ('academia.edu', 'https://un-lincoln.academia.edu/ColinMcLear', 'book'),
           ('facebook', 'https://www.facebook.com/?_rdr=p'),
           )
 
