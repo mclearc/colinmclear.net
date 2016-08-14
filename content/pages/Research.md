@@ -34,7 +34,8 @@ Loading papers from Colin McLear's profile... (Click <a href="http://philpapers.
 
 If you're interested in a draft of any of the following please [email me](mailto:mclear@unl.edu).
 
-- "Kant on Knowledge of Self & Nature"
+- "'I am the original of all objects': Apperception & the Substantial Subject"
+- "Kant on the Parity of Inner & Outer Sense"
 - "Concept, Intuition, and Structure" 
 - "Motion and the Affection Argument"
 - "Definition & Essence in the *Metaphysical Foundations of Natural Science*"
@@ -42,8 +43,13 @@ If you're interested in a draft of any of the following please [email me](mailto
 
 # Upcoming Conferences & Presentations #
 
-- "Self-Knowledge & Knowledge of Nature." Kolloquium Prof. Dr. Tobias Rosefeldt, Humboldt-Universität zu Berlin. July.
-- TBA. Colloquium, Rhode Island College. September.
+- "Self-Knowledge & Knowledge of Nature." Kolloquium Prof. Dr. Tobias
+  Rosefeldt, Humboldt-Universität zu Berlin. July
+- "Concept, Intuition, & Structure." Brown University History of
+  Philosophy Roundtable. October
+- "Apperception & the Substantial Subject." Philosophy Colloquium, Rhode
+  Island College. October
+- "TBA." Guest lecture, Graduate Seminar on Kant. The Ohio State University. March
 
 I'll also be teaching a seminar at Oxford this coming spring (Trinity
 term 2017) with [Anil Gomes](http://www.anilgomes.com). Topic is still
