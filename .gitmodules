@@ -1,4 +1,0 @@
-
-[submodule "pelican-bootstrap3"]
-	path = pelican-bootstrap3
-	url = https://github.com/mclearc/pelican-bootstrap3.git

@@ -1,0 +1,191 @@
+#+TITLE: Personal Website
+#+DATE: July 17, 2018
+#+AUTHOR: Colin McLear
+
+* Website
+** Pages
+:PROPERTIES:
+:EXPORT_HUGO_SECTION: ./
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :author false :toc false
+:END:
+#+LANGUAGE: en
+#+OPTIONS: ':t
+
+*** Welcome!
+:PROPERTIES:
+:EXPORT_FILE_NAME: home
+:END:
+
+I am an Associate Professor in the [[http://www.unl.edu/philosophy/][Department of Philosophy]] at the University
+of Nebraska-Lincoln. My work focuses on two (often intersecting) areas
+of philosophy -- the History of Modern Philosophy (especially Kant) and
+the Philosophy of Mind. Here you'll find links to my [[file:content/research.md][research]] and [[file:content/teaching.md][teaching]], as
+well as the occasional [[http://colinmclear.net/category/blog][blogpost]].
+
+If you're interested, here's my complete CV: [[file:/materials/McLearCV.pdf][PDF]] | [[file:/materials/McLearCV.html][HTML]].
+
+*** Research
+:PROPERTIES:
+:EXPORT_FILE_NAME: research
+:EXPORT_HUGO_MENU: :menu main
+:END:
+
+I have broad interests in the history of seventeenth and eighteenth century
+European philosophy, though my work to date mostly focuses on Immanuel Kant's
+philosophy. I have written on Kant's views concerning the mind, perception,
+his theory of human reason and rationality, and the broader metaphysical and
+epistemological views with which these ideas are integrated. I'm also very
+interested in seeing what, if any, connections may be made between Kant's
+positions and contemporary research programs in the philosophy of mind and
+metaphysics. In particular, I am interested in issues pertaining to the study
+of mental content, the nature and significance of self-consciousness,
+reasoning and rationality, and animal cognition.
+
+<style>
+.xpapers_abstract { font-size:smaller; padding:6px }
+.xpapers_pubtype {font-size:28px}
+.publication-title {font-weight:regular }
+.publication-cite { color : #444 }
+</style>
+
+<script id='ppl-widget' type="text/javascript" src="https://philpeople.org/widget/colin-mclear.js?app=philpapers&amp;iframe=true"></script>
+
+**** Work in Progress 
+
+If you're interested in a draft of any of the following please [[mailto:mclear@unl.edu][email me]].
+
+- "Kant on Reflection" 
+- "On the Freedom of the Intellect"
+
+# - "'I am the original of all objects': Apperception & the Substantial Subject"
+# - "Definition & Essence in the /Metaphysical Foundations of Natural Science/" 
+
+
+**** Upcoming Conferences & Presentations 
+
+
+*** Resources
+:PROPERTIES:
+:EXPORT_FILE_NAME: resources
+:EXPORT_HUGO_MENU: :menu main
+:END:
+
+Some links for research, and for writing good philosophical prose.
+
+**** Philosophy Links
+- [[http://plato.stanford.edu][Stanford Encyclopedia of Philosophy]]
+- [[http://www.iep.utm.edu/][Internet Encyclopedia of Philosophy]]
+- [[http://philpapers.org][PhilPapers]]
+  
+**** Reading & Writing Philosophy
+- [[http://www.jimpryor.net/teaching/vocab/index.html][Philosophical Terms & Methods]]
+- [[http://www.jimpryor.net][Jim Pryor's]] guides to [[http://www.jimpryor.net/teaching/guidelines/reading.html][reading]] and [[http://www.jimpryor.net/teaching/guidelines/writing.html][writing]] philosophy
+- [[http://philosophy.hku.hk/think/][Critical Thinking]]
+- [[http://owl.english.purdue.edu/owl/][Purdue Online Writing Lab]] 
+- [[http://writingproject.fas.harvard.edu/files/hwp/files/philosophical_writing.pdf][A Guide to Philosophical Writing]]
+- [[https://www.dropbox.com/s/lyods0bt22x8u6l/ThesisOverview.pdf?dl=0][Writing a Thesis Statement]]
+- [[https://www.dropbox.com/s/eaggc570nfu6nqa/PaperStructure.pdf?dl=0][Philosophy Paper Structure]]
+
+**** Kant Related Links
+- [[http://kantpapers.org][KantPapers]]
+- [[http://www.manchester.edu/kant/Home/index.htm][Kant in the Classroom]]
+- [[http://staffweb.hkbu.edu.hk/ppp/Kant.html][Kant on the Web]]
+- [[http://www.kant.uni-mainz.de/Welcome.html][Kant-Forschungsstelle]]
+- [[http://earlymoderntexts.com][Early Modern Philosophy Texts]]
+- [[https://korpora.zim.uni-duisburg-essen.de/Kant/verzeichnisse-gesamt.html][Kant
+  Akademieausgabe (Courtesy of Universität Bonn)]]
+
+**** Sources for online German texts
+- [[http://gso.gbv.de/DB=1.28/SET=1/TTL=1/][VD17]]
+- [[http://www.zvdd.de/startseite/][ZVDD]]
+- [[http://kvk.bibliothek.kit.edu/?digitalOnly=0&embedFulltitle=0&newTab=0][KVK]]
+- [[http://digital-beta.staatsbibliothek-berlin.de][Digitalisierte
+  Sammlungen (Berlin)]]
+- [[https://www.deutsche-digitale-bibliothek.de][Deutsche Digitale Bibliothek]]
+
+**** Academic Technology & Tools
+
+Links to tools I use for research and writing
+
+- [[http://daringfireball.net/projects/markdown/][Markdown]]: Plaintext markup for easy writing
+- [[http://johnmacfarlane.net/pandoc/index.html][Pandoc]]: File conversion
+- [[https://www.gnu.org/software/emacs/][Emacs]]: A superb (and free) text editor and writing/research platform
+  - If you want to get started with emacs you might take a look at my [[https://github.com/mclear-tools/dotemacs/blob/master/config.org][configuration file]]
+- [[http://bibdesk.sourceforge.net][BibDesk]]: Reference manager for bib files (Free, OS X only)
+- [[http://skim-app.sourceforge.net][Skim]]: PDF reader & annotator (Free, OS X only)
+- [[https://www.zotero.org][Zotero]]: A great free way to collect and manage references. Works well with bibtex via [[https://github.com/retorquere/zotero-better-bibtex][zotero better bibtex]]
+- [[http://git-scm.com][Git]]: Version control
+- [[https://education.github.com][Github]]: Online storage and collaboration
+- Kieran Healy's [[http://kieranhealy.org/resources/][writing resources page]]
+- [[http://chronicle.com/blogs/profhacker/][Profhacker]]: Blog on teaching & technology
+- [[http://programminghistorian.org][The Programming Historian]]: Tutorials for aspiring digital humanists
+
+
+*** Contact
+:PROPERTIES:
+:EXPORT_FILE_NAME: contact
+:EXPORT_HUGO_MENU: :menu main
+:END:
+
+Dr. Colin McLear\\
+Office: 1003 Oldfather Hall\\
+Office Hours: T 1:00-3:20 and by appointment\\
+Email: [[mailto:mclear@unl.edu][mclear@unl.edu]]
+
+Email is the best way to reach me. I answer emails as soon as I can, but
+primarily only on /weekdays/. 
+
+*** Teaching
+:PROPERTIES:
+:EXPORT_FILE_NAME: teaching
+:EXPORT_HUGO_MENU: :menu main
+:END:
+
+I regularly teach Introduction to Philosophy (PHIL 101), an
+undergraduate survey of 'modern' philosophy of the seventeenth and
+eighteenth centuries (PHIL 232), and graduate level courses on Kant and
+related topics (PHIL 871 & PHIL 971).
+
+**** Fall 2018
+- PHIL 105: [[http://phil105.colinmclear.net][The Philosophy of Food]]
+- PHIL 871: [[http://phil871.colinmclear.net][Kant's Critical Philosophy]]
+
+**** Spring 2019
+- On leave
+
+**** Previously Taught
+- PHIL 232 (Yearly): [[http://phil232.colinmclear.net][History of Early Modern Philosophy]]
+- PHIL 101 (Yearly): [[http://phil101.colinmclear.net][Introduction to Philosophy]]
+- PHIL 971 (Fall 2017): [[http://phil971.colinmclear.net/][Self-Knowledge in Kant & Early German Idealism]]
+- PHIL 971 (Spring 2016): [[file:/materials/course-syllabi/ISKSyllabus.pdf][Introspection & Self-Knowledge]]
+- PHIL 971 (Fall 2013): [[file:/materials/course-syllabi/ConceptualismSyllabus.pdf][Seminar on Conceptualism]]
+- PHIL 4/860 (Fall 2016): [[file:/materials/course-syllabi/kant-modern-syllabus.pdf][Kant & Early Modern Philosophy]]
+- Seminar on [[http://ox-kant.colinmclear.net][Kant on perception and cognition]] at Oxford, with [[http://www.anilgomes.com][Anil Gomes]]
+
+* Configuration
+#+HUGO_BASE_DIR: ./ 
+#+STARTUP: nologdone
+#+OPTIONS: H:4 author:nil date:nil
+#+OPTIONS: prop:t
+#+OPTIONS: ':t
+#+SELECT_TAGS: export
+#+EXCLUDE_TAGS: noexport archive nohugo
+#+TODO: DRAFT | DONE CANCELED
+#+TODO: TODO | DONE CANCELED
+#+LANGUAGE: en
+#+PANDOC_METADATA: numbersections:t secnumdepth:4 
+#+PANDOC_METADATA: link-citations:t colorlinks:t toc:false 
+#+PANDOC_METADATA: "lhead:"
+#+PANDOC_METADATA: "mainfont:Optima"
+#+PANDOC_METADATA: spacing:singlespacing 
+#+PANDOC_METADATA: noindent: parskip:.85em
+#+PANDOC_OPTIONS: template:~/.pandoc/pandoc-templates/tufteII.tex
+#+PANDOC_OPTIONS: standalone:t pdf-engine:xelatex  
+#+BIBLIOGRAPHY: ~/Dropbox/Work/Master.bib
+
+* COMMENT Local Variables                                                       :ARCHIVE:
+# Local Variables:
+# eval: (add-hook 'after-save-hook #'org-hugo-export-wim-to-md-after-save :append :local)
+# eval: (setq org-export-initial-scope 'subtree)
+# End:
+
