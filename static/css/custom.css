@@ -1,0 +1,203 @@
+/* @import url(/css/google-fonts.css); */
+
+#banner {
+    padding: 85px 0;
+}
+
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+    font-family: 'Helvetica', 'Open Sans', 'sans-serif';
+    font-size: 17px; 
+    line-height: 1.628571;
+    height:100%;
+    color:black;
+}
+
+h1 {
+  font-family: Avenir,sans-serif;
+  font-variant: small-caps;
+}
+
+h2 {
+  font-family: Avenir,sans-serif;
+  font-variant: small-caps;
+}
+
+h3 {
+  font-family: Avenir,sans-serif;
+  font-variant: small-caps;
+}
+
+a.label.label-primary  {
+    background-color: #c9c9c9;
+}
+
+a.label.label-primary:hover {
+    background-color: black;
+}
+
+/* links */
+a {
+    color: black;
+    text-decoration: none;
+}
+
+a:hover {
+    /* color: #afaeae; */
+    border-bottom: 0px #000;
+    text-decoration: none;
+}
+
+a:active {color: #afaeae;}
+
+/* .fa  { */
+/*     color: black; */
+/*     text-decoration: none; */
+/* } */
+
+/* .fa:a {border-bottom: 0px;} */
+
+.footer {
+    font-size: 14px;
+    position:absolute;
+    bottom:0;
+    width:100%;
+    height:100px;   /* Height of the footer */
+    padding-bottom: 1rem;
+
+}
+
+body > .container {
+  padding: 75px 15px 0;
+  height: 100%;
+  padding-bottom:90px;   /* Height of the footer */
+}
+
+.content  a {
+    border-bottom: 1px dotted #000;
+    text-decoration: none;
+}
+.content  a:hover {
+    color: black;
+    border-bottom: 1px solid #000;
+    text-decoration: none;
+}
+
+.panel a {
+    border-bottom: 0px #000;
+    text-decoration: none;
+
+}
+
+/* avoid padding for page title on the simple content pages */
+header.hat {
+  padding: 0px;
+}
+
+/* navbar */
+nav.navbar.navbar-default.navbar-fixed-top {
+    /* background-color: #960000; */
+    /* border-bottom: #960000; */
+    background-color: #aa0101;
+    border-bottom: #aa0101;
+}
+
+.navbar-title {
+    vertical-align: baseline;
+}
+
+.navbar-brand {
+    padding: 15px;
+    vertical-align: baseline;
+}
+
+.navbar-brand-img {
+padding: 0;
+}
+@media screen and (max-width: 768px) {
+    a.navbar-brand-img>img {
+      vertical-align: bottom;
+      padding-left: 20px;
+    }
+}
+
+a.navbar-brand-img>img {
+  vertical-align: bottom;
+}
+img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+
+.nopadding {
+  padding: 0 !important;
+  margin: 0 !important;
+}
+
+.margin-10{
+  margin-bottom: 20px;
+  margin-right: 10px;
+}
+
+p {
+  text-align: justify;
+}
+
+/* Responsive video? */
+iframe {
+  max-width: 100%;
+}
+
+/* Popover */
+.modal.ng-enter {
+  transition: opacity 1.5s ease-out;
+  opacity: 0;
+}
+.modal.ng-enter.ng-enter-active {
+  opacity: 1;
+}
+.modal.ng-leave {
+  transition: opacity 1.5s ease-out;
+  opacity: 1;
+}
+.modal.ng-leave.ng-leave-active {
+  opacity: 0;
+}
+
+#Email.fieldValid {
+  border: 1px solid #00ff00;
+}
+#Email.fieldInvalid {
+  border: 1px solid #ff0000;
+
+code.has-jax {font: inherit;
+  font-size: 100%;
+  background: inherit;
+  border: inherit;}
+
+
+/*   nav.navbar.navbar-default.navbar-fixed-top { */
+/*   background-color: #FF0000; */
+/* } */
+
+/* /\* Change navbar color *\/ */
+
+/*     /\* light blue *\/ */
+/*     /\* background-color: #39B3DD;  *\/ */
+/*     /\* border-color: #39B3DD; *\/ */
+
+/*     /\* Yellow *\/ */
+/*     /\* background-color: #F7D708; *\/ */
+/*     /\* border-color: #F7D708: *\/ */
+
+/*     /\* Green *\/ */
+/*     /\* background-color: #21B6A8; *\/ */
+/*     /\* border-color: #21B6A8; *\/ */
+/* } */
+
