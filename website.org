@@ -162,6 +162,73 @@ related topics (PHIL 871 & PHIL 971).
 - PHIL 4/860 (Fall 2016): [[file:/materials/course-syllabi/kant-modern-syllabus.pdf][Kant & Early Modern Philosophy]]
 - Seminar on [[http://ox-kant.colinmclear.net][Kant on perception and cognition]] at Oxford, with [[http://www.anilgomes.com][Anil Gomes]]
 
+  
+
+** Blog
+:PROPERTIES:
+:EXPORT_HUGO_SECTION: posts
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :toc false :type post
+:END:
+#+LANGUAGE: en
+#+OPTIONS: ':t
+
+*** Maintaining a CV in Multiple Formats                                      :cv:pandoc:geekery:
+:PROPERTIES:
+:EXPORT_DATE: 2015-12-14
+:EXPORT_FILE_NAME: maintaining-cv-multiple-formats
+:END:
+
+I [[file:posts/maintain-a-cv-in-html-and-pdf.md][previously wrote]] about keeping a CV in PDF and converting it to HTML.
+There's a better way, however, even though it has a bit more initial work
+involved. What you want to do is keep your CV (or really anything of that ilk
+that you want to have available in multiple formats) in a [[https://en.wikipedia.org/wiki/YAML][YAML]] file and then
+use [[http://pandoc.org][pandoc]] to convert the YAML file into whatever documents you need. I got
+the idea from looking at [[https://github.com/mrzool/cv-boilerplate][this template]] on Github.
+
+What you want to do is keep the CV info in a YAML file like so:
+
+#+BEGIN_EXAMPLE
+    name: Immanuel Kant
+    address: Königsberg, Prussia
+    email: manny@copernicanrevolution.edu
+
+    AOS:
+    - Aesthetics, Epistemology, Ethics, Metaphysics, Philosophy of Mind, Political Philosophy
+
+    AOC:
+    - German Idealism, Philosophy of Religion
+
+    experience:
+    - years: 1770-1804
+      employer: University of Königsberg
+      job: Chair of Logic and Metaphysics
+      city: Königsberg, DE
+#+END_EXAMPLE
+
+Using pandoc, you can then convert this into a variety of formats,
+including HTML and PDF. The key is to create a template for every output
+format that you need. For example, you might template your employment
+history like so:
+
+#+BEGIN_EXAMPLE
+    $for(experience)$
+      $experience.years$\\
+      \textsc{$experience.employer$}\\
+      \emph{$experience.job$}\\
+      $experience.city$\\[.2cm]
+    $endfor$
+#+END_EXAMPLE
+
+Pandoc then feeds the YAML info to LaTeX for PDF typesetting. You can
+see a sample [[file:materials/images/preview.jpg][here]].
+
+With this method, you can keep your entire CV in a single YAML file and
+easily generate a PDF, HTML, or some other format. For the full set of
+templates for LaTeX and HTML, along with a =makefile= for easy
+conversion, you can look at
+[[https://github.com/mclearc/cv-boilerplate.git][my repo]] on Github.
+
+
 * Configuration
 #+HUGO_BASE_DIR: ./ 
 #+STARTUP: nologdone
