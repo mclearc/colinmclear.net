@@ -1,0 +1,51 @@
+baseurl         = "/"
+title           = "Colin McLear"
+theme           = "bootstrap-premium"
+paginate        = 10
+copyright       = "Colin McLear"
+DisqusShortname = ""
+enableRobotsTXT = true
+
+[permalinks]
+  post = "/:section/:year/:month/:title/"
+
+[taxonomies]
+tag = "tags"
+
+[author]
+  name = ""
+
+[params]
+hello = ""
+description = ""
+
+paginate_sections = 20
+switchlang = false
+showRightSidebar = false
+BrandImage = ""
+footline = "Powered by [Hugo](http://gohugo.io/) with a customized [bootstrap-premium](https://github.com/appernetic/hugo-bootstrap-premium/) theme · Hosted by [Netlify](https://netlify.com)"
+mailmunchid = ""
+sumomeid = ""
+mathjax = ""
+googleplus = ""
+twitter = ""
+customCSS = [ "/css/custom.css" ]
+
+[params.theme]
+# bootswatch theme name, select one: cerulean, cosmo, cyborg, darkly,
+  # default, flatly, journal,  lumen, paper, readable, sandstone, simplex,
+  # slate, spacelab, superhero, united, yeti.
+name = "cosmo"  # default, flatly, united, cosmo
+inverse = "navbar-default"  # choose between navbar-inverse and navbar-default
+
+[menu]
+  [[menu.main]]
+  identifier = "post"
+  name       = "Blog"
+  url        = "/posts/"
+
+
+  [[menu.main]]
+  identifier = "rss"
+  name       = "RSS"
+  url        = "/posts/index.xml"
