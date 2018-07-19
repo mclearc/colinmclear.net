@@ -5,6 +5,8 @@ paginate        = 10
 copyright       = "Colin McLear"
 DisqusShortname = ""
 enableRobotsTXT = true
+# Google Analytics.
+googleAnalytics = "UA-30497236-1"
 
 [permalinks]
   post = "/:section/:year/:month/:title/"
