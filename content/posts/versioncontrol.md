@@ -15,29 +15,26 @@ draft in a folder (named, e.g., &ldquo;drafts&rdquo; or &ldquo;versions&rdquo;),
 time one sits down to write. This works, in some ways. The data is there. The
 problem is that you quickly end up with a folder (or desktop&rsquo;s) worth of
 files. These filenames have typically ridiculous and increasingly obscure
-titles ( e.g. 4\\\_26\\\_13\\\_Really\\\_Final\\\_FinalPaper.docx). And it is seldom clear,
-using this method, exactly what one did when, without actually opening a
-particular file and looking, or trying to remember when (and where) it was
-that one made the relevant change.
+titles (e.g. final-draft-final-revision\final-draft-04-2018.docx). And it
+is seldom clear, using this method, exactly what one did when, without
+actually opening a particular file and looking, or trying to remember when
+(and where) it was that one made the relevant change.
 
 Nowadays, especially if you use some sort of cloud-based word-processor, it&rsquo;s
 likely that you have access to various ways of looking at your version
-history. For example, Google docs has a
-[revision history](https://support.google.com/docs/answer/190843?hl=en)
-option (something similar exists for
-[Dropbox](http://www.macinstruct.com/node/516), which lets you easily move
-back and forth among different versions. Revision histories of this kind offer
-a way to automatically back up one&rsquo;s writing. This is especially helpful if
-you&rsquo;re not the type of person to carefully name each day&rsquo;s writing with a new
-time/date stamp and save them all in the appropriate folder. There are also
-service (as opposed to application) specific ways of tracking changes to a
-file. At least [some](http://versionrocket.com) of
-[them](http://versionrocket.com) allow you to compare differences between
-versions of files. But at least two things are missing. First, there is no
-straightforward way of seeing what has changed where, and to see this at
-arbitrary levels of granularity. Second, in order to see what&rsquo;s changed when,
-you have to look in the document itself. There is no general log of the
-changes you&rsquo;ve made to the file.
+history. For example, Google docs has a [revision history](https://support.google.com/docs/answer/190843?hl=en) option (something
+similar exists for [Dropbox](http://www.macinstruct.com/node/516), which lets you easily move back and forth among
+different versions. Revision histories of this kind offer a way to
+automatically back up one&rsquo;s writing. This is especially helpful if you&rsquo;re not
+the type of person to carefully name each day&rsquo;s writing with a new time/date
+stamp and save them all in the appropriate folder. There are also service (as
+opposed to application) specific ways of tracking changes to a file. At least
+[some](http://versionrocket.com) of [them](http://versionrocket.com) allow you to compare differences between versions of files. But
+at least two things are missing. First, there is no straightforward way of
+seeing what has changed where, and to see this at arbitrary levels of
+granularity. Second, in order to see what&rsquo;s changed when, you have to look in
+the document itself. There is no general log of the changes you&rsquo;ve made to the
+file.
 
 Here&rsquo;s what I have in mind:
 
