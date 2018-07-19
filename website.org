@@ -167,7 +167,29 @@ primarily only on /weekdays/.
 #+LANGUAGE: en
 #+OPTIONS: ':t
 
-*** Maintaining a CV in Multiple Formats                                      :cv:pandoc:geekery:
+*** DONE Moving to Hugo                                                       :hugo:pelican:website:
+:PROPERTIES:
+:EXPORT_FILE_NAME: moving-to-hugo
+:END:
+
+Another summer, another excuse to tinker with my wesbite. I've used [[https://blog.getpelican.com][pelican]], a
+python [[https://en.wikipedia.org/wiki/Web_template_system#Static_site_generators][static site generator]], to run this website for nearly six years. It's a
+great tool. But I dislike python [[https://en.wikipedia.org/wiki/Dependency_hell][dependency hell]], and pelican is a bit slow.
+So I've looked elsewhere. [[https://gohugo.io][Hugo]] is blazing fast, has a thriving community,
+decent templates, and a downloadable binary that you can get via [[https://brew.sh][homebrew]]. No
+more dependency management! Also important for me (as an [[https://www.gnu.org/software/emacs/][emacs]] user), there is
+a great [[https://orgmode.org][org-mode]] exporter---[[https://ox-hugo.netlify.com][ox-hugo]]---that lets me easily generate the web
+content from an org-file. On the whole I've been very happy with the move.
+
+I've also changed hosting from github to [[https://netlify.com][Netlify]], which provides dead-simple
+hosting. All you do is point it at a git repository (which remains on [[https://github.com/mclearc][Github]])
+and tell it what commands to run and it provides continuous deployment. So
+whenever I make a change to the site and push that change to [[https://github.com/mclearc/colinmclear.net][my repository]] on
+Github Netlify automatically regenerates the site. Very cool.  
+
+
+
+*** DONE Maintaining a CV in Multiple Formats                                 :cv:pandoc:geekery:
 :PROPERTIES:
 :EXPORT_DATE: 2015-12-14
 :EXPORT_FILE_NAME: maintaining-cv-multiple-formats
@@ -224,7 +246,7 @@ conversion, you can look at
 [[https://github.com/mclearc/cv-boilerplate.git][my repo]] on Github.
 
 
-*** New Site Design                                                           :website:bootstrap:pelican:
+*** DONE New Site Design                                                      :website:bootstrap:pelican:
 :PROPERTIES:
 :EXPORT_DATE: 2015-07-13
 :EXPORT_FILE_NAME: newsite
@@ -234,7 +256,7 @@ navigation. Thanks go to [[https://github.com/DandyDev][DandyDev]] for developin
 [[http://blog.getpelican.com][Pelican]]. I'll be continuing to tweak here and there so apologies if you find
 broken links or other infelicities.
 
-*** Pandoc Letters                                                            :pandoc:latex:
+*** DONE Pandoc Letters                                                       :pandoc:latex:
 :PROPERTIES:
 :EXPORT_DATE: 2015-07-22
 :EXPORT_FILE_NAME: pandocletter
@@ -245,7 +267,7 @@ a nice looking letter with letterhead (assuming you have a logo for it). It
 uses the [[https://www.ctan.org/pkg/newlfm?lang=en][newlfm package]]. The template is on github [[https://raw.githubusercontent.com/mclearc/pandoc-templates/master/letter.tex][here]]. I got the idea from
 Matthew Miller's [[http://www.matthewjmiller.net/howtos/customized-cover-letter-scripts/][post]], and [[http://texblog.org/2013/11/11/latexs-alternative-letter-class-newlfm/][this discussion]] on [[http://texblog.org][texblog.org]].
 
-*** Site Changes                                                              :website:
+*** DONE Site Changes                                                         :website:
 :PROPERTIES:
 :EXPORT_DATE: 2016-05-28
 :EXPORT_FILE_NAME: sitechanges
@@ -255,7 +277,7 @@ all the teaching materials to their own websites (e.g.
 [[http://phil101.colinmclear.net][phil101.colinmclear.net]]). So please excuse any broken links you find in the
 meantime!
 
-*** Text Editors and Academic Writing                                         :writing:
+*** DONE Text Editors and Academic Writing                                    :writing:
 :PROPERTIES:
 :EXPORT_DATE: 2016-09-05
 :EXPORT_FILE_NAME: texteditor
@@ -352,7 +374,7 @@ really a help or if you'd rather just chuck it and go back to MS Word, Pages,
 or [[https://www.literatureandlatte.com/scrivener.php][whatever worked for you]] before.
 
 
-*** Version Control and Academic Writing                                      :workflows:geekery:writing:
+*** DONE Version Control and Academic Writing                                 :workflows:geekery:writing:
 :PROPERTIES:
 :EXPORT_DATE: 2015-07-17
 :EXPORT_FILE_NAME: versioncontrol
@@ -487,7 +509,7 @@ which streamline much of the process.
 
 [fn:1] You might also look at [[https://mercurial.selenic.com][Mercurial]], which is a popular, and perhaps
        slightly easier to use, alternative to Git.
-*** Writing a syllabus for multiple formats                                   :workflows:teaching:
+*** DONE Writing a syllabus for multiple formats                              :workflows:teaching:
 :PROPERTIES:
 :EXPORT_DATE: 2016-07-17
 :EXPORT_FILE_NAME: syllabus_yaml
