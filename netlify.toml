@@ -13,25 +13,25 @@ command = "hugo --buildFuture --buildDrafts"
 HUGO_VERSION = "0.44"
 
 [[redirects]]
-  from = "https://upbeat-euclid-5b5655.netlify.com/*"
+  from = "https://brave-bassi-fae73b.netlify.com/*"
   to = "https://www.colinmclear.net/:splat"
   status = 301
   force = true
 
 [[redirects]]
-  from = "http://upbeat-euclid-5b5655.netlify.com/*"
+  from = "http://brave-bassi-fae73b.netlify.com/*"
   to = "http://www.colinmclear.net/:splat"
   status = 301
   force = true
 
 [[redirects]]
-  from = "http://www.upbeat-euclid-5b5655.netlify.com/*"
+  from = "http://www.brave-bassi-fae73b.netlify.com/*"
   to = "https://www.colinmclear.net/:splat"
   status = 301
   force = true
 
 [[redirects]]
-  from = "http://upbeat-euclid-5b5655.netlify.com/*"
+  from = "http://brave-bassi-fae73b.netlify.com/*"
   to = "http://www.colinmclear.net/:splat"
   status = 301
   force = true
