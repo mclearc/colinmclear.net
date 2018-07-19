@@ -1,10 +1,11 @@
 +++
 title = "Resources"
 draft = false
+weight = 0
 author = false
 toc = false
 [menu.main]
-  weight = 3003
+  weight = 3004
   identifier = "resources"
 +++
 

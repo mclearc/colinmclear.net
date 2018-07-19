@@ -1,10 +1,11 @@
 +++
 title = "Contact"
 draft = false
+weight = 10
 author = false
 toc = false
 [menu.main]
-  weight = 3004
+  weight = 3005
   identifier = "contact"
 +++
 
