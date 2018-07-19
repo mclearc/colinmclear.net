@@ -168,6 +168,7 @@ primarily only on /weekdays/.
 #+OPTIONS: ':t
 
 *** DONE Moving to Hugo                                                       :hugo:pelican:website:
+CLOSED: [2018-07-19 Thu 10:49]
 :PROPERTIES:
 :EXPORT_FILE_NAME: moving-to-hugo
 :END:
@@ -572,7 +573,6 @@ So, I want three things---reading, annotation, and citation management.
 
 * Configuration
 #+HUGO_BASE_DIR: ./ 
-#+STARTUP: nologdone
 #+OPTIONS: H:4 author:nil date:nil
 #+OPTIONS: prop:t
 #+OPTIONS: ':t

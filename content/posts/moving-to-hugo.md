@@ -1,5 +1,6 @@
 +++
 title = "Moving to Hugo"
+date = 2018-07-19T10:49:00-04:00
 tags = ["hugo", "pelican", "website"]
 draft = false
 toc = false
