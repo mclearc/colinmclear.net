@@ -8,27 +8,46 @@
     </section>
     {{ end }}
     
-  <section class="panel panel-default">
-    <div class="panel-heading">
-    <b>Recent Posts</b>
-    <div style="float: right"><a href="{{ "/posts/" | relLangURL }}"></a></div>
-    </div>
-    <div style="padding: 5px 5px">
-    <div class="content">
-      <ul>
-      {{ range first 10 (where (where .Site.Pages "Type" "post") "IsPage" true) }}
-        <li>
-        <a href="{{ .Permalink }}">{{ .Title }}</a>
-        </li>
-      {{ end }}
-      </ul>
-    </div>
-    </div>
-  </section>
+    <!-- <section class="panel panel-default">
+         <div class="panel-heading">
+         <b>Recent Posts</b>
+         <div style="float: right"><a href="{{ "/posts/" | relLangURL }}"></a></div>
+         </div>
+         <div style="padding: 5px 5px">
+         <div class="content">
+         <ul>
+         {{ range first 10 (where (where .Site.Pages "Type" "post") "IsPage" true) }}
+         <li>
+         <a href="{{ .Permalink }}">{{ .Title }}</a>
+         </li>
+         {{ end }}
+         </ul>
+         </div>
+         </div>
+         </section>
+    -->
+
+    <section class="panel panel-default">
+        <div class="panel-heading">
+            <b class="fa fa-external-link-square"> Links</b>
+        </div>
+        <div style="padding: 12px 5px 5px 0px">
+            <div class="content">
+                <ul>
+                    {{ partial "modules/site/link/social/university.html" . }}<br>
+                    {{ partial "modules/site/link/social/philpeople.html" . }}<br>
+                    {{ partial "modules/site/link/social/github.html" . }}<br>
+                    {{ partial "modules/site/link/social/twitter.html" . }}<br>
+
+
+                </ul>
+            </div>
+        </div>
+    </section>
 
   <section class="panel panel-default">
     <div class="panel-heading">
-    <b>Tags</b>
+    <b class="fa fa-tags"> Tags</b>
     <div style="float: right"><a href="{{ "/tags/" | relLangURL }}">- full list -</a></div>
     </div>
 {{ if not (eq (len $.Site.Taxonomies.tags) 0) }}

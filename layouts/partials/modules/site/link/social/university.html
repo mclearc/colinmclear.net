@@ -1,0 +1,6 @@
+{{ with .Site.Params.university }}
+<a id="contact-link-university" class="contact_link" href="{{ . }}">
+{{ end }}
+{{ with .Site.Params.department }}
+<span class="fa fa-university"></span><span> {{ . }}</span></a>
+{{ end }}

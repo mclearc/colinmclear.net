@@ -21,15 +21,20 @@ description = ""
 
 paginate_sections = 20
 switchlang = false
-showRightSidebar = false
 BrandImage = ""
 footline = "Powered by [Hugo](http://gohugo.io/) with a customized [bootstrap-premium](https://github.com/appernetic/hugo-bootstrap-premium/) theme · Hosted by [Netlify](https://netlify.com)"
 mailmunchid = ""
 sumomeid = ""
 mathjax = ""
-googleplus = ""
-twitter = ""
 customCSS = [ "/css/custom.css" ]
+
+showRightSidebar = true
+# Sidebar social links.
+github = "mclearc" # Your Github profile ID
+twitter = "mclearc" # Your Twitter profile ID
+philpeople = "colin-mclear"
+university = "https://www.unl.edu/philosophy/"
+department = "UNL Philosophy"
 
 [params.theme]
 # bootswatch theme name, select one: cerulean, cosmo, cyborg, darkly,
