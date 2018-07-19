@@ -82,7 +82,14 @@ body > .container {
     border-bottom: 1px dotted #000;
     text-decoration: none;
 }
-.content  a:hover {
+
+.content a:hover {
+    color: black;
+    border-bottom: 1px solid #000;
+    text-decoration: none;
+}
+
+.footer a:hover {
     color: black;
     border-bottom: 1px solid #000;
     text-decoration: none;
@@ -101,10 +108,32 @@ header.hat {
 
 /* navbar */
 nav.navbar.navbar-default.navbar-fixed-top {
-    /* background-color: #960000; */
-    /* border-bottom: #960000; */
     background-color: #aa0101;
     border-bottom: #aa0101;
+}
+
+/* nav.navbar.navbar-default.navbar-fixed-top  a { */
+/*     padding: 15px; */
+/* } */
+
+nav.navbar.navbar-default.navbar-fixed-top .active a {
+    background-color: #8e0000;
+}
+
+nav.navbar.navbar-default.navbar-fixed-top a:hover {
+    background-color: #8e0000;
+}
+
+#navbar.navbar-collapse.collapse.in .active a {
+    background-color: #8e0000;
+}
+
+#navbar.navbar-collapse.collapse.in a:hover {
+    background-color: #8e0000;
+}
+
+.navbar-default .navbar-toggle:hover {
+    background-color: #8e0000;
 }
 
 .navbar-title {
