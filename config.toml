@@ -3,7 +3,7 @@ title           = "Colin McLear"
 theme           = "bootstrap-premium"
 paginate        = 10
 copyright       = "Colin McLear"
-DisqusShortname = ""
+DisqusShortname = "colinmclear"
 enableRobotsTXT = true
 # Google Analytics.
 googleAnalytics = "UA-30497236-1"
