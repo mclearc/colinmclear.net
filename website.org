@@ -68,19 +68,19 @@ If you're interested in a draft of any of the following please [[mailto:mclear@u
 :END:
 
 I regularly teach the The Philosophy of Food ([[http://phil105.colinmclear.net][PHIL 105]]), Introduction to
-Philosophy ([[http://phil101.colinmclear.net][PHIL 101]]), an undergraduate survey of 'modern' philosophy of the
-seventeenth and eighteenth centuries ([[http://phil232.colinmclear.net][PHIL 232]]), and graduate level courses on
-Kant and related topics ([[file:/materials/course-syllabi/kant-modern-syllabus.pdf][PHIL 460​/860]], [[http://phil871.colinmclear.net][PHIL 471​/871]], and [[http://phil971.colinmclear.net][PHIL 971]]).
+Philosophy ([[file:/materials/course-syllabi/phil101-syllabus.pdf][PHIL 101]]), an undergraduate survey of 'modern' philosophy of the
+seventeenth and eighteenth centuries ([[/materials/course-syllabi/phil232-syllabus.pdf][PHIL 232]]), and graduate level courses on
+Kant and related topics ([[file:/materials/course-syllabi/kant-modern-syllabus.pdf][PHIL 460​/860]], [[http://phil871.colinmclear.net][PHIL 471​/871]], and PHIL 971).
 
 **** Previously Taught
-- PHIL 232 (Yearly): [[http://phil232.colinmclear.net][History of Early Modern Philosophy]]
-- PHIL 101 (Yearly): [[http://phil101.colinmclear.net][Introduction to Philosophy]]
+- PHIL 232 (Yearly): History of Early Modern Philosophy
+- PHIL 101 (Yearly): Introduction to Philosophy
 - PHIL 105 (Yearly): [[http://phil105.colinmclear.net][The Philosophy of Food]]
-- PHIL 971 (Fall 2017): [[http://phil971.colinmclear.net/][Self-Knowledge in Kant & Early German Idealism]]
+- PHIL 971 (Fall 2017): [[file:/materials/course-syllabi/SK-german-idealism-syllabus.pdf][Self-Knowledge in Kant & Early German Idealism]]
 - PHIL 971 (Spring 2016): [[file:/materials/course-syllabi/ISKSyllabus.pdf][Introspection & Self-Knowledge]]
 - PHIL 971 (Fall 2013): [[file:/materials/course-syllabi/ConceptualismSyllabus.pdf][Seminar on Conceptualism]]
 - PHIL 460​/860 (Fall 2016): [[file:/materials/course-syllabi/kant-modern-syllabus.pdf][Kant & Early Modern Philosophy]]
-- Seminar on [[http://ox-kant.colinmclear.net][Kant on perception and cognition]] at Oxford, with [[http://www.anilgomes.com][Anil Gomes]]
+- Oxford Grad Seminar (Trinity 2017) on [[file:/materials/course-syllabi/ox-kant-syllabus.pdf][Kant on perception and cognition]], with [[http://www.anilgomes.com][Anil Gomes]]
 
 
 *** Resources
