@@ -22,23 +22,26 @@ that one made the relevant change.
 
 Nowadays, especially if you use some sort of cloud-based word-processor, it&rsquo;s
 likely that you have access to various ways of looking at your version
-history. For example, Google docs has a [revision history](https://support.google.com/docs/answer/190843?hl=en) option (something
-similar exists for [Dropbox](http://www.macinstruct.com/node/516), which lets you easily move back and forth among
-different versions. Revision histories of this kind offer a way to
-automatically back up one&rsquo;s writing. This is especially helpful if you&rsquo;re not
-the type of person to carefully name each day&rsquo;s writing with a new time/date
-stamp and save them all in the appropriate folder. There are also service (as
-opposed to application) specific ways of tracking changes to a file. At least
-[some](http://versionrocket.com) of [them](http://versionrocket.com) allow you to compare differences between versions of files. But
-at least two things are missing. First, there is no straightforward way of
-seeing what has changed where, and to see this at arbitrary levels of
-granularity. Second, in order to see what&rsquo;s changed when, you have to look in
-the document itself. There is no general log of the changes you&rsquo;ve made to the
-file.
+history. For example, Google docs has a
+[revision history](https://support.google.com/docs/answer/190843?hl=en)
+option (something similar exists for
+[Dropbox](http://www.macinstruct.com/node/516), which lets you easily move
+back and forth among different versions. Revision histories of this kind offer
+a way to automatically back up one&rsquo;s writing. This is especially helpful if
+you&rsquo;re not the type of person to carefully name each day&rsquo;s writing with a new
+time/date stamp and save them all in the appropriate folder. There are also
+service (as opposed to application) specific ways of tracking changes to a
+file. At least [some](http://versionrocket.com) of
+[them](http://versionrocket.com) allow you to compare differences between
+versions of files. But at least two things are missing. First, there is no
+straightforward way of seeing what has changed where, and to see this at
+arbitrary levels of granularity. Second, in order to see what&rsquo;s changed when,
+you have to look in the document itself. There is no general log of the
+changes you&rsquo;ve made to the file.
 
 Here&rsquo;s what I have in mind:
 
-{{< figure src="materials/images/ScreenShot52964.png" caption="Figure 1: Change Log" >}}
+{{< figure src="/materials/images/ScreenShot52964.png" caption="Figure 1: Change Log" >}}
 
 You see here a series of entries going back over two years, with a description
 of what I took to be the most important changes at the time. I can then open
@@ -86,7 +89,7 @@ For example, here&rsquo;s a sample log of the changes made to a paper I&rsquo;ve
 working on, using a vim plugin called &ldquo;[gitv](https://github.com/gregsexton/gitv)&rdquo;, which depends on Tim Pope&rsquo;s
 [fugitive](https://github.com/tpope/vim-fugitive) plugin ([SublimeGit](https://sublimegit.net) is an equally excellent sublime text plugin).
 
-{{< figure src="materials/images/ScreenShot56089.png" >}}
+{{< figure src="/materials/images/ScreenShot56089.png" >}}
 
 On the left is the git log of changes. On the right is a more detailed
 description of what changed--what was added, deleted, or moved.
