@@ -20,14 +20,9 @@ metaphysics. In particular, I am interested in issues pertaining to the study
 of mental content, the nature and significance of self-consciousness,
 reasoning and rationality, and animal cognition.
 
-<style>
-.xpapers\_abstract { font-size:smaller; padding:6px }
-.xpapers\_pubtype {font-size:28px}
-.publication-title {font-weight:regular }
-.publication-cite { color : #444 }
-</style>
+<style> .xpapers_abstract { font-size:smaller; padding:6px } .xpapers_pubtype {font-size:28px} .publication-title {font-weight:regular } .publication-cite { color : #444 } </style>
 
-<script id=&rsquo;ppl-widget&rsquo; type=&ldquo;text/javascript&rdquo; src=&ldquo;<https://philpeople.org/widget/colin-mclear.js?app=philpapers&amp;iframe=true>&rdquo;></script>
+<div id='ppl-widget-container'>One moment, publications loading ... (or view them <a href="https://philpapers.org/profile/740?widget_failed=1">here</a>)</div> <script type="text/javascript" src="https://philpeople.org/widget/740.js"></script>
 
 
 ## Work in Progress {#work-in-progress}
