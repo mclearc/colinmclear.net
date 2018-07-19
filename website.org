@@ -466,9 +466,6 @@ On the left is the git log of changes. On the right is a more detailed
 description of what changed--what was added, deleted, or moved.
 
 **** Using Git
-   :PROPERTIES:
-   :CUSTOM_ID: using-git
-   :END:
 
 The basic workflow for using Git is as follows. In the directory you're
 keeping your project in (you do keep this in a directory and not just on

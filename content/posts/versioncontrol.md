@@ -94,8 +94,6 @@ description of what changed--what was added, deleted, or moved.
 
 ## Using Git {#using-git}
 
-    CUSTOM_ID: using-git
-
 The basic workflow for using Git is as follows. In the directory you&rsquo;re
 keeping your project in (you do keep this in a directory and not just on
 your desktop right?) you need to create a Git repository. This means
