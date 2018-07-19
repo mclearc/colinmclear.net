@@ -3,8 +3,9 @@ title = "Text Editors and Academic Writing"
 date = 2016-09-05
 tags = ["writing"]
 draft = false
-toc = false
+aliases = "/2016/text-editors-and-academic-writing"
 type = "post"
+toc = false
 +++
 
 Tools for writing using a computer fall into two broad camps. On the one side

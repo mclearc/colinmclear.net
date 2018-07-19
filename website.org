@@ -191,6 +191,7 @@ Github Netlify automatically regenerates the site. Very cool.
 :PROPERTIES:
 :EXPORT_DATE: 2015-12-14
 :EXPORT_FILE_NAME: maintaining-cv-multiple-formats
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :aliases /2015/maintaining-a-cv-in-multiple-formats :type post :toc false
 :END:
 
 I [[file:posts/maintain-a-cv-in-html-and-pdf.md][previously wrote]] about keeping a CV in PDF and converting it to HTML.
@@ -279,6 +280,7 @@ meantime!
 :PROPERTIES:
 :EXPORT_DATE: 2016-09-05
 :EXPORT_FILE_NAME: texteditor
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :aliases /2016/text-editors-and-academic-writing :type post :toc false
 :END:
 
 Tools for writing using a computer fall into two broad camps. On the one side
@@ -376,6 +378,7 @@ or [[https://www.literatureandlatte.com/scrivener.php][whatever worked for you]]
 :PROPERTIES:
 :EXPORT_DATE: 2015-07-17
 :EXPORT_FILE_NAME: versioncontrol
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :aliases /2015/version-control-and-academic-writing :type post :toc false
 :END:
 
 Academic writing typically requires writing something in drafts. Many drafts.

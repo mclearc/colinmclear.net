@@ -3,8 +3,9 @@ title = "Version Control and Academic Writing"
 date = 2015-07-17
 tags = ["workflows", "geekery", "writing"]
 draft = false
-toc = false
+aliases = "/2015/version-control-and-academic-writing"
 type = "post"
+toc = false
 +++
 
 Academic writing typically requires writing something in drafts. Many drafts.
@@ -89,5 +90,47 @@ working on, using a vim plugin called &ldquo;[gitv](https://github.com/gregsexto
 
 On the left is the git log of changes. On the right is a more detailed
 description of what changed--what was added, deleted, or moved.
+
+
+## Using Git {#using-git}
+
+    CUSTOM_ID: using-git
+
+The basic workflow for using Git is as follows. In the directory you&rsquo;re
+keeping your project in (you do keep this in a directory and not just on
+your desktop right?) you need to create a Git repository. This means
+typing `git init` on the command line from the directory, or doing so
+via whatever GUI app you&rsquo;ve picked. You only have to do this once per
+writing project. So that&rsquo;s:
+
+-   `cd \path\to\repository`
+-   `git init`
+-   `git add filename.file`
+-   `git commit`
+    -   write commit message
+    -   write and quit file
+
+Once you&rsquo;ve got your repository (or &ldquo;repo&rdquo;) you need to add files for
+tracking. Just type `git add` and the name of the file you&rsquo;re tracking.
+Then type `git commit`. You&rsquo;ll then type a commit message to go along
+with the commit--e.g. &ldquo;first commit&rdquo;. Write and quit, or press commit in
+whatever application you&rsquo;re using. At this point you&rsquo;ve got a
+functioning version control system. So your workflow should be something
+like the following:
+
+-   Write
+-   Add/stage changes
+-   Write commit message and commit
+
+There&rsquo;s a lot to Git that I can&rsquo;t cover here. It can be very helpful when
+experimenting with an idea. It&rsquo;s also a nice way to think about and track your
+work over time. One downside of using a system like git is that it doesn&rsquo;t
+work well with Microsoft Word or other rich text WYSIWIG text editors. But
+there are ways [around](http://blog.martinfenner.org/2014/08/25/using-microsoft-word-with-git/) [this](https://www.martineve.com/2013/08/18/using-git-in-my-writing-workflow/).
+
+If you like the idea of git, commit messages, and a readable log of changes
+you&rsquo;ve made to a file, but don&rsquo;t want to deal with the more technical aspects
+of setting up git and using it, there are also great web apps like [Penflip](https://www.penflip.com),
+which streamline much of the process.
 
 [^fn:1]: You might also look at [Mercurial](https://mercurial.selenic.com), which is a popular, and perhaps slightly easier to use, alternative to Git.

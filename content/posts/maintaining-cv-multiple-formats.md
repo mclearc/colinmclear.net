@@ -3,8 +3,9 @@ title = "Maintaining a CV in Multiple Formats"
 date = 2015-12-14
 tags = ["cv", "pandoc", "geekery"]
 draft = false
-toc = false
+aliases = "/2015/maintaining-a-cv-in-multiple-formats"
 type = "post"
+toc = false
 +++
 
 I [previously wrote](posts/maintain-a-cv-in-html-and-pdf.md) about keeping a CV in PDF and converting it to HTML.
