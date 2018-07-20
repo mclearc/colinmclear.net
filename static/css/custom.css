@@ -55,12 +55,16 @@ a:hover {
 
 a:active {color: #afaeae;}
 
-/* .fa  { */
-/*     color: black; */
-/*     text-decoration: none; */
-/* } */
+.col-sm-9 a:hover {
+    color: black;
+    text-decoration: underline;
+}
 
-/* .fa:a {border-bottom: 0px;} */
+#tag-cloud a:hover {
+    color: black;
+    text-decoration: underline;
+}
+
 
 .footer {
     font-size: 14px;
