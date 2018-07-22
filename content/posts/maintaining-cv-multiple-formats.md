@@ -8,12 +8,15 @@ type = "post"
 toc = false
 +++
 
-I [previously wrote](posts/maintain-a-cv-in-html-and-pdf.md) about keeping a CV in PDF and converting it to HTML.
-There&rsquo;s a better way, however, even though it has a bit more initial work
-involved. What you want to do is keep your CV (or really anything of that ilk
-that you want to have available in multiple formats) in a [YAML](https://en.wikipedia.org/wiki/YAML) file and then
-use [pandoc](http://pandoc.org) to convert the YAML file into whatever documents you need. I got
-the idea from looking at [this template](https://github.com/mrzool/cv-boilerplate) on Github.
+Suppose you want to keep a CV accessible in PDF, html, and perhaps other
+formats (e.g. docx). It&rsquo;s a pain to do them all individually and keep them in
+sync. Here&rsquo;s one way to avoid that issue, though it has a bit of initial work
+involved in setting everything up. What you want to do is keep your CV (or
+really anything of that ilk that you want to have available in multiple
+formats) in a [YAML](https://en.wikipedia.org/wiki/YAML) file and then use
+[pandoc](http://pandoc.org) to convert the YAML file into whatever documents
+you need. I got the idea from looking at
+[this template](https://github.com/mrzool/cv-boilerplate) on Github.
 
 What you want to do is keep the CV info in a YAML file like so:
 
