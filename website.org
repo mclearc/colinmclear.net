@@ -20,7 +20,7 @@ I am an Associate Professor in the [[http://www.unl.edu/philosophy/][Department 
 of Nebraska-Lincoln. My work focuses on two (often intersecting) areas of
 philosophy -- the History of Modern Philosophy (especially Kant) and the
 Philosophy of Mind. Here you'll find links to my [[/research][research]] and [[/teaching][teaching]], as
-well as the occasional [[/posts][blogpost]]. 
+well as the occasional [[/posts][blog post]]. 
 
 If you're interested, here's my complete CV: [[file:/materials/McLearCV.pdf][PDF]] | [[file:/materials/McLearCV.html][HTML]].
 
