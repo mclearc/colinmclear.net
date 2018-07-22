@@ -55,11 +55,6 @@ a:hover {
 
 a:active {color: #afaeae;}
 
-.col-sm-9 a:hover {
-    color: black;
-    text-decoration: underline;
-}
-
 #tag-cloud a:hover {
     color: black;
     text-decoration: underline;

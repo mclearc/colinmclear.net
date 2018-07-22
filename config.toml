@@ -56,3 +56,15 @@ inverse = "navbar-default"  # choose between navbar-inverse and navbar-default
   identifier = "rss"
   name       = "RSS"
   url        = "/posts/index.xml"
+
+[blackfriday]
+angledQuotes = true
+fractions = false
+hrefTargetBlank = false
+latexDashes = true
+plainIdAnchors = true
+sourceRelativeLinks = true
+extensions = []
+extensionmask = []
+
+
