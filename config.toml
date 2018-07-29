@@ -1,4 +1,4 @@
-baseurl         = "/"
+baseurl         = "https://www.colinmclear.net/"
 title           = "Colin McLear"
 theme           = "bootstrap-premium"
 paginate        = 10
