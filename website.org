@@ -572,6 +572,9 @@ So, I want three things---reading, annotation, and citation management.
 :END:
 
 
+*** DRAFT Reading Efficiently
+See http://karinwulf.com/efficient-reading/
+
 * Configuration
 #+HUGO_BASE_DIR: ./ 
 #+OPTIONS: H:4 author:nil date:nil
