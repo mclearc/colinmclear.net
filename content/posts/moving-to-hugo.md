@@ -7,7 +7,7 @@ toc = false
 type = "post"
 +++
 
-Another summer, another excuse to tinker with my wesbite. I&rsquo;ve used [pelican](https://blog.getpelican.com), a
+Another summer, another excuse to tinker with my website. I&rsquo;ve used [pelican](https://blog.getpelican.com), a
 python [static site generator](https://en.wikipedia.org/wiki/Web%5Ftemplate%5Fsystem#Static%5Fsite%5Fgenerators), to run this website for nearly six years. It&rsquo;s a
 great tool. But I dislike python [dependency hell](https://en.wikipedia.org/wiki/Dependency%5Fhell), and pelican is a bit slow.
 So I&rsquo;ve looked elsewhere. [Hugo](https://gohugo.io) is blazing fast, has a thriving community,
@@ -20,4 +20,5 @@ I&rsquo;ve also changed hosting from github to [Netlify](https://netlify.com), w
 hosting. All you do is point it at a git repository (which remains on [Github](https://github.com/mclearc))
 and tell it what commands to run and it provides continuous deployment. So
 whenever I make a change to the site and push that change to [my repository](https://github.com/mclearc/colinmclear.net) on
-Github Netlify automatically regenerates the site. Very cool.
+Github Netlify automatically regenerates the site. Very cool. Plus, easy https
+for a more secure site.
