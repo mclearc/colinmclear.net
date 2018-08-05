@@ -60,7 +60,7 @@ inverse = "navbar-default"  # choose between navbar-inverse and navbar-default
 [blackfriday]
 angledQuotes = true
 fractions = false
-hrefTargetBlank = false
+hrefTargetBlank = true
 latexDashes = true
 plainIdAnchors = true
 sourceRelativeLinks = true
