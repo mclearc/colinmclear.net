@@ -35,8 +35,8 @@ showRightSidebar = true
 github = "mclearc" # Your Github profile ID
 twitter = "mclearc" # Your Twitter profile ID
 philpeople = "colin-mclear"
-university = "https://www.unl.edu/philosophy/"
-department = "UNL Philosophy"
+university = "https://www.unl.edu/philosophy/" # link to university philosophy homepage
+department = "UNL Philosophy"  # name of university philosophy department
 
 [params.theme]
 # bootswatch theme name, select one: cerulean, cosmo, cyborg, darkly,
