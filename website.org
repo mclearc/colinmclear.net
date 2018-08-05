@@ -278,7 +278,7 @@ Matthew Miller's [[http://www.matthewjmiller.net/howtos/customized-cover-letter-
 :END:
 I'm making some changes to the website over the next couple weeks. I'm moving
 all the teaching materials to their own websites (e.g.
-[[http://phil101.colinmclear.net][phil101.colinmclear.net]]). So please excuse any broken links you find in the
+[[http://phil101.colinmclear.net][phil105.colinmclear.net]]). So please excuse any broken links you find in the
 meantime!
 
 *** DONE Text Editors and Academic Writing                                    :writing:
