@@ -379,7 +379,7 @@ really a help or if you'd rather just chuck it and go back to MS Word, Pages,
 or [[https://www.literatureandlatte.com/scrivener.php][whatever worked for you]] before.
 
 
-*** DONE Version Control and Academic Writing                                 :workflows:geekery:writing:
+*** DONE Version Control and Academic Writing                                 :workflows:geekery:writing:git:
 :PROPERTIES:
 :EXPORT_DATE: 2015-07-17
 :EXPORT_FILE_NAME: versioncontrol

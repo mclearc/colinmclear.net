@@ -1,7 +1,7 @@
 +++
 title = "Version Control and Academic Writing"
 date = 2015-07-17
-tags = ["workflows", "geekery", "writing"]
+tags = ["workflows", "geekery", "writing", "git"]
 draft = false
 aliases = "/2015/version-control-and-academic-writing"
 type = "post"
