@@ -20,7 +20,7 @@ tag = "tags"
 [params]
 hello = ""
 description = ""
-
+bigfootnotes = true
 paginate_sections = 20
 switchlang = false
 BrandImage = ""

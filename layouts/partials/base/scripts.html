@@ -83,3 +83,13 @@ MathJax.Hub.Config({
 {{ range .Site.Params.customJS }}
 <script type="text/javascript" src="{{ . | absURL}}"></script>
 {{ end }}
+
+<!-- Bigfoot footnotes -->
+{{ if ne .Site.Params.bigfootnotes "" }}
+<link rel="stylesheet" type="text/css" href="/css/bigfoot-number.css">
+<script type="text/javascript" src="/js/jquery.min.js"></script>
+<script type="text/javascript" src="/js/bigfoot.js"></script>
+<script type="text/javascript">
+    $.bigfoot();
+</script>
+{{ end }}
