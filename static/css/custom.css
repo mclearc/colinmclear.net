@@ -123,6 +123,11 @@ nav.navbar.navbar-default.navbar-fixed-top a:hover {
     background-color: #8e0000;
 }
 
+/* navbar collapse colors */
+#navbar {
+    border-color: #8e0000;
+}
+ 
 #navbar.navbar-collapse.collapse.in .active a {
     background-color: #8e0000;
 }
