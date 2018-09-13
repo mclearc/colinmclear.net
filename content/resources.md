@@ -9,7 +9,7 @@ toc = false
   identifier = "resources"
 +++
 
-Some links for research, and for writing good philosophical prose.
+Here I collect links for research, teaching, technology, and whatever else might be use either to me or to my students.
 
 
 ## Philosophy Links {#philosophy-links}
