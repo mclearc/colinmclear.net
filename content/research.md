@@ -35,5 +35,6 @@ If you&rsquo;re interested in a draft of any of the following please [email me](
 
 ## Upcoming Conferences & Presentations {#upcoming-conferences-and-presentations}
 
+-   November 2018. &ldquo;On the Freedom of the Intellect.&rdquo; University of Nebraska–Omaha. Omaha, NE.
 -   February 2019. Author Meets Critics Session on Melissa Merritt, _Kant on
     Reflection and Virtue_. Meeting of the Central Division of the APA. Denver, CO.
