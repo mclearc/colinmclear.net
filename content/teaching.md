@@ -11,7 +11,7 @@ toc = false
 
 I regularly teach the The Philosophy of Food ([PHIL 105](http://phil105.colinmclear.net)), Introduction to
 Philosophy ([PHIL 101](/materials/course-syllabi/phil101-syllabus.pdf)), an undergraduate survey of &rsquo;modern&rsquo; philosophy of the
-seventeenth and eighteenth centuries ([PHIL 232](/materials/course-syllabi/phil232-syllabus.pdf)), and graduate level courses on
+seventeenth and eighteenth centuries ([PHIL 232](/materials/course-syllabi/phil232-syllabus.pdf)), and undergraduate and graduate level courses on
 Kant and related topics ([PHIL 460​/860](/materials/course-syllabi/kant-modern-syllabus.pdf), [PHIL 471​/871](http://phil871.colinmclear.net), and PHIL 971).
 
 
