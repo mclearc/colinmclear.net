@@ -9,7 +9,7 @@ toc = false
   identifier = "resources"
 +++
 
-Here I collect links for research, teaching, technology, and whatever else might be use either to me or to my students.
+Here I collect links for research, teaching, technology, and whatever else might be useful.
 
 
 ## Philosophy Links {#philosophy-links}
