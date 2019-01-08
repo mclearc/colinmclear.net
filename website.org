@@ -117,6 +117,8 @@ Here I collect links for research, teaching, technology, and whatever else might
 - [[http://earlymoderntexts.com][Early Modern Philosophy Texts]]
 - [[https://korpora.zim.uni-duisburg-essen.de/Kant/verzeichnisse-gesamt.html][Kant
   Akademieausgabe (Courtesy of Universität Bonn)]]
+- [[http://knb.mpiwg-berlin.mpg.de/kant/home][Database of Kant's concepts for a theory of nature]]
+  
 
 **** Sources for online German texts
 - [[http://gso.gbv.de/DB=1.28/SET=1/TTL=1/][VD17]]
