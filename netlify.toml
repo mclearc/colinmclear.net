@@ -3,14 +3,14 @@ publish = "public"
 command = "hugo -F"
 
 [context.production.environment]
-HUGO_VERSION = "0.46"
+HUGO_VERSION = "0.47.1"
 HUGO_ENV = "production"
 
 [context.deploy-preview]
 command = "hugo --buildFuture --buildDrafts"
 
 [context.deploy-preview.environment]
-HUGO_VERSION = "0.44"
+HUGO_VERSION = "0.47.1"
 
 [[redirects]]
   from = "https://brave-bassi-fae73b.netlify.com/*"
