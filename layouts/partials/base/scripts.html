@@ -17,13 +17,16 @@
 <script src="{{ "js/site.js" | absURL }}"></script>
 <script>hljs.initHighlightingOnLoad();</script>
 
-{{ with .Site.Params.googleAnalytics }}
-<script>
-  var _gaq=[['_setAccount','{{ . }}'],['_trackPageview']];
-  (function(d,t){var g=d.createElement(t),s=d.getElementsByTagName(t)[0];
-  g.src=('https:'==location.protocol?'//ssl':'//www')+'.google-analytics.com/ga.js';
-  s.parentNode.insertBefore(g,s)}(document,'script'));
-</script>
+{{ with .Site.Params.GoogleAnalytics }}
+{{ template "_internal/google_analytics.html" . }}
+{{ template "_internal/google_analytics_async.html" . }}
+<!-- {{ with .Site.Params.googleAnalytics }}
+     <script>
+     var _gaq=[['_setAccount','{{ . }}'],['_trackPageview']];
+     (function(d,t){var g=d.createElement(t),s=d.getElementsByTagName(t)[0];
+     g.src=('https:'==location.protocol?'//ssl':'//www')+'.google-analytics.com/ga.js';
+     s.parentNode.insertBefore(g,s)}(document,'script'));
+     </script> -->
 {{ end }}
 <script>
 var ENABLE_POPOVER = {{.Site.Params.popover.enablepopover}}, // enable or disable popover: true/false.

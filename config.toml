@@ -6,7 +6,8 @@ copyright       = "Colin McLear"
 DisqusShortname = "colinmclear"
 enableRobotsTXT = true
 # Google Analytics.
-googleAnalytics = "UA-30497236-1"
+# googleAnalytics = "UA-30497236-1"
+GoogleAnalytics = "UA-30497236-1"
 
 [permalinks]
   post = "/:year/:title/"
