@@ -17,15 +17,12 @@
 <script src="{{ "js/site.js" | absURL }}"></script>
 <script>hljs.initHighlightingOnLoad();</script>
 
-{{ with .Site.Params.googleAnalytic }}
-<!-- Global Site Tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=GA_TRACKING_ID"></script>
+{{ with .Site.Params.googleAnalytics }}
 <script>
- window.dataLayer = window.dataLayer || [];
- function gtag(){dataLayer.push(arguments);}
- gtag('js', new Date());
-
- gtag('config', 'GA_TRACKING_ID');
+  var _gaq=[['_setAccount','{{ . }}'],['_trackPageview']];
+  (function(d,t){var g=d.createElement(t),s=d.getElementsByTagName(t)[0];
+  g.src=('https:'==location.protocol?'//ssl':'//www')+'.google-analytics.com/ga.js';
+  s.parentNode.insertBefore(g,s)}(document,'script'));
 </script>
 {{ end }}
 <script>
