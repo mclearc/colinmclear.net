@@ -145,7 +145,7 @@ Links to tools I use for research and writing
 - [[http://git-scm.com][Git]]: Version control
 - [[https://education.github.com][Github]]: Online storage and collaboration
 - Kieran Healy's [[http://kieranhealy.org/resources/][writing resources page]]
-- [[http://chronicle.com/blogs/profhacker/][Profhacker]]: Blog on teaching & technology
+- [[http://profhacker.com][Profhacker]]: Blog on teaching & technology
 - [[http://programminghistorian.org][The Programming Historian]]: Tutorials for aspiring digital humanists
 *** Contact
 :PROPERTIES:
