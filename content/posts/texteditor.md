@@ -55,7 +55,7 @@ reasons that I find compelling. I&rsquo;m sure there are others.
 
 2.  Version control
 
-    I&rsquo;ve [written before](%7Bfilename%7D/blog/VersionControl.md)
+    I&rsquo;ve [written before]({filename}/blog/VersionControl.md)
     about how useful it is to have your writing under some sort of
     version control. Most modern text editors allow you to directly and
     easily interface with the vc of your choice in the course of an

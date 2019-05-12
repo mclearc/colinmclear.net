@@ -39,6 +39,7 @@ Here I collect links for research, teaching, technology, and whatever else might
 -   [Early Modern Philosophy Texts](http://earlymoderntexts.com)
 -   [Kant
     Akademieausgabe (Courtesy of Universität Bonn)](https://korpora.zim.uni-duisburg-essen.de/Kant/verzeichnisse-gesamt.html)
+-   [Database of Kant&rsquo;s concepts for a theory of nature](http://knb.mpiwg-berlin.mpg.de/kant/home)
 
 
 ## Sources for online German texts {#sources-for-online-german-texts}
@@ -59,8 +60,10 @@ Links to tools I use for research and writing
 -   [Pandoc](http://johnmacfarlane.net/pandoc/index.html): File conversion
 -   [Emacs](https://www.gnu.org/software/emacs/): A superb (and free) text editor and writing/research platform
     -   If you want to get started with emacs you might take a look at my [configuration file](https://github.com/mclear-tools/dotemacs/blob/master/config.org)
--   [BibDesk](http://bibdesk.sourceforge.net): Reference manager for bib files (Free, OS X only)
--   [Skim](http://skim-app.sourceforge.net): PDF reader & annotator (Free, OS X only)
+-   [BibDesk](http://bibdesk.sourceforge.net): Reference manager for bib files (Free, Mac OS only)
+-   [Bookends](https://www.sonnysoftware.com): A fantastic general reference manager (Mac OS only)
+-   [Devonthink](https://www.devontechnologies.com): Database & smart document manager (Mac OS only)
+-   [Skim](http://skim-app.sourceforge.net): PDF reader & annotator (Free, Mac OS only)
 -   [Zotero](https://www.zotero.org): A great free way to collect and manage references. Works well with bibtex via [zotero better bibtex](https://github.com/retorquere/zotero-better-bibtex)
 -   [Git](http://git-scm.com): Version control
 -   [Github](https://education.github.com): Online storage and collaboration
