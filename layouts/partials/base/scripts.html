@@ -21,12 +21,14 @@
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-30497236-1"></script>
 <script>
- window.dataLayer = window.dataLayer || [];
- function gtag(){dataLayer.push(arguments);}
- gtag('js', new Date());
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
 
- gtag('config', 'UA-30497236-1');
+  gtag('config', 'UA-30497236-1');
 </script>
+{{ end }}
+<script>
 var ENABLE_POPOVER = {{.Site.Params.popover.enablepopover}}, // enable or disable popover: true/false.
 EXPIRE_COOKIE = {{.Site.Params.popover.expirecookie}}, // show it again after number of days to visitor that has not subscribed.
 SHOW_MODAL_TIMEOUT = {{.Site.Params.popover.showmodaltimeout}}, // show popover modal after time interval in milliseconds.
