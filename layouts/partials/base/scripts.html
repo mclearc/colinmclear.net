@@ -18,6 +18,8 @@
 <script>hljs.initHighlightingOnLoad();</script>
 
 {{ with .Site.Params.googleAnalytics }}
+{{ template "_internal/google_analytics_async.html" . }}
+{{ template "_internal/google_analytics.html" . }}
 {{ end }}
 <script>
 var ENABLE_POPOVER = {{.Site.Params.popover.enablepopover}}, // enable or disable popover: true/false.
