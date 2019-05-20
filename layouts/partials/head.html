@@ -4,7 +4,6 @@
 {{ "<!--[if IE 8]>" | safeHTML }} <html class="no-js lt-ie9"> {{ "<![endif]-->" | safeHTML }}
 {{ "<!--[if gt IE 8]><!-->" | safeHTML }} <html class="no-js"> {{ "<!--<![endif]-->" | safeHTML }}
 <head>
-{{ with .Site.Params.googleAnalytics }}
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-30497236-1"></script>
 <script>
@@ -14,7 +13,6 @@
 
   gtag('config', 'UA-30497236-1');
 </script>
-{{ end }}
 
   <meta http-equiv="content-type" content="text/html; charset=utf-8">
   <title>{{ .Title }} {{ if ne .Title .Site.Title }} &middot; {{ .Site.Title }}{{ end }}</title>
