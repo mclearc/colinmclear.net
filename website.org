@@ -62,6 +62,9 @@ If you're interested in a draft of any of the following please [[mailto:mclear@u
 - November 2018. "On the Freedom of the Intellect." University of Nebraska–Omaha. Omaha, NE. 
 - February 2019. Author Meets Critics Session on Melissa Merritt, /Kant on
   Reflection and Virtue/. Meeting of the Central Division of the APA. Denver, CO.
+- June 2019. "Self-Consciousness and the Freedom of Thought." China Kant Society, Peking University.
+  Beijing, China.
+  
   
 
 *** Teaching
@@ -584,6 +587,68 @@ So, I want three things---reading, annotation, and citation management.
 See http://karinwulf.com/efficient-reading/
 
 *** DRAFT What to Read as a Graduate Student
+
+*** DRAFT Emacs Configurations                                       :emacs:
+I spend a lot of time writing and editing. I use a [[https://en.wikipedia.org/wiki/Text_editor][text editor]] for this. I've [[https://www.colinmclear.net/posts/texteditor/][written
+before]] on why I think text editors are the best means for writing and editing one can
+have. But part of why a text editor can be so important is that they tend to be
+extensible or configurable (or both)---you can fit the editor to your needs. I use
+[[https://www.gnu.org/s/emacs/][emacs]], which is perhaps the most configurable and extensible text editor there is. 
+
+But the configurability and extensibility can also cause frustration. Many people
+don't want to think about configuring emacs. For those I strongly recommend there are
+also the configurations of [[https://github.com/purcell/emacs.d][purcell]] and [[https://github.com/bbatsov/prelude][batsov (prelude)]] and [[https://github.com/caisah/emacs.dz][many others]]. I come
+originally from using [[https://www.vim.org][vim]]. If you prefer vim's [[https://en.wikipedia.org/wiki/Vi#Interface][modal editing]] style you should try
+[[http://spacemacs.org][spacemacs]] or [[https://github.com/hlissner/doom-emacs][doom-emacs]] as a way of managing your configuration. Whatever you do you
+should look at some [[https://github.com/hrs/sensible-defaults.el][sensible defaults]] for configuring emacs. 
+
+I started using emacs via spacemacs and then migrated to developing [[https://github.com/mclear-tools/dotemacs][my own config]].
+There tend to be [[https://emacs.stackexchange.com/questions/2520/organize-the-content-of-emacs-d-init-el-and-emacs-d][three styles of config]]: a [[http://milkbox.net/note/single-file-master-emacs-configuration/][single =init.el=]] file with all the elisp
+necessary to run emacs as you like it; a [[https://harryrschwartz.com/2016/02/15/switching-to-a-literate-emacs-configuration]["literate" config]] using [[http://orgmode.org][org-mode]] to organize
+and then "tangle" the file using [[http://orgmode.org/worg/org-contrib/babel/][org-babel]] (you can find another helpful discussion of
+this method [[http://stackoverflow.com/questions/17416738/emacs-initialization-as-org-file-how-can-i-get-the-right-version-of-org-mode][here]]); or a [[http://ergoemacs.org/emacs/organize_your_dot_emacs.html]["modular" file]] in which the =init.el= file loads separate
+"libraries" of code.  
+
+For configurations of any reasonable level of complexity I think the single file
+approach is ill-conceived. 
+
+The literate config using org is great for two reasons. First, it is extremely simple to
+organize one's config and comment significantly on every part. This is especially
+helpful when one is just starting out with elisp so that one can comment on how the
+various elisp code one uses works to achieve the desired results. Second, literate
+configs can be great learning sources for others. If you use a code repository like
+Github then you can display the org file natively. This makes browsing someone's
+emacs config very easy (especially when they include a [[https://github.com/mclear-tools/dotemacs/blob/master/config.org#table-of-contents][table of contents]]).
+
+But a literate config can have its [[https://valignatev.com/posts/emacs-org-config/][down sides]]. In addition to the issues listed by
+Ignatev, some of which may be resolvable, I found a few key problems. First, if you
+like to run the latest org-mode then you have to work around emacs' built-in org
+version, which can be a [[https://www.reddit.com/r/emacs/comments/5sx7j0/how_do_i_get_usepackage_to_ignore_the_bundled/][pain in the neck]]. 
+
+Second, you need to load org mode when you generate, or want to edit, your config
+file. This can lead to slower load times in general, and if you have a large config,
+it can take several seconds before you can start editing (some people might not mind
+this but it tends to annoy me).
+
+Third, I find it a bit easier to keep modular files (e.g. separate files for
+keybindings, for configuring specific packages, or for a theme, etc.) under version
+control than to keep a single monolithic configuration file under vc. 
+
+Fourth, I often accidentally deleted or moved parts of my org config unintentionally,
+due to editing when at least some headlines were collapsed. There are [[https://emacs.stackexchange.com/questions/2086/org-mode-prevent-editing-of-text-within-collapsed-subtree][ways around
+this]], but it lead to some unnecessary problems. 
+
+Fifth, and perhaps more subjectively than the above, I find it much easier to wrap my
+head around separate modules when it comes to thinking about what I want to tweak or
+change, or looking a git log of what I have tweaked or changed. 
+
+Now, a modular config is perhaps not as immediately readable as a literate one, but
+it is easy to comment as necesary on one's code, and you can use packages like
+[[https://github.com/alphapapa/outshine][Outshine]] to provide all the folding and navigational ease of org in pure elisp. I
+also use a [[https://github.com/mclear-tools/dotemacs/blob/8f96e3e7d2878376bd0ab323f765786ab4b886f7/init.el#L273-L281][few custom functions]] for navigating my setup files, which makes things at
+least as easy to find as they were in my old literate config (in some ways I find my
+current modular config even easier to search through). 
+
 
 * Configuration
 #+HUGO_BASE_DIR: ./ 
