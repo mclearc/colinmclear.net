@@ -59,7 +59,8 @@ Links to tools I use for research and writing
 -   [Markdown](http://daringfireball.net/projects/markdown/): Plaintext markup for easy writing
 -   [Pandoc](http://johnmacfarlane.net/pandoc/index.html): File conversion
 -   [Emacs](https://www.gnu.org/software/emacs/): A superb (and free) text editor and writing/research platform
-    -   If you want to get started with emacs you might take a look at my [configuration file](https://github.com/mclear-tools/dotemacs/blob/master/config.org)
+    -   If you want to get started with emacs you might take a look at my
+        [emacs configuration files](https://github.com/mclear-tools/dotemacs)
 -   [BibDesk](http://bibdesk.sourceforge.net): Reference manager for bib files (Free, Mac OS only)
 -   [Bookends](https://www.sonnysoftware.com): A fantastic general reference manager (Mac OS only)
 -   [Devonthink](https://www.devontechnologies.com): Database & smart document manager (Mac OS only)
