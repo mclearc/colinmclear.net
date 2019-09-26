@@ -121,23 +121,33 @@ Here I collect links for research, teaching, technology, and whatever else might
 - [[https://www.dropbox.com/s/lyods0bt22x8u6l/ThesisOverview.pdf?dl=0][Writing a Thesis Statement]]
 - [[https://www.dropbox.com/s/eaggc570nfu6nqa/PaperStructure.pdf?dl=0][Philosophy Paper Structure]]
 
+**** Early Modern Resources
+- [[https://projectvox.library.duke.edu][Project Vox]]
+- [[http://publish.uwo.ca/~cdyck5/UWOKRG/digitalarchive.html][Digital Archive of 18th Century German Texts]] (UWO Kant Research Group)
+- [[http://publish.uwo.ca/~cdyck5/UWOKRG/women.html][Women Intellectuals of 18th Century Germany]] (UWO Kant Research Group)
+- [[https://historyofwomenphilosophers.org/ecc/#hwps][Encyclopedia of Concise Concepts by Women Philosophers]] (Mary Ellen Waithe & Ruth Hagengruber)
+- [[http://www.unicaen.fr/puc/sources/prodescartes/accueil][Corpus Descartes]]
+- [[http://digitalcavendish.org/text-archive/links-to-digital-texts/][Digital Cavendish Project]]
+- [[http://www.gwlb.de/Leibniz/][Gottfried Wilhelm Leibniz Bibliothek]]
+- [[http://emps.me/bryce/resources-for-philosophers/christian-wolff/][Christian Wolff]] (Bryce Gessell)
+- [[http://www.kuttaka.org/~JHL/Main.html][Johann Heinrich Lambert Collected Works Online]] (Maarten Bullynck)
+
 **** Kant Related Links
 - [[http://kantpapers.org][KantPapers]]
-- [[http://www.manchester.edu/kant/Home/index.htm][Kant in the Classroom]]
-- [[http://staffweb.hkbu.edu.hk/ppp/Kant.html][Kant on the Web]]
+- [[http://www.manchester.edu/kant/Home/index.htm][Kant in the Classroom]] (Steve Naragon)
+- [[http://staffweb.hkbu.edu.hk/ppp/Kant.html][Kant on the Web]] (Steve Palmquist)
+- [[http://publish.uwo.ca/~cdyck5/UWOKRG/kantsbooks.html][Kant's Books]] (UWO Kant Research Group)
+- [[https://dspace.ut.ee/handle/10062/42108][Kants Handexemplar von Meiers Auszug aus der Vernunftlehre]] (University of Tartu)
 - [[http://www.kant.uni-mainz.de/Welcome.html][Kant-Forschungsstelle]]
 - [[http://earlymoderntexts.com][Early Modern Philosophy Texts]]
-- [[https://korpora.zim.uni-duisburg-essen.de/Kant/verzeichnisse-gesamt.html][Kant
-  Akademieausgabe (Courtesy of Universität Bonn)]]
+- [[https://korpora.zim.uni-duisburg-essen.de/Kant/verzeichnisse-gesamt.html][Kant Akademieausgabe (Courtesy of Universität Bonn)]]
 - [[http://knb.mpiwg-berlin.mpg.de/kant/home][Database of Kant's concepts for a theory of nature]]
-  
 
 **** Sources for online German texts
 - [[http://gso.gbv.de/DB=1.28/SET=1/TTL=1/][VD17]]
 - [[http://www.zvdd.de/startseite/][ZVDD]]
 - [[http://kvk.bibliothek.kit.edu/?digitalOnly=0&embedFulltitle=0&newTab=0][KVK]]
-- [[http://digital-beta.staatsbibliothek-berlin.de][Digitalisierte
-  Sammlungen (Berlin)]]
+- [[http://digital-beta.staatsbibliothek-berlin.de][Digitalisierte Sammlungen (Berlin)]]
 - [[https://www.deutsche-digitale-bibliothek.de][Deutsche Digitale Bibliothek]]
 
 **** Academic Technology & Tools
