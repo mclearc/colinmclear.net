@@ -32,19 +32,18 @@ If you're interested, here's my complete CV: [[file:/materials/McLearCV.pdf][PDF
 :END:
 
 I have broad interests in epistemology, metaphysics, the philosophy of mind, and the
-foundations of cognitive science. I pursue these interests historically, primarily
-through querying the European philosophical tradition from the seventeenth through
-the nineteenth centuries. The particular focus of my work thus far has been on the
-nature of the mind and the various forms of its manifestation, both rational and
-non-rational, in animal life. My published work to date mostly focuses on the
-philosophy of Immanuel Kant. I have written on Kant's views concerning the mind,
-perception, his theory of human reason and rationality, and the broader metaphysical
-and epistemological views with which these ideas are integrated. I'm also very
-interested in seeing what, if any, connections may be made between Kant's positions
-and contemporary research programs in the philosophy of mind and metaphysics. In
-particular, I am interested in issues pertaining to the study of mental content, the
-nature and significance of self-consciousness, reasoning and rationality, and animal
-cognition.
+foundations of cognitive science. I pursue these interests historically, by querying
+the European philosophical tradition from the seventeenth through the nineteenth
+centuries. The focus of my work thus far has been Immanuel Kant's philosophy,
+particularly his views on the nature of the mind and the forms of its manifestation,
+both rational and non-rational, in animal life. I have written on Kant's views
+concerning the mind, perception, his theory of human reason and rationality, and the
+broader metaphysical and epistemological views with which these ideas are integrated.
+I'm also very interested in seeing what, if any, connections may be made between
+Kant's positions and contemporary research programs in the philosophy of mind and
+metaphysics. In particular, I am interested in issues pertaining to the study of
+mental content, the nature and significance of self-consciousness, reasoning and
+rationality, and animal cognition.
 
 #+HTML:<style> .xpapers_abstract { font-size:smaller; padding-left:6px; padding-bottom:10px } .xpapers_pubtype {font-size:28px} .publication-title {font-weight:regular } .publication-cite { color : #444 } </style>
 
@@ -194,7 +193,7 @@ primarily only on /weekdays/.
 #+LANGUAGE: en
 #+OPTIONS: ':t
 
-*** DONE Moving to Hugo                                                       :hugo:pelican:website:
+*** DONE Moving to Hugo :hugo:pelican:website:
 CLOSED: [2018-07-19 Thu 10:49]
 :PROPERTIES:
 :EXPORT_FILE_NAME: moving-to-hugo
@@ -218,7 +217,7 @@ for a more secure site.
 
 
 
-*** DONE Maintaining a CV in Multiple Formats                                 :cv:pandoc:geekery:
+*** DONE Maintaining a CV in Multiple Formats :cv:pandoc:geekery:
 :PROPERTIES:
 :EXPORT_DATE: 2015-12-14
 :EXPORT_FILE_NAME: maintaining-cv-multiple-formats
@@ -279,7 +278,7 @@ conversion, you can look at
 [[https://github.com/mclearc/cv-boilerplate.git][my repo]] on Github.
 
 
-*** DONE New Site Design                                                      :website:bootstrap:pelican:
+*** DONE New Site Design :website:bootstrap:pelican:
 :PROPERTIES:
 :EXPORT_DATE: 2015-07-13
 :EXPORT_FILE_NAME: newsite
@@ -289,7 +288,7 @@ navigation. Thanks go to [[https://github.com/DandyDev][DandyDev]] for developin
 [[http://blog.getpelican.com][Pelican]]. I'll be continuing to tweak here and there so apologies if you find
 broken links or other infelicities.
 
-*** DONE Pandoc Letters                                                       :pandoc:latex:
+*** DONE Pandoc Letters :pandoc:latex:
 :PROPERTIES:
 :EXPORT_DATE: 2015-07-22
 :EXPORT_FILE_NAME: pandocletter
@@ -300,7 +299,7 @@ a nice looking letter with letterhead (assuming you have a logo for it). It
 uses the [[https://www.ctan.org/pkg/newlfm?lang=en][newlfm package]]. The template is on github [[https://raw.githubusercontent.com/mclearc/pandoc-templates/master/letter.tex][here]]. I got the idea from
 Matthew Miller's [[http://www.matthewjmiller.net/howtos/customized-cover-letter-scripts/][post]], and [[http://texblog.org/2013/11/11/latexs-alternative-letter-class-newlfm/][this discussion]] on [[http://texblog.org][texblog.org]].
 
-*** DONE Site Changes                                                         :website:
+*** DONE Site Changes :website:
 :PROPERTIES:
 :EXPORT_DATE: 2016-05-28
 :EXPORT_FILE_NAME: sitechanges
@@ -310,7 +309,7 @@ all the teaching materials to their own websites (e.g.
 [[http://phil105.colinmclear.net][phil105.colinmclear.net]]). So please excuse any broken links you find in the
 meantime!
 
-*** DONE Text Editors and Academic Writing                                    :writing:
+*** DONE Text Editors and Academic Writing :writing:
 :PROPERTIES:
 :EXPORT_DATE: 2016-09-05
 :EXPORT_FILE_NAME: texteditor
@@ -408,7 +407,7 @@ really a help or if you'd rather just chuck it and go back to MS Word, Pages,
 or [[https://www.literatureandlatte.com/scrivener.php][whatever worked for you]] before.
 
 
-*** DONE Version Control and Academic Writing                                 :workflows:geekery:writing:git:
+*** DONE Version Control and Academic Writing :workflows:geekery:writing:git:
 :PROPERTIES:
 :EXPORT_DATE: 2015-07-17
 :EXPORT_FILE_NAME: versioncontrol
@@ -541,7 +540,7 @@ which streamline much of the process.
 
 [fn:1] You might also look at [[https://mercurial.selenic.com][Mercurial]], which is a popular, and perhaps
        slightly easier to use, alternative to Git.
-*** DONE Writing a syllabus for multiple formats                              :workflows:teaching:
+*** DONE Writing a syllabus for multiple formats :workflows:teaching:
 :PROPERTIES:
 :EXPORT_DATE: 2016-07-17
 :EXPORT_FILE_NAME: syllabus_yaml
@@ -564,13 +563,13 @@ my [[http://phil101.colinmclear.net][PHIL 101 class]], also on [[https://github.
 The html and latex templates are pretty basic, but serviceable. You should be
 able to easily modify them to fit your particular needs. 
        
-*** DRAFT On Citations                                                        :research:notes:writing:
+*** DRAFT On Citations :research:notes:writing:
 :PROPERTIES:
 :EXPORT_DATE: 2016-10-11
 :EXPORT_FILE_NAME: citations
 :END:
 
-*** DRAFT Reference Management                                                :references:writing:
+*** DRAFT Reference Management :references:writing:
 :PROPERTIES:
 :EXPORT_DATE: 2015-08-05
 :EXPORT_FILE_NAME: reference-management
@@ -596,7 +595,7 @@ data silos. I want something that I can easily get data out of later.
 Third, I want to be able to easily cite what I've read in my writing.
 So, I want three things---reading, annotation, and citation management.
 
-*** DRAFT Taking Notes                                                        :research:notes:writing:
+*** DRAFT Taking Notes :research:notes:writing:
 :PROPERTIES:
 :EXPORT_FILE_NAME: taking-notes
 :END:
@@ -607,7 +606,7 @@ See http://karinwulf.com/efficient-reading/
 
 *** DRAFT What to Read as a Graduate Student
 
-*** DRAFT Emacs Configurations                                       :emacs:
+*** DRAFT Emacs Configurations :emacs:geekery:
 I spend a lot of time writing and editing. I use a [[https://en.wikipedia.org/wiki/Text_editor][text editor]] for this. I've [[https://www.colinmclear.net/posts/texteditor/][written
 before]] on why I think text editors are the best means for writing and editing one can
 have. But part of why a text editor can be so important is that they tend to be
@@ -692,7 +691,7 @@ current modular config even easier to search through).
 #+PANDOC_OPTIONS: standalone:t pdf-engine:xelatex  
 #+BIBLIOGRAPHY: ~/Dropbox/Work/Master.bib
 
-* COMMENT Local Variables                                                       :ARCHIVE:
+* COMMENT Local Variables :ARCHIVE:
 # Local Variables:
 # eval: (add-hook 'after-save-hook #'org-hugo-export-wim-to-md-after-save :append :local)
 # eval: (setq org-export-initial-scope 'subtree)
