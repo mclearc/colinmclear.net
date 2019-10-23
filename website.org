@@ -606,7 +606,12 @@ See http://karinwulf.com/efficient-reading/
 
 *** DRAFT What to Read as a Graduate Student
 
-*** DRAFT Emacs Configurations :emacs:geekery:
+*** DONE Emacs Configurations :emacs:geekery:
+CLOSED: [2019-10-22 Tue 20:26]
+:PROPERTIES:
+:EXPORT_DATE: 2019-10-22
+:EXPORT_FILE_NAME: emacs-configuration
+:END:
 I spend a lot of time writing and editing. I use a [[https://en.wikipedia.org/wiki/Text_editor][text editor]] for this. I've [[https://www.colinmclear.net/posts/texteditor/][written
 before]] on why I think text editors are the best means for writing and editing one can
 have. But part of why a text editor can be so important is that they tend to be
