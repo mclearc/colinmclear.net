@@ -63,6 +63,17 @@ Fifth, and perhaps more subjectively than the above, I find it much easier to wr
 head around separate modules when it comes to thinking about what I want to tweak or
 change, or looking at a git log of what I have tweaked or changed.
 
+Sixth, dealing with problem (debugging) is harder. Often you&rsquo;ll need to use the
+tangled source for debugging and then go back and make changes in the org mode file.
+Also, the links from **Help** and **Debugger** will jump to the tangled source rather than
+the org file, which is what you actually need to edit. Also, if there are problems
+you might need to bisect your org file (essentially commenting out parts of it until
+you figure out what is wrong). I find it much easier to simply load or not load
+specific modules from the init file.
+
+Seventh, it is also easier to edit files in lisp mode than edit an org mode
+containing lisp syntax.
+
 Now, a modular config is perhaps not as immediately readable as a literate one, but
 it _is_ easy to comment as necessary on one&rsquo;s code, and you can use packages like
 [Outshine](https://github.com/alphapapa/outshine) to provide all the folding and navigational ease of org in pure elisp. I
