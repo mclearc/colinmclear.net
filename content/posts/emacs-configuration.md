@@ -63,7 +63,7 @@ Fifth, and perhaps more subjectively than the above, I find it much easier to wr
 head around separate modules when it comes to thinking about what I want to tweak or
 change, or looking at a git log of what I have tweaked or changed.
 
-Sixth, dealing with problem (debugging) is harder. Often you&rsquo;ll need to use the
+Sixth, dealing with problems (debugging) is harder. Often you&rsquo;ll need to use the
 tangled source for debugging and then go back and make changes in the org mode file.
 Also, the links from **Help** and **Debugger** will jump to the tangled source rather than
 the org file, which is what you actually need to edit. Also, if there are problems
