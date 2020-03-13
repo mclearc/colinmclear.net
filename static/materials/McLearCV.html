@@ -11,133 +11,133 @@
   <title>mclear-cv-content</title>
   <style type="text/css">code{white-space: pre;}</style>
         <style type="text/css">
-  /*
-   * Copyright 2013 Christophe-Marie Duquesne <chmd@chmd.fr>
-   *
-   * CSS for making a resume with pandoc. Inspired by moderncv.
-   *
-   * This CSS document is delivered to you under the CC BY-SA 3.0 License.
-   * https://creativecommons.org/licenses/by-sa/3.0/deed.en_US
-   */
-  
-  /* Whole document */
-  body {
-      font-family: Helvetica, "Roboto", Arial, sans-serif;
-      width: 800px;
-      max-width: 85%;
-      margin: auto;
-      line-height: 1.5em;
-      /* background: #FFFFFF; */
-      background: #fff;
-      padding: 10px 10px 10px 10px;
-  
-  }
-  
-  /* Title of the resume */
-  h1 {
-      font-size: 40px;
-      font-family: Optima;
-      font-variant: small-caps;
-      /* color: #757575; */
-      color: #000;
-      text-align:center;
-      margin-bottom:20px;
-      padding-bottom: 20px;
-  }
-  /* h1:hover { */
-  /*     background-color: #757575; */
-  /*     /\* color: #FFFFFF; *\/ */
-  /*     color: #000 */
-  /*     text-shadow: 1px 1px 1px #333; */
-  /* } */
-  
-  /* Titles of categories */
-  h2 {
-      /* color: #397249; */
-      color: #000;
-      font-family: Optima;
-      font-variant: small-caps;
-  }
-  h3 {font-family: Optima;font-variant: small-caps;}
-  h4 {font-family: Optima;font-variant: small-caps;}
-  /* There is a bar just before each category */
-  h2:before {
-      content: "";
-      display: inline-block;
-      margin-right:1%;
-      width: 16%;
-      height: 10px;
-      /* background-color: #9CB770; */
-      background-color: #FF0000;
-  }
-  /* h2:hover { */
-  /*     /\* background-color: #397249; *\/ */
-  /*     /\* color: #FFFFFF; *\/ */
-  /*     color: #FFFFFF; */
-  /*     text-shadow: 1px 1px 1px #333; */
-  /* } */
-  
-  /* Definitions */
-  dt {
-      float: left;
-      clear: left;
-      width: 17%;
-      /*font-weight: bold;*/
-  }
-  
-  dd {
-      margin-left: 17%;
-  }
-  p {
-      margin-top:0;
-      margin-bottom:7px;
-  }
-  
-  /* Blockquotes */
-  blockquote {
-      text-align: center
-  }
-  
-  /* Links */
-  a {
-      text-decoration: none;
-      border-bottom: 1px black dotted;
-      /* border-bottom: 1px black dotted; */
-      /* color: #397249; */
-      color: #000;
-  }
-  a:hover, a:active {
-               /* background-color: #397249; */
-               /* color: #FFFFFF; */
-               text-decoration: none;
-               border-bottom: 1px black solid;
-               /* text-shadow: 1px 1px 1px #333; */
-           }
-  
-  /* Horizontal separators */
-  hr {
-      /* color: #A6A6A6; */
-      color: #FF0000;
-  }
-  
-  ul {
-      list-style: disk outside none ;
-      margin-left: 3em;
-      padding-left: 1em;
-  }
-  li {
-      padding-left: 1.5em;
-      text-indent: -1em;
-  }
-  
-  #left{
-      float:left 
-  }
-  
-  #right{
-      float:right
-  }
-  </style>
+        /*
+         * Copyright 2013 Christophe-Marie Duquesne <chmd@chmd.fr>
+         *
+         * CSS for making a resume with pandoc. Inspired by moderncv.
+         *
+         * This CSS document is delivered to you under the CC BY-SA 3.0 License.
+         * https://creativecommons.org/licenses/by-sa/3.0/deed.en_US
+         */
+
+        /* Whole document */
+        body {
+            font-family: Helvetica, "Roboto", Arial, sans-serif;
+            width: 800px;
+            max-width: 85%;
+            margin: auto;
+            line-height: 1.5em;
+            /* background: #FFFFFF; */
+            background: #fff;
+            padding: 10px 10px 10px 10px;
+
+        }
+
+        /* Title of the resume */
+        h1 {
+            font-size: 40px;
+            font-family: Optima;
+            font-variant: small-caps;
+            /* color: #757575; */
+            color: #000;
+            text-align:center;
+            margin-bottom:20px;
+            padding-bottom: 20px;
+        }
+        /* h1:hover { */
+        /*     background-color: #757575; */
+        /*     /\* color: #FFFFFF; *\/ */
+        /*     color: #000 */
+        /*     text-shadow: 1px 1px 1px #333; */
+        /* } */
+
+        /* Titles of categories */
+        h2 {
+            /* color: #397249; */
+            color: #000;
+            font-family: Optima;
+            font-variant: small-caps;
+        }
+        h3 {font-family: Optima;font-variant: small-caps;}
+        h4 {font-family: Optima;font-variant: small-caps;}
+        /* There is a bar just before each category */
+        h2:before {
+            content: "";
+            display: inline-block;
+            margin-right:1%;
+            width: 16%;
+            height: 10px;
+            /* background-color: #9CB770; */
+            background-color: #FF0000;
+        }
+        /* h2:hover { */
+        /*     /\* background-color: #397249; *\/ */
+        /*     /\* color: #FFFFFF; *\/ */
+        /*     color: #FFFFFF; */
+        /*     text-shadow: 1px 1px 1px #333; */
+        /* } */
+
+        /* Definitions */
+        dt {
+            float: left;
+            clear: left;
+            width: 17%;
+            /*font-weight: bold;*/
+        }
+
+        dd {
+            margin-left: 17%;
+        }
+        p {
+            margin-top:0;
+            margin-bottom:7px;
+        }
+
+        /* Blockquotes */
+        blockquote {
+            text-align: center
+        }
+
+        /* Links */
+        a {
+            text-decoration: none;
+            border-bottom: 1px black dotted;
+            /* border-bottom: 1px black dotted; */
+            /* color: #397249; */
+            color: #000;
+        }
+        a:hover, a:active {
+                     /* background-color: #397249; */
+                     /* color: #FFFFFF; */
+                     text-decoration: none;
+                     border-bottom: 1px black solid;
+                     /* text-shadow: 1px 1px 1px #333; */
+                 }
+
+        /* Horizontal separators */
+        hr {
+            /* color: #A6A6A6; */
+            color: #FF0000;
+        }
+
+        ul {
+            list-style: disk outside none ;
+            margin-left: 3em;
+            padding-left: 1em;
+        }
+        li {
+            padding-left: 1.5em;
+            text-indent: -1em;
+        }
+
+        #left{
+            float:left 
+        }
+
+        #right{
+            float:right
+        }
+        </style>
   
   <!--  Horizontal separators  -->
 <style type="text/css">
@@ -225,6 +225,10 @@ h2:before {
 
     <h3>Articles</h3>
         <li>
+    <b>Forthcoming</b>:  "I Am the Original of All Objects: Apperception and the Substantial Subject."
+    <i>Philosophers’ Imprint</i> 
+    </li>
+        <li>
     <b>Forthcoming</b>:  "On the Transcendental Freedom of the Intellect."
     <i>Ergo</i> 
     </li>
@@ -310,6 +314,10 @@ h2:before {
             
     <h3>Reviews</h3>
             <li>
+    <b>Forthcoming</b>: "Review of Mathias Birrer, <em>Kant und die Heterogenität der Erkenntnisquellen</em>."
+    <i>Studi Kantiani</i> 
+    </li>
+        <li>
     <b>Forthcoming</b>: "Review of Christine Korsgaard, <em>Fellow Creatures</em>."
     <i>European Journal of Philosophy</i> 
     </li>
@@ -565,13 +573,16 @@ h2:before {
 <b>UNL</b>: Placement Director; Director of Transfer Credit; Committee on Graduate Teaching; History Area Committee; Speakers Committee; UNL Graduate Fellowship Committee
 </li>
 <li>
-<b>Referee Work</b>: Archiv für Geschichte der Philosophie (multiple times), British Journal for the History of Philosophy (multiple times), Cambridge University Press, Canadian Journal of Philosophy (multiple times), Dialogue (multiple times), Ergo (multiple times), Erkenntnis, European Journal of Philosophy (multiple times), Idealistic Studies, History of Philosophy Quarterly (multiple times), Journal of the History of Philosophy (multiple times), Journal of Modern Philosophy, Journal of Philosophical Research, Kantian Review (multiple times), Kant Studies Online, Mind (multiple times), Minds &amp; Machines, Oxford University Press (multiple times), Pacific Philosophical Quarterly (multiple times), Philosophical Quarterly (multiple times), Philosophers’ Imprint (multiple times), Philosophical Papers, Philosophy &amp; Phenomenological Research, Res Philosophica (multiple times), Social Theory &amp; Practice, South African Journal of Philosophy, Southern Journal of Philosophy, SSHRC of Canada, Studi Kantiani, Synthese, The Philosophical Review (multiple times), The Philosophical Quarterly (multiple times)
+<b>Referee Work</b>: Archiv für Geschichte der Philosophie (multiple times), British Journal for the History of Philosophy (multiple times), Cambridge University Press, Canadian Journal of Philosophy (multiple times), Dialogue (multiple times), Ergo (multiple times), Erkenntnis, European Journal of Philosophy (multiple times), Idealistic Studies, History of Philosophy Quarterly (multiple times), Journal of the History of Philosophy (multiple times), Journal of Modern Philosophy, Journal of Philosophical Research, Kantian Review (multiple times), Kant Studies Online, Mind (multiple times), Minds &amp; Machines, Oxford University Press (multiple times), Pacific Philosophical Quarterly (multiple times), Philosophical Quarterly (multiple times), Philosophers’ Imprint (multiple times), Philosophical Papers, Philosophy &amp; Phenomenological Research (multiple times), Res Philosophica (multiple times), Social Theory &amp; Practice, South African Journal of Philosophy, Southern Journal of Philosophy, SSHRC of Canada, Studi Kantiani, Synthese, The Philosophical Review (multiple times), The Philosophical Quarterly (multiple times)
 </li>
 <li>
 <b>Ongoing</b>: Area editor (Kant/Post-Kantian Philosophy), <em>Ergo</em>
 </li>
 <li>
-<b>Ongoing</b>: Subject-area Editor: Kant’s Works, Philpapers.org
+<b>Ongoing</b>: Philpapers.org Subject-area Editor: Kant’s Works, Kant Phil Mind
+</li>
+<li>
+<b>2020</b>: Fifth Biennial NAKS Conference Peer Review Committee
 </li>
 <li>
 <b>2016</b>: Third Biennial NAKS Conference Peer Review Committee
