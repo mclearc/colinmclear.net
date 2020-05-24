@@ -54,15 +54,15 @@ rationality, and animal cognition.
 If you're interested in a draft of any of the following please [[mailto:mclear@unl.edu][email me]].
 
 - "Actuality and intuition"
-- "Hegel on the subjective nature of kantian thought"
 - "Reflection and reasoning"
 - "The unity of reflection"
-- "'I am the original of all objects': Apperception and the substantial subject"
 - "Definition and essence in the /Metaphysical Foundations of Natural Science/" 
-- "Kantian Conceptualism/Nonconceptualism."
+# - "Hegel on the subjective nature of kantian thought"
+# - "'I am the original of all objects': Apperception and the substantial subject"
+# - "Kantian Conceptualism/Nonconceptualism."
 
 **** Upcoming Conferences & Presentations 
-- May 2020. "TBA." Conference on Kant on the Self, Princeton University. 
+- May 2021. "TBA." Conference on Kant on the Self, Princeton University. 
 - February 2020. "On Pure Intuition and Actuality." /Central division of the American
   Philosophical Association/, Chicago IL.
 - December 2019. "Rationality: What Difference Does It Make?" Boston Area Kant Colloquium, Boston, MA.

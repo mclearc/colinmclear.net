@@ -33,20 +33,17 @@ rationality, and animal cognition.
 If you&rsquo;re interested in a draft of any of the following please [email me](mailto:mclear@unl.edu).
 
 -   &ldquo;Actuality and intuition&rdquo;
--   &ldquo;Hegel on the subjective nature of kantian thought&rdquo;
 -   &ldquo;Reflection and reasoning&rdquo;
 -   &ldquo;The unity of reflection&rdquo;
--   &ldquo;&lsquo;I am the original of all objects&rsquo;: Apperception and the substantial subject&rdquo;
 -   &ldquo;Definition and essence in the _Metaphysical Foundations of Natural Science_&rdquo;
--   &ldquo;Kantian Conceptualism/Nonconceptualism.&rdquo;
 
 
 ## Upcoming Conferences & Presentations {#upcoming-conferences-and-presentations}
 
--   May 2020. &ldquo;TBA.&rdquo; Conference on Kant on the Self, Princeton University.
+-   May 2021. &ldquo;TBA.&rdquo; Conference on Kant on the Self, Princeton University.
 -   February 2020. &ldquo;On Pure Intuition and Actuality.&rdquo; _Central division of the American
     Philosophical Association_, Chicago IL.
--   December 2019. &ldquo;TBA.&rdquo; Boston Area Kant Colloquium, Boston, MA.
+-   December 2019. &ldquo;Rationality: What Difference Does It Make?&rdquo; Boston Area Kant Colloquium, Boston, MA.
 -   June 2019. &ldquo;Self-Consciousness and the Freedom of Thought.&rdquo; China Kant Society, Peking University.
     Beijing, China.
 -   February 2019. Author Meets Critics Session on Melissa Merritt, _Kant on
