@@ -137,7 +137,7 @@ Here I collect links for research, teaching, technology, and whatever else might
 - [[http://staffweb.hkbu.edu.hk/ppp/Kant.html][Kant on the Web]] (Steve Palmquist)
 - [[http://publish.uwo.ca/~cdyck5/UWOKRG/kantsbooks.html][Kant's Books]] (UWO Kant Research Group)
 - [[https://dspace.ut.ee/handle/10062/42108][Kants Handexemplar von Meiers Auszug aus der Vernunftlehre]] (University of Tartu)
-- [[http://www.kant.uni-mainz.de/Welcome.html][Kant-Forschungsstelle]]
+- [[https://www.philosophie.fb05.uni-mainz.de/forschungsstellen-und-weitere-einrichtungen/fs_kant/][Kant-Forschungsstelle]]
 - [[http://earlymoderntexts.com][Early Modern Philosophy Texts]]
 - [[https://korpora.zim.uni-duisburg-essen.de/Kant/verzeichnisse-gesamt.html][Kant Akademieausgabe (Courtesy of Universität Bonn)]]
 - [[http://knb.mpiwg-berlin.mpg.de/kant/home][Database of Kant's concepts for a theory of nature]]
