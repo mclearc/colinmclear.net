@@ -176,9 +176,10 @@ Links to tools I use for research and writing
 :END:
 
 Dr. Colin McLear\\
-Office: 1003 Oldfather Hall\\
+Office: 315P Louise Pound Hall\\
 Office Hours: T 1:00-3:20 and by appointment\\
-Email: [[mailto:mclear@unl.edu][mclear@unl.edu]]
+Email: [[mailto:mclear@unl.edu][mclear@unl.edu]] \\ 
+Phone: (402) 472-2425 \\
 
 Email is the best way to reach me. I answer emails as soon as I can, but
 primarily only on /weekdays/. 
