@@ -5,7 +5,7 @@
       <header>
         {{ partial "bloc/content/h1-title" . }}
       </header>
-      {{ range $index, (.Paginator .Site.Params.paginate_sections ).Pages }}
+      {{ range $index, $foo := (.Paginator .Site.Params.paginate_sections ).Pages }}
         {{ .Render "section.li" }}
       {{ end }}
       {{ partial "bloc/content/pagination" . }}
