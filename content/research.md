@@ -32,6 +32,7 @@ rationality, and animal cognition.
 
 If you&rsquo;re interested in a draft of any of the following please [email me](mailto:mclear@unl.edu).
 
+-   Kant on Rational Agency (book manuscript)
 -   &ldquo;Actuality and intuition&rdquo;
 -   &ldquo;Reflection and reasoning&rdquo;
 -   &ldquo;The unity of reflection&rdquo;
@@ -40,7 +41,10 @@ If you&rsquo;re interested in a draft of any of the following please [email me](
 
 ## Upcoming Conferences & Presentations {#upcoming-conferences-and-presentations}
 
--   May 2021. &ldquo;TBA.&rdquo; Conference on Kant on the Self, Princeton University.
+-   October 2021. &ldquo;TBA.&rdquo; Colloquium, Department of Philosophy, University of Wisconsin--Madison.
+-   October 2021. &ldquo;Self-Consciousness & Rationality.&rdquo; Kantian Rationality Lab,
+    Kaliningrad.
+-   May 2021. &ldquo;Self-Consciousness & Rationality.&rdquo; Conference on Kant on the Self, Princeton University.
 -   February 2020. &ldquo;On Pure Intuition and Actuality.&rdquo; _Central division of the American
     Philosophical Association_, Chicago IL.
 -   December 2019. &ldquo;Rationality: What Difference Does It Make?&rdquo; Boston Area Kant Colloquium, Boston, MA.

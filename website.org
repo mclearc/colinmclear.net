@@ -53,16 +53,18 @@ rationality, and animal cognition.
 
 If you're interested in a draft of any of the following please [[mailto:mclear@unl.edu][email me]].
 
+- Kant on Rational Agency (book manuscript)
 - "Actuality and intuition"
 - "Reflection and reasoning"
 - "The unity of reflection"
 - "Definition and essence in the /Metaphysical Foundations of Natural Science/" 
 # - "Hegel on the subjective nature of kantian thought"
-# - "'I am the original of all objects': Apperception and the substantial subject"
-# - "Kantian Conceptualism/Nonconceptualism."
 
 **** Upcoming Conferences & Presentations 
-- May 2021. "TBA." Conference on Kant on the Self, Princeton University. 
+- October 2021. "TBA." Colloquium, Department of Philosophy, University of Wisconsin--Madison.
+- October 2021. "Self-Consciousness & Rationality." Kantian Rationality Lab,
+  Kaliningrad. 
+- May 2021. "Self-Consciousness & Rationality." Conference on Kant on the Self, Princeton University. 
 - February 2020. "On Pure Intuition and Actuality." /Central division of the American
   Philosophical Association/, Chicago IL.
 - December 2019. "Rationality: What Difference Does It Make?" Boston Area Kant Colloquium, Boston, MA.
@@ -83,19 +85,21 @@ If you're interested in a draft of any of the following please [[mailto:mclear@u
 
 I regularly teach the The Philosophy of Food ([[http://phil105.colinmclear.net][PHIL 105]]), Introduction to Philosophy
 ([[file:/materials/course-syllabi/phil101-syllabus.pdf][PHIL 101]]), an undergraduate survey of 'modern' philosophy of the seventeenth and
-eighteenth centuries ([[file:/materials/course-syllabi/phil232-syllabus.pdf][PHIL 232]]), and undergraduate and graduate level courses on Kant
-and related topics ([[file:/materials/course-syllabi/kant-modern-syllabus.pdf][PHIL 460​/860]], [[http://phil871.colinmclear.net][PHIL 471​/871]], and PHIL 971).
+eighteenth centuries ([[file:/materials/course-syllabi/phil232-syllabus.pdf][PHIL 232]]), and undergraduate and graduate level courses on
+Early Modern ([[file:/materials/course-syllabi/kant-modern-syllabus.pdf][PHIL 460​/860]]), Kant ([[https://phil871.colinmclear.net][PHIL 471​/871]]), German Idealism ([[https://phil880.colinmclear.net][PHIL 480/880]]), and
+a regular research seminar on related topics ([[https://phil971.colinmclear.net][PHIL 971]]).
 
 **** Previously Taught
 - PHIL 232 (Yearly): History of Early Modern Philosophy
-- PHIL 101 (Yearly): Introduction to Philosophy
 - PHIL 105 (Yearly): [[http://phil105.colinmclear.net][The Philosophy of Food]]
+- PHIL 101 (Yearly): Introduction to Philosophy
+- PHIL 971 (Fall 2020): Kantian Conceptions of Rational Agency
 - PHIL 971 (Fall 2017): [[file:/materials/course-syllabi/SK-german-idealism-syllabus.pdf][Self-Knowledge in Kant & Early German Idealism]]
 - PHIL 971 (Spring 2016): [[file:/materials/course-syllabi/ISKSyllabus.pdf][Introspection & Self-Knowledge]]
 - PHIL 971 (Fall 2013): [[file:/materials/course-syllabi/ConceptualismSyllabus.pdf][Seminar on Conceptualism]]
 - PHIL 460​/860 (Fall 2016): [[file:/materials/course-syllabi/kant-modern-syllabus.pdf][Kant & Early Modern Philosophy]]
-- Oxford Grad Seminar (Trinity 2017) on [[file:/materials/course-syllabi/ox-kant-syllabus.pdf][Kant on perception and cognition]], with [[http://www.anilgomes.com][Anil Gomes]]
-
+- Oxford Grad Seminar (Trinity 2017) on [[file:/materials/course-syllabi/ox-kant-syllabus.pdf][Kant on Perception and Cognition]], with [[http://www.anilgomes.com][Anil Gomes]]
+  
 
 *** Resources
 :PROPERTIES:
