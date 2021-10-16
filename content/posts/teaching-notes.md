@@ -191,4 +191,5 @@ The nice thing about this is I can use a single file and export a nice looking s
 slides and a good handout, where the handout can also include extra notes or passages
 via the tag filter on export.
 
-For a look at the org-latex-classes you can check out the [github repository](https://github.com/mclearc/org-latex-classes).
+For a look at the org-latex-classes you can check out the [github repository](https://github.com/mclearc/org-latex-classes). You can
+also look at the above functions as they appear in my [dotfiles](https://github.com/mclear-tools/dotemacs/blob/master/setup-config/setup-teaching.el).
