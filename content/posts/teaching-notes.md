@@ -25,15 +25,15 @@ files, specific headings, even specific lines. I&rsquo;ll then export using one 
 following functions (depending on context):
 
 ```emacs-lisp
-  (defun cpm/org-export-pdf-notes ()
-  "Export subtree of notes to PDF file. Note uses a distinctive quote style."
-  (interactive)
-  (let ((org-latex-default-quote-environment "quote-b"))
-    (org-narrow-to-subtree)
-    (save-excursion
-      (goto-char (point-min))
-      (org-latex-export-to-pdf t t nil nil '(:latex-class "org-notes")))
-    (widen)))
+(defun cpm/org-export-pdf-notes ()
+"Export subtree of notes to PDF file. Note uses a distinctive quote style."
+(interactive)
+(let ((org-latex-default-quote-environment "quote-b"))
+  (org-narrow-to-subtree)
+  (save-excursion
+    (goto-char (point-min))
+    (org-latex-export-to-pdf t t nil nil '(:latex-class "org-notes")))
+  (widen)))
 
 (defun cpm/org-export--file-pdf-notes ()
   "Export file notes to PDF file. Note uses a distinctive quote style."
@@ -47,7 +47,7 @@ following functions (depending on context):
 These functions require that you create the following custom [org-latex class](http://doc.endlessparentheses.com/Var/org-latex-classes.html):
 
 ```emacs-lisp
-  ;; Export org to a nice looking PDF file
+;; Export org to a nice looking PDF file
 (with-eval-after-load 'ox-latex
   (add-to-list 'org-latex-classes
                '("org-notes"
@@ -121,61 +121,62 @@ correctly on export.
 
 ```emacs-lisp
 ;; Originally used for exporting notes in reveal.js
-  ;; See
-  ;; https://joonro.github.io/Org-Coursepack/Lectures/04%20Creating%20Content%20for%20Slides%20and%20Handouts.html#speaker-notes
-  (defun string/starts-with (string prefix)
-    "Return t if STRING starts with prefix."
-    (and (string-match (rx-to-string `(: bos ,prefix) t) string) t))
+;; See
+;; https://joonro.github.io/Org-Coursepack/Lectures/04%20Creating%20Content%20for%20Slides%20and%20Handouts.html#speaker-notes
 
-  (defun my/process-NOTES-blocks (text backend info)
-    "Filter NOTES special blocks in export."
-    (cond
-     ((eq backend 'rst)
-      (if (string/starts-with text ".. NOTES::") ""))
-     ((eq backend 'html)
-      (if (string/starts-with text "<div class=\"NOTES\">") ""))
-     ((eq backend 'beamer)
-      (let ((text (replace-regexp-in-string "\\\\begin{NOTES}" "\\\\note{" text)))
-        (replace-regexp-in-string "\\\\end{NOTES}" "}" text)))
-     ))
+(defun string/starts-with (string prefix)
+  "Return t if STRING starts with prefix."
+  (and (string-match (rx-to-string `(: bos ,prefix) t) string) t))
 
-  (eval-after-load 'ox '(add-to-list
-                         'org-export-filter-special-block-functions
-                         'my/process-NOTES-blocks))
+(defun my/process-NOTES-blocks (text backend info)
+  "Filter NOTES special blocks in export."
+  (cond
+   ((eq backend 'rst)
+    (if (string/starts-with text ".. NOTES::") ""))
+   ((eq backend 'html)
+    (if (string/starts-with text "<div class=\"NOTES\">") ""))
+   ((eq backend 'beamer)
+    (let ((text (replace-regexp-in-string "\\\\begin{NOTES}" "\\\\note{" text)))
+      (replace-regexp-in-string "\\\\end{NOTES}" "}" text)))
+   ))
+
+(eval-after-load 'ox '(add-to-list
+                       'org-export-filter-special-block-functions
+                       'my/process-NOTES-blocks))
 ```
 
 Then I have a set of functions for exporting the relevant files asynchronously.
 
 ```emacs-lisp
-  ;;;; Org export to slides w/notes
-  (defun cpm/org-export-beamer-presentation ()
-    (interactive)
-    (let ((org-export-exclude-tags '("handout")))
-      (save-excursion
-        (goto-char (point-min))
-        (org-beamer-export-to-pdf nil t nil nil '(:latex-class "beamer-presentation")))))
-
-  ;; I got the tag based selective export idea from J Kitchin
-  ;; https://kitchingroup.cheme.cmu.edu/blog/2013/12/08/Selectively-exporting-headlines-in-org-mode/
-  (defun cpm/org-export--file-beamer-presentation ()
-    (interactive)
-    (let ((org-export-exclude-tags '("handout")))
-      (save-excursion
-        (goto-char (point-min))
-        (org-beamer-export-to-pdf t nil nil nil '(:latex-class "beamer-presentation")))))
-
-
-  ;;;; Org export file to handout
-  (defun cpm/org-export-beamer-handout ()
-  "Export subtree content to PDF handout. Handout uses a distinctive quote style."
+;; Org export to slides w/notes
+(defun cpm/org-export-beamer-presentation ()
   (interactive)
-  (let ((org-latex-default-quote-environment "quote-b")
-        (org-export-exclude-tags '("slides")))
-    (org-narrow-to-subtree)
+  (let ((org-export-exclude-tags '("handout")))
     (save-excursion
       (goto-char (point-min))
-      (org-latex-export-to-pdf t t nil nil '(:latex-class "beamer-handout")))
-    (widen)))
+      (org-beamer-export-to-pdf nil t nil nil '(:latex-class "beamer-presentation")))))
+
+;; I got the tag based selective export idea from J Kitchin
+;; https://kitchingroup.cheme.cmu.edu/blog/2013/12/08/Selectively-exporting-headlines-in-org-mode/
+(defun cpm/org-export--file-beamer-presentation ()
+  (interactive)
+  (let ((org-export-exclude-tags '("handout")))
+    (save-excursion
+      (goto-char (point-min))
+      (org-beamer-export-to-pdf t nil nil nil '(:latex-class "beamer-presentation")))))
+
+
+;; Org export file to handout
+(defun cpm/org-export-beamer-handout ()
+"Export subtree content to PDF handout. Handout uses a distinctive quote style."
+(interactive)
+(let ((org-latex-default-quote-environment "quote-b")
+      (org-export-exclude-tags '("slides")))
+  (org-narrow-to-subtree)
+  (save-excursion
+    (goto-char (point-min))
+    (org-latex-export-to-pdf t t nil nil '(:latex-class "beamer-handout")))
+  (widen)))
 
 (defun cpm/org-export--file-beamer-handout ()
   "Export file content to PDF handout. Handout uses a distinctive quote style."
