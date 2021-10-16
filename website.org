@@ -640,9 +640,12 @@ These functions require that you create the following custom [[http://doc.endles
                  ("\\subparagraph{%s}" . "\\subparagraph*{%s}"))))
 #+end_src
 
-This runs an asynchronous process to produce a nice looking PDF of the relevant
-notes. This does also require a specific set of latex packages that I set in another
-file I call "notes-setup-file.tex". I'll put that at the end of the post. 
+The export functions run an asynchronous process to produce a nice looking PDF of the
+relevant notes. This does also require a specific set of latex packages that I set in
+another file I call "notes-setup-file.tex". Note that these classes use a custom
+quote environment ("quote-b") to show quoted passages with a left-side bar and with a
+slightly shaded background. I'll put a link to the tex files where all of this is
+specified at the end of this post.
 
 **** Slides & Handouts
 
@@ -686,11 +689,6 @@ First, I have a set of custom classes:
                ("\\paragraph{%s}" . "\\paragraph*{%s}")
                ("\\subparagraph{%s}" . "\\subparagraph*{%s}"))))
 #+end_src
-
-Note that these classes uses a set of custom setup files for the latex packages,
-including a custom quote environment ("quote-b") to show quoted passages with a
-left-side bar and with a slightly shaded background. I'll put a link to the tex files
-where all of this is specified at the end of this post. 
 
 I also like to have the slides be primarily texts or main ideas, while my notes are
 in a separate area, which will show up on the handout but not the slides. I use a src
@@ -771,7 +769,11 @@ slides and a good handout, where the handout can also include extra notes or pas
 via the tag filter on export. 
 
 For a look at the org-latex-classes you can check out the [[https://github.com/mclearc/org-latex-classes][github repository]]. You can
-also look at the above functions as they appear in my [[https://github.com/mclear-tools/dotemacs/blob/master/setup-config/setup-teaching.el][dotfiles]].
+also look at the above functions as they appear in my [[https://github.com/mclear-tools/dotemacs/blob/master/setup-config/setup-teaching.el][dotfiles]]. And if you end up
+using fonts like the ones that I use above rather than something like computer
+modern, you'll have to remember to set xelatex as your processor. This means putting
+=#+LATEX_COMPILER: xelatex= at the top of your org file or related [[https://orgmode.org/manual/In_002dbuffer-Settings.html][setupfile]]. 
+
 
 *** DRAFT On Citations :research:notes:writing:
 :PROPERTIES:
