@@ -1,6 +1,7 @@
 +++
 title = "Teaching Notes, Slides, & Handouts"
 date = 2021-10-15T22:50:00-04:00
+tags = ["teaching", "emacs", "workflows", "geekery"]
 draft = false
 toc = false
 type = "post"

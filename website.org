@@ -567,7 +567,7 @@ my [[http://phil101.colinmclear.net][PHIL 101 class]], also on [[https://github.
 
 The html and latex templates are pretty basic, but serviceable. You should be
 able to easily modify them to fit your particular needs. 
-*** DONE Teaching Notes, Slides, & Handouts
+*** DONE Teaching Notes, Slides, & Handouts :teaching:emacs:workflows:geekery:
 CLOSED: [2021-10-15 Fri 22:50]
 :PROPERTIES:
 :EXPORT_FILE_NAME: teaching-notes
@@ -578,7 +578,7 @@ I've recently created some functions in emacs to make exporting notes, slides, a
 handouts somewhat easier. I do all this using [[https://orgmode.org][org-mode]]. I figure there are at least a
 few other people who might find this workflow of interest so I though I would
 document it here (it will also serve as a document of how all this works in case I
-forget in the future).
+forget in the future). 
 
 **** Notes
 Basically, I want to be able to export from a file or an org-mode tree in a few
