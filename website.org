@@ -567,7 +567,7 @@ my [[http://phil101.colinmclear.net][PHIL 101 class]], also on [[https://github.
 
 The html and latex templates are pretty basic, but serviceable. You should be
 able to easily modify them to fit your particular needs. 
-*** DONE Teaching Notes, Slides, & Handouts :teaching:emacs:workflows:geekery:
+*** DONE Teaching Notes, Slides, & Handouts :emacs:geekery:teaching:workflows:
 CLOSED: [2021-10-15 Fri 22:50]
 :PROPERTIES:
 :EXPORT_FILE_NAME: teaching-notes
