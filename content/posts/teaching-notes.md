@@ -13,6 +13,18 @@ few other people who might find this workflow of interest so I though I would
 document it here (it will also serve as a document of how all this works in case I
 forget in the future).
 
+I want to be able to turn something like the following:
+
+{{< figure src="/ox-hugo/Screen Shot 2021-10-16 at 12.34.44 AM.png" >}}
+
+Into a nice looking set of PDF notes like this:
+
+{{< figure src="/ox-hugo/Screen Shot 2021-10-16 at 12.37.50 AM.png" >}}
+
+Or a set of slides like this:
+
+{{< figure src="/ox-hugo/Screen Shot 2021-10-16 at 12.40.53 AM.png" >}}
+
 
 ## Notes {#notes}
 
@@ -113,7 +125,8 @@ First, I have a set of custom classes:
 
 Note that these classes uses a set of custom setup files for the latex packages,
 including a custom quote environment (&ldquo;quote-b&rdquo;) to show quoted passages with a
-left-side bar and with a slightly shaded background.
+left-side bar and with a slightly shaded background. I&rsquo;ll put a link to the tex files
+where all of this is specified at the end of this post.
 
 I also like to have the slides be primarily texts or main ideas, while my notes are
 in a separate area, which will show up on the handout but not the slides. I use a src
