@@ -8,6 +8,9 @@ enableRobotsTXT = true
 # Google Analytics.
 googleAnalytics = "UA-30497236-1"
 
+# source block highlights
+pygmentsCodeFences = true
+
 [permalinks]
   post = "/:year/:title/"
 
