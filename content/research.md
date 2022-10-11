@@ -4,24 +4,27 @@ draft = false
 weight = -100
 author = false
 toc = false
-[menu.main]
-  weight = 3002
-  identifier = "research"
+[menu]
+  [menu.main]
+    weight = 3002
+    identifier = "research"
 +++
 
-I have broad interests in epistemology, metaphysics, the philosophy of mind, and the
-foundations of cognitive science. I pursue these interests historically, by querying
-the European philosophical tradition from the seventeenth through the nineteenth
-centuries. The focus of my work thus far has been Immanuel Kant&rsquo;s philosophy,
-particularly his views on the nature of the mind and the forms of its manifestation,
-both rational and non-rational, in animal life. I have written on Kant&rsquo;s views
-concerning the mind, perception, his theory of human reason and rationality, and the
-broader metaphysical and epistemological views with which these ideas are integrated.
-I&rsquo;m also very interested in seeing what, if any, connections may be made between
-Kant&rsquo;s positions and contemporary research programs in the philosophy of mind and
-metaphysics. In particular, I am interested in issues pertaining to the study of
-mental content, the nature and significance of self-consciousness, reasoning and
-rationality, and animal cognition.
+I have broad interests in epistemology, metaphysics, the philosophy of
+mind, and the foundations of cognitive science. I pursue these interests
+historically, by querying the European philosophical tradition from the
+seventeenth through the nineteenth centuries. The focus of my work thus
+far has been Immanuel Kant&rsquo;s philosophy, particularly his views on the
+nature of the mind and the forms of its manifestation, both rational and
+non-rational, in animal life. I have written on Kant&rsquo;s views concerning
+the mind, perception, his theory of human reason and rationality, and
+the broader metaphysical and epistemological views with which these
+ideas are integrated. I&rsquo;m also very interested in seeing what, if any,
+connections may be made between Kant&rsquo;s positions and contemporary
+research programs in the philosophy of mind and metaphysics. In
+particular, I am interested in issues pertaining to explanation, the
+study of mental content, the nature and significance of
+self-consciousness, reasoning and rationality, and animal cognition.
 
 <style> .xpapers_abstract { font-size:smaller; padding-left:6px; padding-bottom:10px } .xpapers_pubtype {font-size:28px} .publication-title {font-weight:regular } .publication-cite { color : #444 } </style>
 
@@ -32,19 +35,20 @@ rationality, and animal cognition.
 
 If you&rsquo;re interested in a draft of any of the following please [email me](mailto:mclear@unl.edu).
 
--   Kant on Rational Agency (book manuscript)
--   &ldquo;Actuality and intuition&rdquo;
--   &ldquo;Reflection and reasoning&rdquo;
--   &ldquo;The unity of reflection&rdquo;
--   &ldquo;Definition and essence in the _Metaphysical Foundations of Natural Science_&rdquo;
+-   Reason&rsquo;s Order: Kant on Rational Agency (book manuscript)
+-   Kant on Time and Receptivity
+-   Kant on Reason and Nature
+-   Hegel on the subjectivity of Kant&rsquo;s idealism
 
 
-## Upcoming Conferences & Presentations {#upcoming-conferences-and-presentations}
+## Upcoming Conferences &amp; Presentations {#upcoming-conferences-and-presentations}
 
--   October 2021. &ldquo;TBA.&rdquo; Colloquium, Department of Philosophy, University of Wisconsin--Madison.
--   October 2021. &ldquo;Self-Consciousness & Rationality.&rdquo; Kantian Rationality Lab,
+-   June 2022. &ldquo;Kant on Control &amp; Rationality.” Keynote speaker, Graduate Conference on Freedom, Action, and Control: Conceptions of Rational Agency in Kant and the European Enlightenment; University of Bucharest (online).
+-   May 2022. _Reason’s Order: Kant on the Conditions of Rational Agency_. Book workshop, University of Toronto.
+-   October 2021. &ldquo;Self-Consciousness &amp; Rationality.&rdquo; Colloquium, Department of Philosophy, University of Wisconsin--Madison.
+-   October 2021. &ldquo;Self-Consciousness &amp; Rationality.&rdquo; Kantian Rationality Lab,
     Kaliningrad.
--   May 2021. &ldquo;Self-Consciousness & Rationality.&rdquo; Conference on Kant on the Self, Princeton University.
+-   May 2021. &ldquo;Self-Consciousness &amp; Rationality.&rdquo; Conference on Kant on the Self, Princeton University.
 -   February 2020. &ldquo;On Pure Intuition and Actuality.&rdquo; _Central division of the American
     Philosophical Association_, Chicago IL.
 -   December 2019. &ldquo;Rationality: What Difference Does It Make?&rdquo; Boston Area Kant Colloquium, Boston, MA.

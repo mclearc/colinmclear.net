@@ -55,15 +55,21 @@ self-consciousness, reasoning and rationality, and animal cognition.
 
 If you're interested in a draft of any of the following please [[mailto:mclear@unl.edu][email me]].
 
-- Kant on Rational Agency (book manuscript)
-- "Actuality and intuition"
-- "Reflection and reasoning"
-- "The unity of reflection"
-- "Definition and essence in the /Metaphysical Foundations of Natural Science/" 
-# - "Hegel on the subjective nature of kantian thought"
+- Reason's Order: Kant on Rational Agency (book manuscript)
+- Kant on Time and Receptivity
+- Kant on Reason and Nature
+- Hegel on the subjectivity of Kant's idealism
+
+# - "Actuality and intuition"
+# - "Reflection and reasoning"
+# - "The unity of reflection"
+# - "Definition and essence in the /Metaphysical Foundations of Natural Science/" 
+
 
 **** Upcoming Conferences & Presentations 
-- October 2021. "TBA." Colloquium, Department of Philosophy, University of Wisconsin--Madison.
+- June 2022. "Kant on Control & Rationality.” Keynote speaker, Graduate Conference on Freedom, Action, and Control: Conceptions of Rational Agency in Kant and the European Enlightenment; University of Bucharest (online).
+- May 2022. /Reason’s Order: Kant on the Conditions of Rational Agency/. Book workshop, University of Toronto. 
+- October 2021. "Self-Consciousness & Rationality." Colloquium, Department of Philosophy, University of Wisconsin--Madison.
 - October 2021. "Self-Consciousness & Rationality." Kantian Rationality Lab,
   Kaliningrad. 
 - May 2021. "Self-Consciousness & Rationality." Conference on Kant on the Self, Princeton University. 
@@ -183,7 +189,7 @@ Links to tools I use for research and writing
 
 Dr. Colin McLear\\
 Office: 315P Louise Pound Hall\\
-Office Hours: (Remote only) T/Th 1–2:00 p.m. or by appointment. ([[https://unl.zoom.us/j/94199866851][Zoom link]])\\
+Office Hours: Thursday, 10-12 p.m. or by appointment. ([[https://unl.zoom.us/j/94199866851][Zoom link]])\\
 Email: [[mailto:mclear@unl.edu][mclear@unl.edu]] \\ 
 Phone: (402) 472-2425 \\
 
