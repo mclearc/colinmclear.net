@@ -47,6 +47,8 @@ pertaining to explanation, the study of mental content, the nature and
 significance of self-consciousness, reasoning and rationality, and animal
 cognition.
 
+#+HTML:<div id="philpeople-component-follow_btn"></div> <script type="text/javascript" src="https://philpeople.org/components/follow_btn?props%5B%3Aprofile_id_prop%5D=740&amp;props%5Bcontext%5D=external"></script>
+
 #+HTML:<style> .xpapers_abstract { font-size:smaller; padding-left:6px; padding-bottom:10px } .xpapers_pubtype {font-size:28px} .publication-title {font-weight:regular } .publication-cite { color : #444 } </style>
 
 #+HTML: <script id='ppl-widget' type="text/javascript" src="https://philpeople.org/widget/colin-mclear.js?app=philpapers&amp;iframe=true"></script>
