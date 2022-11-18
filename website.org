@@ -901,12 +901,17 @@ specific modules from the init file.
 Seventh, it is also easier to edit files in lisp mode than edit an org mode
 containing lisp syntax. 
 
-Now, a modular config is perhaps not as immediately readable as a literate one, but
-it /is/ easy to comment as necessary on one's code, and you can use packages like
-[[https://github.com/alphapapa/outshine][Outshine]] to provide all the folding and navigational ease of org in pure elisp. I
-also use a [[https://github.com/mclear-tools/dotemacs/blob/8f96e3e7d2878376bd0ab323f765786ab4b886f7/init.el#L273-L281][few custom functions]] for navigating my setup files, which makes things at
-least as easy to find as they were in my old literate config (in some ways I find my
-current modular config even easier to search through). 
+Now, a modular config is perhaps not as immediately readable as a literate one,
+but it /is/ easy to comment as necessary on one's code, and you can use packages
+like the built-in outline library, with =(outline-minor-mode)= and =(outline-cycle)=
+to allow for easy folding and cycling through levels of visibility just as with
+org. I also use a few custom functions for navigating my setup files, which
+makes things at least as easy to find as they were in my old literate config (in
+some ways I find my current modular config even easier to search through). You
+can see the setup of outline mode [[https://github.com/Lambda-Emacs/lambda-emacs/blob/286860f01842a3be14d03fa99cc06942f6d03045/init.el#L278][here]] and the search functions [[https://github.com/Lambda-Emacs/lambda-emacs/blob/286860f01842a3be14d03fa99cc06942f6d03045/lambda-library/lambda-setup/lem-setup-functions.el#L48][here]].
+
+
+EDITED: Friday, November 18 2022 to update description of outline and search functions.
 
 
 * Configuration
