@@ -38,7 +38,7 @@ showRightSidebar = true
 github = "mclearc" # Your Github profile ID
 twitter = "mclearc" # Your Twitter profile ID
 philpeople = "colin-mclear" # philpeople page 
-mastodon = "emacs.ch/@mclearc" # mastodon instance 
+mastodon = "fosstodon.org/@mclearc"
 university = "https://www.unl.edu/philosophy/" # link to university philosophy homepage
 department = "UNL Philosophy"  # name of university philosophy department
 
