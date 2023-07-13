@@ -147,7 +147,7 @@ Here I collect links for research, teaching, technology, and whatever else might
 
 **** Kant Related Links
 - [[http://kantpapers.org][KantPapers]]
-- [[http://www.manchester.edu/kant/Home/index.htm][Kant in the Classroom]] (Steve Naragon)
+- [[https://users.manchester.edu/facstaff/ssnaragon/kant/Home/index.htm][Kant in the Classroom]] (Steve Naragon)
 - [[http://staffweb.hkbu.edu.hk/ppp/Kant.html][Kant on the Web]] (Steve Palmquist)
 - [[http://publish.uwo.ca/~cdyck5/UWOKRG/kantsbooks.html][Kant's Books]] (UWO Kant Research Group)
 - [[https://dspace.ut.ee/handle/10062/42108][Kants Handexemplar von Meiers Auszug aus der Vernunftlehre]] (University of Tartu)
