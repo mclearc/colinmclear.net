@@ -97,13 +97,13 @@ I regularly teach the The Philosophy of Food ([[http://phil105.colinmclear.net][
 ([[file:/materials/course-syllabi/phil101-syllabus.pdf][PHIL 101]]), an undergraduate survey of 'modern' philosophy of the seventeenth and
 eighteenth centuries ([[file:/materials/course-syllabi/phil232-syllabus.pdf][PHIL 232]]), and undergraduate and graduate level courses on
 Early Modern ([[file:/materials/course-syllabi/kant-modern-syllabus.pdf][PHIL 460​/860]]), Kant ([[https://phil871.colinmclear.net][PHIL 471​/871]]), German Idealism ([[https://phil880.colinmclear.net][PHIL 480/880]]), and
-a regular research seminar on related topics ([[https://phil971.colinmclear.net][PHIL 971]]).
+a regular research seminar on related topics (PHIL 971).
 
 **** Previously Taught
 - PHIL 232 (Yearly): History of Early Modern Philosophy
 - PHIL 105 (Yearly): [[http://phil105.colinmclear.net][The Philosophy of Food]]
 - PHIL 101 (Yearly): Introduction to Philosophy
-- PHIL 971 (Fall 2020): Kantian Conceptions of Rational Agency
+- PHIL 971 (Fall 2020): [[https://phil971-2020.colinmclear.net][Kantian Conceptions of Rational Agency]]
 - PHIL 971 (Fall 2017): [[file:/materials/course-syllabi/SK-german-idealism-syllabus.pdf][Self-Knowledge in Kant & Early German Idealism]]
 - PHIL 971 (Spring 2016): [[file:/materials/course-syllabi/ISKSyllabus.pdf][Introspection & Self-Knowledge]]
 - PHIL 971 (Fall 2013): [[file:/materials/course-syllabi/ConceptualismSyllabus.pdf][Seminar on Conceptualism]]
