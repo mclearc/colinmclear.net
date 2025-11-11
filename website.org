@@ -571,15 +571,15 @@ forget in the future).
 
 I want to be able to turn something like the following:
 
-[[/ox-hugo/Screen Shot 2021-10-16 at 12.34.44 AM.png]]
+[[/ox-hugo/teaching-notes-org.png]]
 
 Into a nice looking set of PDF notes like this:
 
-[[/ox-hugo/Screen Shot 2021-10-16 at 12.37.50 AM.png]]
+[[/ox-hugo/teaching-notes-pdf.png]]
 
 Or a set of slides like this:
 
-[[/ox-hugo/Screen Shot 2021-10-16 at 12.40.53 AM.png]]
+[[/ox-hugo/teaching-notes-slides.png]]
 
 **** Notes
 Basically, I want to be able to export from a file or an org-mode tree in a few
