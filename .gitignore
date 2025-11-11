@@ -45,7 +45,10 @@ Temporary Items
 
 ### Hugo ###
 # Hugo binary
-hugo*
+hugo
+hugo.exe
+hugo.darwin
+hugo.linux
 
 # Generated files at default location
 /public/
