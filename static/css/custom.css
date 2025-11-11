@@ -111,8 +111,8 @@ header.hat {
 
 /* navbar */
 nav.navbar.navbar-default.navbar-fixed-top {
-    background-color: #aa0101;
-    border-bottom: #aa0101;
+    background-color: #0101aa;
+    border-bottom: #0101aa;
 }
 
 /* nav.navbar.navbar-default.navbar-fixed-top  a { */
@@ -120,28 +120,28 @@ nav.navbar.navbar-default.navbar-fixed-top {
 /* } */
 
 nav.navbar.navbar-default.navbar-fixed-top .active a {
-    background-color: #8e0000;
+    background-color: #010191;
 }
 
 nav.navbar.navbar-default.navbar-fixed-top a:hover {
-    background-color: #8e0000;
+    background-color: #010191;
 }
 
 /* navbar collapse colors */
 #navbar {
-    border-color: #8e0000;
+    border-color: #010191;
 }
  
 #navbar.navbar-collapse.collapse.in .active a {
-    background-color: #8e0000;
+    background-color: #010191;
 }
 
 #navbar.navbar-collapse.collapse.in a:hover {
-    background-color: #8e0000;
+    background-color: #010191;
 }
 
 .navbar-default .navbar-toggle:hover {
-    background-color: #8e0000;
+    background-color: #010191;
 }
 
 .navbar-title {
