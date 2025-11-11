@@ -1,13 +1,8 @@
 +++
 title = "Research"
 draft = false
-weight = -100
 author = false
 toc = false
-[menu]
-  [menu.main]
-    weight = 3002
-    identifier = "research"
 +++
 
 I have broad interests in epistemology, metaphysics, the philosophy of mind, and
@@ -37,15 +32,12 @@ cognition.
 
 If you&rsquo;re interested in a draft of any of the following please [email me](mailto:mclear@unl.edu).
 
--   Reason&rsquo;s Order: Kant on Rational Agency (book manuscript)
--   Kant on Time and Receptivity
--   Kant on Reason and Nature
 -   Hegel on the subjectivity of Kant&rsquo;s idealism
 
 
 ## Upcoming Conferences &amp; Presentations {#upcoming-conferences-and-presentations}
 
--   June 2022. &ldquo;Kant on Control &amp; Rationality.” Keynote speaker, Graduate Conference on Freedom, Action, and Control: Conceptions of Rational Agency in Kant and the European Enlightenment; University of Bucharest (online).
+-   June 2022. "Kant on Control &amp; Rationality.” Keynote speaker, Graduate Conference on Freedom, Action, and Control: Conceptions of Rational Agency in Kant and the European Enlightenment; University of Bucharest (online).
 -   May 2022. _Reason’s Order: Kant on the Conditions of Rational Agency_. Book workshop, University of Toronto.
 -   October 2021. &ldquo;Self-Consciousness &amp; Rationality.&rdquo; Colloquium, Department of Philosophy, University of Wisconsin--Madison.
 -   October 2021. &ldquo;Self-Consciousness &amp; Rationality.&rdquo; Kantian Rationality Lab,

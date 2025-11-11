@@ -2,7 +2,6 @@
 title = "Emacs Configurations"
 date = 2019-10-22T20:26:00-04:00
 tags = ["emacs", "geekery"]
-categories = ["computer"]
 draft = false
 toc = false
 type = "post"

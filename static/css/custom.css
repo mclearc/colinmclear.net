@@ -11,7 +11,7 @@ html {
 }
 
 body {
-    font-family: 'Helvetica', 'Open Sans', 'sans-serif';
+    font-family: 'Adobe Caslon Pro', 'Minion Pro', 'Helvetica', 'Open Sans', 'sans-serif';
     font-size: 17px; 
     line-height: 1.628571;
     height:100%;
@@ -21,17 +21,17 @@ body {
 }
 
 h1 {
-  font-family: Avenir,sans-serif;
+  font-family: Metropolis, Avenir,sans-serif;
   font-variant: small-caps;
 }
 
 h2 {
-  font-family: Avenir,sans-serif;
+  font-family: Metropolis, Avenir,sans-serif;
   font-variant: small-caps;
 }
 
 h3 {
-  font-family: Avenir,sans-serif;
+  font-family: Metropolis, Avenir,sans-serif;
   font-variant: small-caps;
 }
 

@@ -38,7 +38,7 @@ file.
 
 Here&rsquo;s what I have in mind:
 
-{{< figure src="/materials/images/ScreenShot52964.png" caption="Figure 1: Change Log" >}}
+{{< figure src="/materials/images/ScreenShot52964.png" caption="<span class=\"figure-number\">Figure 1: </span>Change Log" >}}
 
 You see here a series of entries going back over two years, with a description
 of what I took to be the most important changes at the time. I can then open
@@ -50,7 +50,7 @@ snapshot of the relevant files at the time, which I can retrieve at any point.
 I think this is a really nice way to track and visualize one&rsquo;s progress on
 some piece of writing. This is hard to do with standard word processors and
 their means of versioning, but very straightforward to do with a more
-sophisticated kind of [version control system](https://en.wikipedia.org/wiki/Revision%5Fcontrol). A version control system can
+sophisticated kind of [version control system](https://en.wikipedia.org/wiki/Revision_control). A version control system can
 manage changes to a file at an extremely fine level of grain--down to a line
 or character if necessary. While this system was originally adopted by
 programmers, it can also be very useful in academic writing (or really any
@@ -131,4 +131,5 @@ you&rsquo;ve made to a file, but don&rsquo;t want to deal with the more technica
 of setting up git and using it, there are also great web apps like [Penflip](https://www.penflip.com),
 which streamline much of the process.
 
-[^fn:1]: You might also look at [Mercurial](https://mercurial.selenic.com), which is a popular, and perhaps slightly easier to use, alternative to Git.
+[^fn:1]: You might also look at [Mercurial](https://mercurial.selenic.com), which is a popular, and perhaps
+    slightly easier to use, alternative to Git.

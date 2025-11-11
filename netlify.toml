@@ -1,17 +1,25 @@
 [build]
 publish = "public"
-command = "hugo -F"
+command = "hugo --gc --minify"
 
 [context.production.environment]
-HUGO_VERSION = "0.47.1"
+HUGO_VERSION = "0.139.3"
 HUGO_ENV = "production"
+HUGO_ENABLEGITINFO = "true"
 
 [context.deploy-preview]
-command = "hugo --buildFuture --buildDrafts"
+command = "hugo --gc --minify --buildFuture --buildDrafts"
 
 [context.deploy-preview.environment]
-HUGO_VERSION = "0.47.1"
+HUGO_VERSION = "0.139.3"
 
+[context.branch-deploy]
+command = "hugo --gc --minify"
+
+[context.branch-deploy.environment]
+HUGO_VERSION = "0.139.3"
+
+# Redirects from old Netlify URL to custom domain
 [[redirects]]
   from = "https://brave-bassi-fae73b.netlify.com/*"
   to = "https://www.colinmclear.net/:splat"
@@ -20,18 +28,12 @@ HUGO_VERSION = "0.47.1"
 
 [[redirects]]
   from = "http://brave-bassi-fae73b.netlify.com/*"
-  to = "http://www.colinmclear.net/:splat"
+  to = "https://www.colinmclear.net/:splat"
   status = 301
   force = true
 
 [[redirects]]
   from = "http://www.brave-bassi-fae73b.netlify.com/*"
   to = "https://www.colinmclear.net/:splat"
-  status = 301
-  force = true
-
-[[redirects]]
-  from = "http://brave-bassi-fae73b.netlify.com/*"
-  to = "http://www.colinmclear.net/:splat"
   status = 301
   force = true

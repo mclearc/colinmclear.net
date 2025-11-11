@@ -18,8 +18,8 @@ pdf, or rtf using a makefile. The nice thing about this is that you can, e.g.,
 hand out a nicely formatted PDF (or printout) of your syllabus at the
 beginning of the semester, and then keep a continually updated version on your
 course website as HTML, all without having to have multiple documents that
-you&rsquo;re editing. You can find the basic template on [Github](https://github.com/mclear-teaching-projects/syllabus%5Ftemplate) and an example from
-my [PHIL 101 class](http://phil101.colinmclear.net), also on [Github](https://github.com/mclear-teaching-projects/phil101/tree/master/Syllabus%5FIntro).
+you&rsquo;re editing. You can find the basic template on [Github](https://github.com/mclear-teaching-projects/syllabus_template) and an example from
+my [PHIL 101 class](http://phil101.colinmclear.net), also on [Github](https://github.com/mclear-teaching-projects/phil101/tree/master/Syllabus_Intro).
 
 The html and latex templates are pretty basic, but serviceable. You should be
 able to easily modify them to fit your particular needs.

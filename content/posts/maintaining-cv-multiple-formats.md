@@ -21,21 +21,21 @@ you need. I got the idea from looking at
 What you want to do is keep the CV info in a YAML file like so:
 
 ```text
-name: Immanuel Kant
-address: Königsberg, Prussia
-email: manny@copernicanrevolution.edu
+    name: Immanuel Kant
+    address: Königsberg, Prussia
+    email: manny@copernicanrevolution.edu
 
-AOS:
-- Aesthetics, Epistemology, Ethics, Metaphysics, Philosophy of Mind, Political Philosophy
+    AOS:
+    - Aesthetics, Epistemology, Ethics, Metaphysics, Philosophy of Mind, Political Philosophy
 
-AOC:
-- German Idealism, Philosophy of Religion
+    AOC:
+    - German Idealism, Philosophy of Religion
 
-experience:
-- years: 1770-1804
-  employer: University of Königsberg
-  job: Chair of Logic and Metaphysics
-  city: Königsberg, DE
+    experience:
+    - years: 1770-1804
+      employer: University of Königsberg
+      job: Chair of Logic and Metaphysics
+      city: Königsberg, DE
 ```
 
 Using pandoc, you can then convert this into a variety of formats,
@@ -44,12 +44,12 @@ format that you need. For example, you might template your employment
 history like so:
 
 ```text
-$for(experience)$
-  $experience.years$\\
-  \textsc{$experience.employer$}\\
-  \emph{$experience.job$}\\
-  $experience.city$\\[.2cm]
-$endfor$
+    $for(experience)$
+      $experience.years$\\
+      \textsc{$experience.employer$}\\
+      \emph{$experience.job$}\\
+      $experience.city$\\[.2cm]
+    $endfor$
 ```
 
 Pandoc then feeds the YAML info to LaTeX for PDF typesetting. You can

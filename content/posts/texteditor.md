@@ -17,7 +17,7 @@ available only to those with institutional affiliation), suffer from issues of
 feature-bloat and unnecessary make-overs, and use proprietary
 non-human-readable file formats.
 
-In contrast to the WYSIWIG editors stands the [text editor](https://en.wikipedia.org/wiki/Text%5Feditor). It operates on
+In contrast to the WYSIWIG editors stands the [text editor](https://en.wikipedia.org/wiki/Text_editor). It operates on
 plain text, human readable, files. And its main purpose is to parse text in
 the most efficient way possible. It does not (typically) display a page as it
 will look when printed. There are many, many text editors one can choose from
@@ -38,7 +38,7 @@ great.
 
 That said, there are some really useful things that you can do when writing in
 plain text and using a powerful (and often free) text editor, or command line
-tools made for manipulating text (like [cat](https://en.wikipedia.org/wiki/Cat%5F(Unix)), [grep](https://en.wikipedia.org/wiki/Grep) or [sed](https://en.wikipedia.org/wiki/Sed)). Here are a few
+tools made for manipulating text (like [cat](https://en.wikipedia.org/wiki/Cat_(Unix)), [grep](https://en.wikipedia.org/wiki/Grep) or [sed](https://en.wikipedia.org/wiki/Sed)). Here are a few
 reasons that I find compelling. I&rsquo;m sure there are others.
 
 1.  Search
@@ -46,12 +46,12 @@ reasons that I find compelling. I&rsquo;m sure there are others.
     Whether searching in a single file or across files, when writing in plain
     text it is really quite simple to perform searches looking for a particular
     word or combination of words. If you know the syntax for writing [regular
-    expressions](https://en.wikipedia.org/wiki/Regular%5Fexpression) the process is even easier. For example, from a directory of
+    expressions](https://en.wikipedia.org/wiki/Regular_expression) the process is even easier. For example, from a directory of
     notes I can search for the occurrence of particular words or phrases and
     then move to each occurrence (even if they are in separate files)
     seamlessly, all using just a text editor ([emacs](https://www.gnu.org/software/emacs/)) and a simple search
     command (in this case using emacs to [interface](https://github.com/Wilfred/ag.el) with a search program called
-    the [silver searcher](https://github.com/ggreer/the%5Fsilver%5Fsearcher) or &ldquo;ag&rdquo;).
+    the [silver searcher](https://github.com/ggreer/the_silver_searcher) or &ldquo;ag&rdquo;).
 
 2.  Version control
 
@@ -62,11 +62,11 @@ reasons that I find compelling. I&rsquo;m sure there are others.
     editing session. In the case of emacs there is the incomparable
     [Magit](https://github.com/magit/magit).
 
-3.  Outlining & Notetaking
+3.  Outlining &amp; Notetaking
 
     Since their main use is manipulating text, text editors are unsurprisingly
     great for outlining and notetakeing. For example, Vim has a great outlining
-    tool called [Voom](http://www.vim.org/scripts/script.php?script%5Fid=2657) and emacs has the incomparable [org-mode](http://orgmode.org). You can even use
+    tool called [Voom](http://www.vim.org/scripts/script.php?script_id=2657) and emacs has the incomparable [org-mode](http://orgmode.org). You can even use
     org-mode for keeping a [research wiki](http://stackoverflow.com/questions/26669280/setup-a-personal-wiki-in-emacs-org-mode) if that&rsquo;s you&rsquo;re thing. You can see a
     historian making use of vim&rsquo;s notetaking powers [here](http://wcm1.web.rice.edu/plain-text-citations.html).
 

@@ -15,15 +15,15 @@ forget in the future).
 
 I want to be able to turn something like the following:
 
-{{< figure src="/ox-hugo/Screen Shot 2021-10-16 at 12.34.44 AM.png" >}}
+{{< figure src="/Users/roambot/Pictures/screenshots/Screen Shot 2021-10-16 at 12.34.44 AM.png" >}}
 
 Into a nice looking set of PDF notes like this:
 
-{{< figure src="/ox-hugo/Screen Shot 2021-10-16 at 12.37.50 AM.png" >}}
+{{< figure src="/Users/roambot/Pictures/screenshots/Screen Shot 2021-10-16 at 12.37.50 AM.png" >}}
 
 Or a set of slides like this:
 
-{{< figure src="/ox-hugo/Screen Shot 2021-10-16 at 12.40.53 AM.png" >}}
+{{< figure src="/Users/roambot/Pictures/screenshots/Screen Shot 2021-10-16 at 12.40.53 AM.png" >}}
 
 
 ## Notes {#notes}
@@ -83,7 +83,7 @@ slightly shaded background. I&rsquo;ll put a link to the tex files where all of 
 specified at the end of this post.
 
 
-## Slides & Handouts {#slides-and-handouts}
+## Slides &amp; Handouts {#slides-and-handouts}
 
 The other thing I often need to do is create slides for a lecture or talk, as well as
 a handout. I like beamer with a custom version of the [Metropolis](https://github.com/matze/mtheme) theme. I don&rsquo;t want
@@ -208,4 +208,4 @@ For a look at the org-latex-classes you can check out the [github repository](ht
 also look at the above functions as they appear in my [dotfiles](https://github.com/mclear-tools/dotemacs/blob/master/setup-config/setup-teaching.el). And if you end up
 using fonts like the ones that I use above rather than something like computer
 modern, you&rsquo;ll have to remember to set xelatex as your processor. This means putting
-`#+LATEX_COMPILER: xelatex` at the top of your org file or related [setupfile](https://orgmode.org/manual/In%5F002dbuffer-Settings.html).
+`#+LATEX_COMPILER: xelatex` at the top of your org file or related [setupfile](https://orgmode.org/manual/In_002dbuffer-Settings.html).

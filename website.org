@@ -16,13 +16,15 @@
 :EXPORT_FILE_NAME: home
 :END:
 
-This site collects my [[/research][research]], [[/teaching][teaching]], and occasional [[/posts][blog posts]] on the history of modern philosophy and the philosophy of mind. My philosophical work focuses primarily on Kant and related figures in early modern philosophy and German Idealism, especially questions about perception, cognition, and self-knowledge. Formerly, I was Associate Professor of Philosophy at the University of Nebraska-Lincoln from 2013 to 2025, and I continue to work on these topics independently. My complete CV is available as [[file:/materials/McLearCV.pdf][PDF]] or [[file:/materials/McLearCV.html][HTML]].
+# Note that since we use PaperMod profileMode we need to update the subtitle in the toml file to change the home page!
+
+This site collects my [[/research][research]], [[/teaching][teaching]], and occasional [[/posts][blog posts]] on the history of modern philosophy and the philosophy of mind. My philosophical work focuses primarily on Kant and related figures in early modern philosophy and German Idealism, especially questions about perception, cognition, and self-knowledge.
+
+Formerly, I was Associate Professor of Philosophy at the University of Nebraska-Lincoln from 2013 to 2025, and I continue to work on these topics independently. My complete CV is available as [[file:/materials/McLearCV.pdf][PDF]] or [[file:/materials/McLearCV.html][HTML]].
 
 *** Research
 :PROPERTIES:
 :EXPORT_FILE_NAME: research
-:EXPORT_HUGO_WEIGHT: -100
-:EXPORT_HUGO_MENU: :menu main
 :END:
 
 I have broad interests in epistemology, metaphysics, the philosophy of mind, and
@@ -80,8 +82,6 @@ If you're interested in a draft of any of the following please [[mailto:mclear@u
 *** Teaching
 :PROPERTIES:
 :EXPORT_FILE_NAME: teaching
-:EXPORT_HUGO_WEIGHT: -50
-:EXPORT_HUGO_MENU: :menu main
 :END:
 
 At UNL I regularly taught courses on the history of modern philosophy, Kant, and German Idealism at both undergraduate and graduate levels, as well as introductory courses in philosophy. These included [[http://phil105.colinmclear.net][The Philosophy of Food (PHIL 105)]], [[file:/materials/course-syllabi/phil101-syllabus.pdf][Introduction to Philosophy (PHIL 101)]], [[file:/materials/course-syllabi/phil232-syllabus.pdf][History of Early Modern Philosophy (PHIL 232)]], and seminars on [[https://phil871.colinmclear.net][Kant (PHIL 471/871)]], [[https://phil880.colinmclear.net][German Idealism (PHIL 480/880)]], [[file:/materials/course-syllabi/kant-modern-syllabus.pdf][Early Modern Philosophy (PHIL 460/860)]], and related topics (PHIL 971). Course materials and syllabi from selected courses are available below.
@@ -101,8 +101,6 @@ At UNL I regularly taught courses on the history of modern philosophy, Kant, and
 *** Resources
 :PROPERTIES:
 :EXPORT_FILE_NAME: resources
-:EXPORT_HUGO_WEIGHT: 0
-:EXPORT_HUGO_MENU: :menu main
 :END:
 Here I collect links for research, teaching, technology, and whatever else I think might be useful.
 
@@ -171,8 +169,6 @@ Links to tools I use for research and writing
 *** Contact
 :PROPERTIES:
 :EXPORT_FILE_NAME: contact
-:EXPORT_HUGO_MENU: :menu main
-:EXPORT_HUGO_WEIGHT: 10
 :END:
 
 Dr. Colin McLear\\

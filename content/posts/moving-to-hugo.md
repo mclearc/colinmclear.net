@@ -8,8 +8,8 @@ type = "post"
 +++
 
 Another summer, another excuse to tinker with my website. I&rsquo;ve used [pelican](https://blog.getpelican.com), a
-python [static site generator](https://en.wikipedia.org/wiki/Web%5Ftemplate%5Fsystem#Static%5Fsite%5Fgenerators), to run this website for nearly six years. It&rsquo;s a
-great tool. But I dislike python [dependency hell](https://en.wikipedia.org/wiki/Dependency%5Fhell), and pelican is a bit slow.
+python [static site generator](https://en.wikipedia.org/wiki/Web_template_system#Static_site_generators), to run this website for nearly six years. It&rsquo;s a
+great tool. But I dislike python [dependency hell](https://en.wikipedia.org/wiki/Dependency_hell), and pelican is a bit slow.
 So I&rsquo;ve looked elsewhere. [Hugo](https://gohugo.io) is blazing fast, has a thriving community,
 decent templates, and a downloadable binary that you can get via [homebrew](https://brew.sh). No
 more dependency management! Also important for me (as an [emacs](https://www.gnu.org/software/emacs/) user), there is

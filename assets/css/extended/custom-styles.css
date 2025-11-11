@@ -1,0 +1,108 @@
+/* Custom CSS for Colin McLear's Academic Website */
+/* Based on previous custom styling, adapted for PaperMod */
+/* NOTE: Color variables are in theme-vars-override.css */
+
+/* Justify text on profile/landing page */
+.profile_inner span {
+    display: block;
+    text-align: justify;
+    max-width: 100%;
+}
+
+/* Sticky header */
+.header {
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+    background-color: #30608c;  /* Muted slate blue */
+    box-shadow: 0 2px 4px rgba(0,0,0,0.2);
+}
+
+/* Header text color to ensure readability */
+.header .logo,
+.header nav a {
+    color: #ffffff !important;  /* Pure white for better contrast */
+    font-weight: 500;
+}
+
+.header nav a:hover {
+    color: #f5f2f0 !important;
+    text-decoration: underline;
+}
+
+:root[data-theme="dark"] .header {
+    background-color: #4a5a7a;  /* Slightly darker blue for dark mode */
+    box-shadow: 0 2px 8px rgba(200,200,200,0.12), 0 4px 12px rgba(180,180,180,0.08);  /* Subtle gray shadow for dark mode */
+}
+
+.list {
+    background-color: var(--theme);
+}
+
+/* Typography */
+body {
+    font-family: 'Roboto', 'SF Pro Disply', 'Helvetica', 'Open Sans', sans-serif;
+    font-size: 17px;
+    line-height: 1.628571;
+}
+
+h1, h2, h3 {
+    font-family: 'Minion Pro', 'Adobe Caslon Pro', 'Big Caslon', 'Georgia', 'Garamond';
+    font-variant: small-caps;
+}
+
+/* Links - use theme colors but add underlines for better visibility */
+.post-content a,
+.page-content a,
+.main a {
+    text-decoration: none;
+    border-bottom: 1px dotted var(--primary);
+}
+
+.post-entry {
+    background: var(--code-bg);
+}
+
+.post-content a:hover,
+.page-content a:hover,
+.main a:hover {
+    border-bottom: 1px solid var(--primary);
+}
+
+/* Profile page links should not have underlines */
+.profile-mode a {
+    border-bottom: none;
+}
+
+/* Maintain text justification for paragraphs */
+.post-content p,
+.page-content p {
+    text-align: justify;
+}
+
+/* Code blocks - inherit from PaperMod but adjust if needed */
+code {
+    font-family: inherit;
+    font-size: 100%;
+}
+
+/* Responsive images */
+img {
+    display: block;
+    max-width: 100%;
+    height: auto;
+}
+
+/* Responsive video */
+iframe {
+    max-width: 100%;
+}
+
+/* PhilPeople widget adjustments for dark mode */
+:root[data-theme="dark"] #philpeople-component-follow_btn {
+    filter: invert(1) hue-rotate(180deg);
+}
+
+:root[data-theme="dark"] #ppl-widget {
+    filter: invert(1) hue-rotate(180deg);
+}

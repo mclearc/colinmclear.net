@@ -1,3 +1,6 @@
 [submodule "themes/bootstrap-premium"]
 	path = themes/bootstrap-premium
 	url = https://github.com/appernetic/hugo-bootstrap-premium.git
+[submodule "themes/PaperMod"]
+	path = themes/PaperMod
+	url = https://github.com/adityatelange/hugo-PaperMod.git
