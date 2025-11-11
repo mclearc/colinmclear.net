@@ -6,7 +6,6 @@
 ** Pages
 :PROPERTIES:
 :EXPORT_HUGO_SECTION: ./
-:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :author false :toc false
 :END:
 #+LANGUAGE: en
 #+OPTIONS: ':t
