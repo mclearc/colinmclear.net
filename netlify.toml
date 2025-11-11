@@ -3,7 +3,7 @@ publish = "public"
 command = "hugo --gc --minify"
 
 [context.production.environment]
-HUGO_VERSION = "0.140.2"
+HUGO_VERSION = "0.146.0"
 HUGO_ENV = "production"
 HUGO_ENABLEGITINFO = "true"
 
@@ -11,13 +11,13 @@ HUGO_ENABLEGITINFO = "true"
 command = "hugo --gc --minify --buildFuture --buildDrafts"
 
 [context.deploy-preview.environment]
-HUGO_VERSION = "0.140.2"
+HUGO_VERSION = "0.146.0"
 
 [context.branch-deploy]
 command = "hugo --gc --minify"
 
 [context.branch-deploy.environment]
-HUGO_VERSION = "0.140.2"
+HUGO_VERSION = "0.146.0"
 
 # Redirects from old Netlify URL to custom domain
 [[redirects]]
