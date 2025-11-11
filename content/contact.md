@@ -1,7 +1,6 @@
 +++
 title = "Contact"
 draft = false
-author = false
 toc = false
 +++
 

@@ -1,7 +1,6 @@
 +++
 title = "Teaching"
 draft = false
-author = false
 toc = false
 +++
 

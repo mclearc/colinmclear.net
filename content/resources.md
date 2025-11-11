@@ -1,7 +1,6 @@
 +++
 title = "Resources"
 draft = false
-author = false
 toc = false
 +++
 

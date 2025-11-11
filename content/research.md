@@ -1,7 +1,6 @@
 +++
 title = "Research"
 draft = false
-author = false
 toc = false
 +++
 
