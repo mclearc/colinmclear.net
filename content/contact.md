@@ -1,6 +1,7 @@
 +++
 title = "Contact"
 draft = false
+hidemeta = true
 +++
 
 Dr. Colin McLear<br />

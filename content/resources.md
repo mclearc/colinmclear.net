@@ -1,6 +1,7 @@
 +++
 title = "Resources"
 draft = false
+hidemeta = true
 +++
 
 Here I collect links for research, teaching, technology, and whatever else I think might be useful.

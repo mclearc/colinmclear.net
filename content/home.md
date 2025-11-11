@@ -1,6 +1,7 @@
 +++
 title = "Welcome!"
 draft = false
+hidemeta = true
 +++
 
 This site collects my [research](/research), [teaching](/teaching), and occasional [blog posts](/posts) on the history of modern philosophy and the philosophy of mind. My philosophical work focuses primarily on Kant and related figures in early modern philosophy and German Idealism, especially questions about perception, cognition, and self-knowledge.

@@ -1,6 +1,7 @@
 +++
 title = "Research"
 draft = false
+hidemeta = true
 +++
 
 I have broad interests in epistemology, metaphysics, the philosophy of mind, and
