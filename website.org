@@ -16,13 +16,7 @@
 :EXPORT_FILE_NAME: home
 :END:
 
-I am an Associate Professor in the [[http://www.unl.edu/philosophy/][Department of Philosophy]] at the University
-of Nebraska-Lincoln. My work focuses on two (often intersecting) areas of
-philosophy -- the History of Modern Philosophy (especially Kant) and the
-Philosophy of Mind. Here you'll find links to my [[/research][research]] and [[/teaching][teaching]], as
-well as the occasional [[/posts][blog post]]. 
-
-If you're interested, here's my complete CV: [[file:/materials/McLearCV.pdf][PDF]] | [[file:/materials/McLearCV.html][HTML]].
+This site collects my [[/research][research]], [[/teaching][teaching]], and occasional [[/posts][blog posts]] on the history of modern philosophy and the philosophy of mind. My philosophical work focuses primarily on Kant and related figures in early modern philosophy and German Idealism, especially questions about perception, cognition, and self-knowledge. Formerly, I was Associate Professor of Philosophy at the University of Nebraska-Lincoln from 2013 to 2025, and I continue to work on these topics independently. My complete CV is available as [[file:/materials/McLearCV.pdf][PDF]] or [[file:/materials/McLearCV.html][HTML]].
 
 *** Research
 :PROPERTIES:
@@ -57,9 +51,6 @@ cognition.
 
 If you're interested in a draft of any of the following please [[mailto:mclear@unl.edu][email me]].
 
-- Reason's Order: Kant on Rational Agency (book manuscript)
-- Kant on Time and Receptivity
-- Kant on Reason and Nature
 - Hegel on the subjectivity of Kant's idealism
 
 # - "Actuality and intuition"
@@ -93,11 +84,7 @@ If you're interested in a draft of any of the following please [[mailto:mclear@u
 :EXPORT_HUGO_MENU: :menu main
 :END:
 
-I regularly teach the The Philosophy of Food ([[http://phil105.colinmclear.net][PHIL 105]]), Introduction to Philosophy
-([[file:/materials/course-syllabi/phil101-syllabus.pdf][PHIL 101]]), an undergraduate survey of 'modern' philosophy of the seventeenth and
-eighteenth centuries ([[file:/materials/course-syllabi/phil232-syllabus.pdf][PHIL 232]]), and undergraduate and graduate level courses on
-Early Modern ([[file:/materials/course-syllabi/kant-modern-syllabus.pdf][PHIL 460​/860]]), Kant ([[https://phil871.colinmclear.net][PHIL 471​/871]]), German Idealism ([[https://phil880.colinmclear.net][PHIL 480/880]]), and
-a regular research seminar on related topics (PHIL 971).
+At UNL I regularly taught courses on the history of modern philosophy, Kant, and German Idealism at both undergraduate and graduate levels, as well as introductory courses in philosophy. These included [[http://phil105.colinmclear.net][The Philosophy of Food (PHIL 105)]], [[file:/materials/course-syllabi/phil101-syllabus.pdf][Introduction to Philosophy (PHIL 101)]], [[file:/materials/course-syllabi/phil232-syllabus.pdf][History of Early Modern Philosophy (PHIL 232)]], and seminars on [[https://phil871.colinmclear.net][Kant (PHIL 471/871)]], [[https://phil880.colinmclear.net][German Idealism (PHIL 480/880)]], [[file:/materials/course-syllabi/kant-modern-syllabus.pdf][Early Modern Philosophy (PHIL 460/860)]], and related topics (PHIL 971). Course materials and syllabi from selected courses are available below.
 
 **** Previously Taught
 - PHIL 232 (Yearly): History of Early Modern Philosophy
@@ -117,8 +104,7 @@ a regular research seminar on related topics (PHIL 971).
 :EXPORT_HUGO_WEIGHT: 0
 :EXPORT_HUGO_MENU: :menu main
 :END:
-
-Here I collect links for research, teaching, technology, and whatever else might be useful.
+Here I collect links for research, teaching, technology, and whatever else I think might be useful.
 
 **** Philosophy Links
 - [[http://plato.stanford.edu][Stanford Encyclopedia of Philosophy]]
@@ -190,13 +176,11 @@ Links to tools I use for research and writing
 :END:
 
 Dr. Colin McLear\\
-Office: 315P Louise Pound Hall\\
-Office Hours: Thursday, 10-12 p.m. or by appointment. ([[https://unl.zoom.us/j/94199866851][Zoom link]])\\
-Email: [[mailto:mclear@unl.edu][mclear@unl.edu]] \\ 
-Phone: (402) 472-2425 \\
+Email: [[mailto:mclear@fastmail.com][mclear@fastmail.com]] \\
+
 
 Email is the best way to reach me. I answer emails as soon as I can, but
-primarily only on /weekdays/. 
+typically only on /weekdays/.
 
   
 
