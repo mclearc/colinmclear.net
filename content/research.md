@@ -1,8 +1,6 @@
 +++
 title = "Research"
 draft = false
-author = false
-toc = false
 +++
 
 I have broad interests in epistemology, metaphysics, the philosophy of mind, and

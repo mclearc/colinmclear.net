@@ -1,8 +1,6 @@
 +++
 title = "Resources"
 draft = false
-author = false
-toc = false
 +++
 
 Here I collect links for research, teaching, technology, and whatever else I think might be useful.

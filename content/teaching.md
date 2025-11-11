@@ -1,8 +1,6 @@
 +++
 title = "Teaching"
 draft = false
-author = false
-toc = false
 +++
 
 At UNL I regularly taught courses on the history of modern philosophy, Kant, and German Idealism at both undergraduate and graduate levels, as well as introductory courses in philosophy. These included [The Philosophy of Food (PHIL 105)](http://phil105.colinmclear.net), [Introduction to Philosophy (PHIL 101)](/materials/course-syllabi/phil101-syllabus.pdf), [History of Early Modern Philosophy (PHIL 232)](/materials/course-syllabi/phil232-syllabus.pdf), and seminars on [Kant (PHIL 471/871)](https://phil871.colinmclear.net), [German Idealism (PHIL 480/880)](https://phil880.colinmclear.net), [Early Modern Philosophy (PHIL 460/860)](/materials/course-syllabi/kant-modern-syllabus.pdf), and related topics (PHIL 971). Course materials and syllabi from selected courses are available below.

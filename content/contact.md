@@ -1,8 +1,6 @@
 +++
 title = "Contact"
 draft = false
-author = false
-toc = false
 +++
 
 Dr. Colin McLear<br />
