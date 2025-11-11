@@ -1,6 +1,7 @@
 +++
 title = "Welcome!"
 draft = false
+author = false
 toc = false
 +++
 

@@ -15,15 +15,15 @@ forget in the future).
 
 I want to be able to turn something like the following:
 
-{{< figure src="/ox-hugo/Screen Shot 2021-10-16 at 12.34.44 AM.png" >}}
+{{< figure src="/Users/roambot/Pictures/screenshots/Screen Shot 2021-10-16 at 12.34.44 AM.png" >}}
 
 Into a nice looking set of PDF notes like this:
 
-{{< figure src="/ox-hugo/Screen Shot 2021-10-16 at 12.37.50 AM.png" >}}
+{{< figure src="/Users/roambot/Pictures/screenshots/Screen Shot 2021-10-16 at 12.37.50 AM.png" >}}
 
 Or a set of slides like this:
 
-{{< figure src="/ox-hugo/Screen Shot 2021-10-16 at 12.40.53 AM.png" >}}
+{{< figure src="/Users/roambot/Pictures/screenshots/Screen Shot 2021-10-16 at 12.40.53 AM.png" >}}
 
 
 ## Notes {#notes}
